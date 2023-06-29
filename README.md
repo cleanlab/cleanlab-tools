@@ -1,2 +1,6 @@
 # cleanlab-tools
 Miscellaneous code made available for purposes of education, reproducibility, and transparency
+
+|     | Example                                                                                        | Description                                                                                                                                                                                                                                                                  |
+| --- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | [few_shot_prompt_selection](few_shot_prompt_selection/few_shot_prompt_selection.ipynb) | Notebook showing use of Cleanlab Studio to clean few-shot examples pool to increase accuracy of OpenAI LLM.|
