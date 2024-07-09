@@ -9,4 +9,5 @@ Miscellaneous code made available for purposes of education, reproducibility, an
 | 4 | [gpt4-rag-logprobs](gpt4-rag-logprobs/gpt4-rag-logprobs.ipynb) | Notebook showing how to obtain logprobs from a GPT-4 based RAG system.|
 | 5 | [fine_tuning_mistral_beavertails](fine_tuning_mistral_beavertails/beavertails.ipynb) | Analyze human annotated AI-safety-related labels (like toxicity) using Cleanlab Studio, and thus generate safer responses from LLMs.|
 | 6 | [Evaluating_Toxicity_Datasets_Large_Language_Models](jigsaw_ai_safety_keras/Evaluating_Toxicity_Datasets_Large_Language_Models.ipynb) | Notebook on analyzing toxicity annotations in the Jigsaw dataset using Cleanlab Studio.|
-| 7 | [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb)               | Notebook showing how to model time series data in a tabular format and use AutoML with Cleanlab Studio to improve out-of-sample accuracy. |
+| 7 | [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb) | Notebook showing how to model time series data in a tabular format and use AutoML with Cleanlab Studio to improve out-of-sample accuracy. |
+| 8 | [fine_tuning_classification](fine_tuning_classification/fine_tuning_LLM_with_noisy_labels.ipynb) | Notebook showing how to use Cleanlab Studio to improve the accuracy of fine-tuned LLMs for classification tasks.
