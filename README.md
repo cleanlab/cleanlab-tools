@@ -12,3 +12,4 @@ Miscellaneous code made available for purposes of education, reproducibility, an
 | 7 | [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb) | Notebook showing how to model time series data in a tabular format and use AutoML with Cleanlab Studio to improve out-of-sample accuracy. |
 | 8 | [fine_tuning_classification](fine_tuning_classification/fine_tuning_LLM_with_noisy_labels.ipynb) | Notebook showing how to use Cleanlab Studio to improve the accuracy of fine-tuned LLMs for classification tasks.
 | 9 | [benchmarking_hallucination_metrics](benchmarking_hallucination_metrics/benchmark_hallucination_metrics.ipynb) | Notebook that compares the performance of popular hallucination detection metrics on a set of hallucination benchmarks.
+| 10 | [TLM-Demo-Notebook](TLM-Demo-Notebook/TLM-Demo.ipynb) | A demo notebook showcasing various TLM applications
