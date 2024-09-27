@@ -5,6 +5,7 @@ Miscellaneous cookbooks and code made available for purposes of education, repro
 | Example                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | [TLM-Demo-Notebook](TLM-Demo-Notebook/TLM-Demo.ipynb) | A demo notebook showcasing various TLM applications
+| [Reliable RAG with Pinecone and Cleanlab](cleanlab_pinecone_rag_workflow/Cleanlab_Pinecone_RAG.ipynb) | Notebook showing how to use Pinecone + Cleanlab's TLM to build an accurate, reliable, and trustworthy RAG System. |
 | [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | A tutorial showcasing how Cleanlab's Trustworthy Language Model (TLM) can be used for record matching use cases. In particular, this shows how TLM can reliably match records between two different data tables, achieving higher levels of accuracy than existing methods.
 | [benchmarking_hallucination_metrics](benchmarking_hallucination_metrics/benchmark_hallucination_metrics.ipynb) | Notebook that compares the performance of popular hallucination detection metrics on a set of hallucination benchmarks.
 | [fine_tuning_data_curation](fine_tuning_data_curation/fine_tuning_data_curation.ipynb) | Notebook showing how to use Cleanlab TLM and Cleanlab Studio to detect bad data in instruction tuning LLM datasets.                       |
@@ -15,4 +16,3 @@ Miscellaneous cookbooks and code made available for purposes of education, repro
 | [fine_tuning_mistral_beavertails](fine_tuning_mistral_beavertails/beavertails.ipynb) | Analyze human annotated AI-safety-related labels (like toxicity) using Cleanlab Studio, and thus generate safer responses from LLMs.|
 | [Evaluating_Toxicity_Datasets_Large_Language_Models](jigsaw_ai_safety_keras/Evaluating_Toxicity_Datasets_Large_Language_Models.ipynb) | Notebook on analyzing toxicity annotations in the Jigsaw dataset using Cleanlab Studio.|
 | [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb) | Notebook showing how to model time series data in a tabular format and use AutoML with Cleanlab Studio to improve out-of-sample accuracy. |
-
