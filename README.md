@@ -1,5 +1,6 @@
 # cleanlab-tools
-Miscellaneous code made available for purposes of education, reproducibility, and transparency
+Miscellaneous cookbooks and code made available for purposes of education, reproducibility, and transparency.
+
 
 |   | Example                                                                                | Description                                                                                                                               |
 |---|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
