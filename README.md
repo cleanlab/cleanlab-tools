@@ -4,7 +4,7 @@ Miscellaneous cookbooks and code made available for purposes of education, repro
 
 | Example                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| [TLM GDPR Detection](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Notebook showing the code used to analyze application logs using TLM to detect GDPR violations
+| [Detecting GDPR Violations with TLM](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Notebook showing the code used to analyze application logs using TLM to detect GDPR violations
 | [TLM-Demo-Notebook](TLM-Demo-Notebook/TLM-Demo.ipynb) | A demo notebook showcasing various TLM applications
 | [Reliable RAG with Pinecone and Cleanlab](cleanlab_pinecone_rag_workflow/Cleanlab_Pinecone_RAG.ipynb) | Notebook showing how to use Pinecone + Cleanlab's TLM to build an accurate, reliable, and trustworthy RAG System. |
 | [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | A tutorial showcasing how Cleanlab's Trustworthy Language Model (TLM) can be used for record matching use cases. In particular, this shows how TLM can reliably match records between two different data tables, achieving higher levels of accuracy than existing methods.
