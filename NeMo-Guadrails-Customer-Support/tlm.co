@@ -1,8 +1,0 @@
-define flow cleanlab trustworthiness
-    $result = execute call cleanlab api
-    if $result.trustworthiness_score < 0.7
-        bot respond untrustworthy
-        stop
-
-define bot respond untrustworthy
-    "I'm sorry, I am unable to help with this request. I'll connect you with another agent who can help..."
