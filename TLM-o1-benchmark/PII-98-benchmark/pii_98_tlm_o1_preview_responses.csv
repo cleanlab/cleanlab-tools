@@ -1,4 +1,4 @@
-prompt,ground_truth,response,trustworthiness_score,is_correct
+prompt,ground_truth,response_tlm_o1_preview,trustworthiness_score,is_correct
 "Your task is to extract first name from the text.
 Please return only the first name as your answer and nothing else.
 If there is no first name mentioned in the text, return 'Not Present'

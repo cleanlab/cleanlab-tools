@@ -1,4 +1,4 @@
-prompt,ground_truth,tlm_best_o1_response,confidence_score,human_label
+prompt,ground_truth,response_tlm_o1_preview,confidence_score,human_label
 """Which boxer famously said,"""" If I can't beat this bum take my name off the record books?""""""
 Therefore, the answer is","['rocco francis marchegiano', 'rocky marciano', 'brockton bomber', 'marciano rocky', 'brockton blockbuster', 'rocco marchegiano']","As of my knowledge cutoff in September 2021, there is no widely documented record of a boxer famously saying, ""**If I can't beat this bum, take my name off the record books.**"" It's possible that this quote is either apocryphal or not attributed to any well-known boxer in major historical records.
 

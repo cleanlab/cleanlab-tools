@@ -1,4 +1,4 @@
-prompt,ground_truth,tlm_o1_preview_response,confidence_score,human_label_tlm_o1_preview,openai_o1_preview_response,human_label_openai_o1_preview
+prompt,ground_truth,response_tlm_o1_preview,confidence_score,human_label_tlm_o1_preview,response_openai_o1_preview,human_label_openai_o1_preview
 "Who created the ‘A’ Line in 1955?
 Therefore, the answer is","['jacques benita', 'dior monsieur', 'christian dior']",Christian Dior created the 'A' Line in 1955.,0.9891127871,1,"Christian Dior, the renowned French fashion designer, created the ""A-Line"" silhouette in 1955.",1
 "Who was the first US-born winner of golf's British Open?

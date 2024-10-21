@@ -1,4 +1,4 @@
-prompt,ground_truth,confidence_score_tlm_o1_preview,tlm_best_o1_preview_response,human_label_tlm_o1_preview,openai_o1_preview_response,human_label_o1_preview
+prompt,ground_truth,confidence_score_tlm_o1_preview,response_tlm_o1_preview,human_label_tlm_o1_preview,response_openai_o1_preview,human_label_o1_preview
 "Faye was placing her pencils and crayons into 16 rows with 6 crayons and 21 pencils in each row. How many crayons does she have?
 Therefore, the answer (arabic numerals) is: ",96,0.9752676607,"To find the total number of crayons, we multiply the number of rows by the number of crayons per row:
 

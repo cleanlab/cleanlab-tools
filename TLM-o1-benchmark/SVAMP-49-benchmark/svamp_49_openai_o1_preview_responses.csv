@@ -1,4 +1,4 @@
-prompt,ground_truth,openai_o1_preview_response,is_correct
+prompt,ground_truth,response_openai_o1_preview,is_correct
 "Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially How many crackers and cakes did each person eat?
 Therefore, the answer (arabic numerals) is: ",1,"To solve this problem, we need to determine how many crackers and cakes each of Matthew's 28 friends received, given that Matthew had 13 crackers and 15 cakes initially.
 
