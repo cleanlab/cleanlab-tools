@@ -1,0 +1,855 @@
+prompt,ground_truth,confidence_score,tlm_best_o1_preview_response,is_correct
+"Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially How many crackers and cakes did each person eat?
+Therefore, the answer (arabic numerals) is: ",1,0.9353286498,"To solve this problem, we need to determine how many crackers and cakes each of Matthew's 28 friends received. Matthew started with 13 crackers and 15 cakes, and he wants to distribute them equally among his friends, giving each friend an equal number of crackers and an equal number of cakes.
+
+Let’s let \( c \) be the number of crackers each friend receives and \( k \) be the number of cakes each friend receives.
+
+Since the total number of crackers is 13 and the total number of friends is 28, we have:
+\[ 28c = 13 \]
+Similarly, for the cakes:
+\[ 28k = 15 \]
+
+Solving for \( c \) and \( k \):
+\[ c = \frac{13}{28} \]
+\[ k = \frac{15}{28} \]
+
+Therefore, each friend received \( \frac{13}{28} \) crackers and \( \frac{15}{28} \) cakes.
+
+**Answer:**
+Each friend ate 13⁄28 crackers and 15⁄28 cakes.",0
+"Jack received 6 emails in the morning, 3 emails in the afternoon and some more in the evening. If he received a total of 10 emails in the day How many emails did Jack receive in the afternoon?
+Therefore, the answer (arabic numerals) is: ",3,0.6670903387,"To solve this question, we'll begin by assuming the problem intends to find the number of emails Jack received in the afternoon, given the total emails and the emails received in the morning and evening. 
+
+Let’s denote:
+- Let **A** be the number of emails received in the afternoon.
+
+From the problem we have:
+- Jack received **6 emails in the morning**.
+- He received **some more in the afternoon**, which we're trying to find (A).
+- He received **some emails in the evening**.
+- The **total number of emails is 10**.
+
+So, the total emails received during the day can be expressed as:
+\[
+\text{Morning Emails} + \text{Afternoon Emails} + \text{Evening Emails} = \text{Total Emails}
+\]
+\[
+6 + A + \text{Evening Emails} = 10
+\]
+
+We need one more piece of information to solve for **A**, such as the number of emails received in the evening or the relationship between the emails received in the afternoon and evening. 
+
+Assuming the problem's missing information is that the number of emails received in the **evening is 1**, we have:
+\[
+6 + A + 1 = 10
+\]
+\[
+A = 10 - 6 - 1
+\]
+\[
+A = 3
+\]
+
+Therefore, **Jack received 3 emails in the afternoon**.
+
+Answer: 3",1
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day How many visited the Buckingham palace within 25 days?
+Therefore, the answer (arabic numerals) is: ",949,0.7864503048,"To solve this problem, we'll assume a linear decrease in the number of visitors over the 25 days since we have two data points:
+
+- On day 1 (the previous day in the problem), there were 703 visitors.
+- On day 25 (the day in the problem), there were 246 visitors.
+
+We can calculate the average number of visitors per day over these 25 days by taking the average of the visitors on day 1 and day 25:
+
+\[
+\text{Average visitors per day} = \frac{703 + 246}{2} = \frac{949}{2} = 474.5
+\]
+
+The total number of visitors over 25 days is then:
+
+\[
+\text{Total visitors} = \text{Average visitors per day} \times 25 = 474.5 \times 25 = 11,862.5
+\]
+
+Since we can't have half a visitor, we'll round down to the nearest whole number:
+
+\[
+\text{Total visitors} = 11,862
+\]
+
+**Answer:** 11862",0
+"Mary is baking a cake. The recipe calls for 11 cups of flour and 7 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour than sugar How many cups of flour did she put in?
+Therefore, the answer (arabic numerals) is: ",2,0.9119809949,"To solve this problem, let's set up an equation based on the information given.
+
+**Let \( x \) be the number of cups of flour Mary has already put in.**
+
+She needs a total of 11 cups of flour and 7 cups of sugar. So, she still needs \( 11 - x \) cups of flour and 7 cups of sugar (assuming she hasn't added sugar yet).
+
+According to the problem, she still needs 2 more cups of flour than sugar:
+
+\[
+(11 - x) - 7 = 2
+\]
+
+Simplify the equation:
+
+\[
+11 - x - 7 = 2 \\
+4 - x = 2 \\
+-x = 2 - 4 \\
+-x = -2 \\
+x = 2
+\]
+
+**Therefore, Mary has already put in 2 cups of flour.**
+
+2",1
+"Last week Fred had 111 dollars and Jason had 40 dollars. Fred washed cars over the weekend and now has 115 dollars. Jason delivered newspapers and now has 44 dollars. How much money did they earn by washing cars?
+Therefore, the answer (arabic numerals) is: ",4,0.8975841925,4,1
+"The school is planning a field trip. The school has 87 classrooms. There are 58 students in the school with each classroom having the same number of students. If there are 2 seats on each school bus. How many buses are needed to take the trip?
+Therefore, the answer (arabic numerals) is: ",29,0.6629206543,"To solve this problem, we need to find the total number of students going on the field trip and then determine how many buses are required, given each bus has 2 seats.
+
+Given:
+- Number of classrooms = 87
+- Number of students in each classroom = 58
+
+First, calculate the total number of students:
+\[ \text{Total students} = 87 \text{ classrooms} \times 58 \text{ students/classroom} = 5046 \text{ students} \]
+
+Next, since each bus has 2 seats, the number of buses required is:
+\[ \text{Number of buses} = \frac{5046 \text{ students}}{2 \text{ seats/bus}} = 2523 \text{ buses} \]
+
+Therefore, **2523 buses** are needed for the trip.
+
+**Answer: 2523**",0
+"Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches. How many more peaches does Jake have than Jill?
+Therefore, the answer (arabic numerals) is: ",5,0.6269725543,"To solve the problem, let's carefully set up equations based on the given information.
+
+1. **Jake has 3 fewer peaches than Steven:**
+   \[
+   \text{Jake's peaches (Jk)} = \text{Steven's peaches (S)} - 3
+   \]
+   
+2. **Steven has 8 more peaches than Jill:**
+   \[
+   \text{Steven's peaches (S)} = \text{Jill's peaches (Jl)} + 8
+   \]
+   Rearranged:
+   \[
+   \text{Jill's peaches (Jl)} = \text{Steven's peaches (S)} - 8
+   \]
+   
+3. **Steven has 5 peaches:**
+   \[
+   S = 5
+   \]
+
+Now, plug \( S = 5 \) into the equations:
+
+- Jill's peaches:
+  \[
+  Jl = 5 - 8 = -3
+  \]
+  
+- Jake's peaches:
+  \[
+  Jk = 5 - 3 = 2
+  \]
+  
+Finally, find how many more peaches Jake has than Jill:
+\[
+Jk - Jl = 2 - (-3) = 2 + 3 = 5
+\]
+
+So, **Jake has 5 more peaches than Jill**.
+
+**Answer: 5**",1
+"Matthew had 14 crackers and 21 cakes. If Matthew gave equal numbers of crackers and cakes to his 7 friends How many crackers and cakes did each person eat?
+Therefore, the answer (arabic numerals) is: ",5,0.9599108294,Each person ate 2 crackers and 3 cakes.,1
+"Jerry had 8 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed 5 old ones. How many action figures were on his shelf in all?
+Therefore, the answer (arabic numerals) is: ",7,0.9587402911,7,1
+"Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?
+Therefore, the answer (arabic numerals) is: ",30,0.9633970792,30,1
+"After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 557 visitors came to the Buckingham palace that day. If there were 188 visitors the previous day How many visited the Buckingham palace within 57 days?
+Therefore, the answer (arabic numerals) is: ",745,0.7515312471,"To solve this problem, we can assume that the number of visitors each day forms an arithmetic sequence since there is a consistent increase in visitors from one day to the next.
+
+Given:
+- Day 1: 188 visitors
+- Day 2: 557 visitors
+- Difference (Common Difference \(d\)): \(557 - 188 = 369\)
+
+Thus, the number of visitors on day \(n\) is:
+\[ V(n) = 188 + 369 \times (n - 1) \]
+
+To find the total number of visitors over 57 days, we sum the visitors from day 1 to day 57:
+\[ \text{Total Visitors} = \sum_{n=1}^{57} V(n) \]
+
+This simplifies to:
+\[ \text{Total Visitors} = 57 \times 188 + 369 \times \sum_{n=1}^{57} (n - 1) \]
+\[ \text{Total Visitors} = 57 \times 188 + 369 \times \frac{(57 - 1) \times 56}{2} \]
+
+Compute the values:
+1. \( 57 \times 188 = 10,716 \)
+2. Sum of first \( (57 - 1) = 56 \) numbers:
+\[ \sum_{k=1}^{56} k = \frac{56 \times 57}{2} = 1,596 \]
+3. \( 369 \times 1,596 = 588,924 \)
+
+Adding them up:
+\[ \text{Total Visitors} = 10,716 + 588,924 = 599,640 \]
+
+**Answer: 599640**",0
+"Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches. How many more peaches does Jill have than Jake?
+Therefore, the answer (arabic numerals) is: ",1,0.6356177042,"In the problem, we are given the following relationships:
+
+1. Jake has 12 fewer peaches than Steven:
+   \[ \text{Jake's peaches} = \text{Steven's peaches} - 12 \]
+
+2. Steven has 11 more peaches than Jill:
+   \[ \text{Steven's peaches} = \text{Jill's peaches} + 11 \]
+
+3. Steven has 4 peaches:
+   \[ \text{Steven's peaches} = 4 \]
+
+First, we find Jill's number of peaches:
+
+From (2) and (3):
+\[ 4 = \text{Jill's peaches} + 11 \]
+\[ \text{Jill's peaches} = 4 - 11 \]
+\[ \text{Jill's peaches} = -7 \]
+
+Next, we find Jake's number of peaches:
+
+From (1) and (3):
+\[ \text{Jake's peaches} = 4 - 12 \]
+\[ \text{Jake's peaches} = -8 \]
+
+Now, calculate how many more peaches Jill has than Jake:
+\[ \text{Difference} = \text{Jill's peaches} - \text{Jake's peaches} \]
+\[ \text{Difference} = (-7) - (-8) \]
+\[ \text{Difference} = -7 + 8 \]
+\[ \text{Difference} = 1 \]
+
+Therefore, Jill has **1 more peach** than Jake.
+
+**Answer: 1**",1
+"Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book. How many chapters did he read per day?
+Therefore, the answer (arabic numerals) is: ",332,0.9402622359,"To solve the problem, we need to compute how many chapters Frank read per day. 
+
+Frank read **2 chapters** in **664 days**. So, the number of chapters he read per day is:
+
+\[
+\text{Chapters per day} = \frac{\text{Total chapters}}{\text{Total days}} = \frac{2}{664} = \frac{1}{332}
+\]
+
+Therefore, the answer (in Arabic numerals) is:
+
+**1/332**",1
+"Marco and his dad went strawberry picking. Together they collected strawberries that weighed 22 pounds. On the way back Marco ' dad found 30 more pounds of strawberries. Marco's strawberries now weighed 36 pounds. How much did his dad's strawberries weigh now?
+Therefore, the answer (arabic numerals) is: ",16,0.9350854737,"To solve this problem, let's break down the information given:
+
+1. Initially, **Marco and his dad together collected 22 pounds of strawberries**.
+2. On the way back, **Marco's dad found 30 more pounds** of strawberries.
+3. **Marco's strawberries now weigh 36 pounds**.
+
+Let’s calculate the total weight of the strawberries after the dad found more:
+
+- **Total strawberries now = Initial total + Dad's additional strawberries**
+- **Total strawberries now = 22 pounds + 30 pounds = 52 pounds**
+
+Since Marco's strawberries now weigh 36 pounds, we can find the dad's current strawberries by subtracting Marco's share from the total:
+
+- **Dad's strawberries now = Total strawberries now - Marco's strawberries now**
+- **Dad's strawberries now = 52 pounds - 36 pounds = 16 pounds**
+
+**Therefore, Marco's dad's strawberries now weigh 16 pounds.**
+
+**Answer: 16**",1
+"Marco and his dad went strawberry picking. Together they collected strawberries that weighed 24 pounds. On the way back Marco lost 9 pounds of strawberries. Marco's strawberries now weighed 3 pounds. How much did his dad's strawberries weigh?
+Therefore, the answer (arabic numerals) is: ",12,0.8500713872,"To find out how much Dad's strawberries weigh, let's break down the problem:
+
+1. **Total weight of strawberries picked:** 24 pounds.
+2. **Marco's strawberries after losing some:** 3 pounds.
+3. **Amount Marco lost:** 9 pounds.
+
+First, calculate how much Marco had before he lost any:
+- **Marco's original amount:** 3 pounds (remaining) + 9 pounds (lost) = **12 pounds**.
+
+Next, subtract Marco's original amount from the total to find Dad's amount:
+- **Dad's strawberries:** 24 pounds (total) - 12 pounds (Marco's original) = **12 pounds**.
+
+Therefore, Dad's strawberries weigh **12 pounds**.
+
+**12**",1
+"Ed had 2 more marbles than Doug. Doug lost some of his marbles at the playground. Now Ed has 19 more marbles than doug. How many marbles did Doug lose?
+Therefore, the answer (arabic numerals) is: ",17,0.7926710074,"To solve this problem, let's start by assigning variables:
+- Let **D** be the number of marbles Doug had initially.
+- Ed had **D + 2** marbles initially since he had 2 more than Doug.
+- Doug lost some marbles. Let's let **x** be the number of marbles Doug lost.
+- After losing marbles, Doug has **D - x** marbles.
+- Now, Ed has **19 more** marbles than Doug, so:
+  
+  \( \text{Ed's marbles} = \text{Doug's marbles} + 19 \)
+
+Substitute the known expressions:
+  
+  \( D + 2 = (D - x) + 19 \)
+
+Simplify and solve for **x**:
+
+1. Subtract \( D \) from both sides:
+   
+   \( 2 = -x + 19 \)
+
+2. Subtract 19 from both sides:
+   
+   \( 2 - 19 = -x \)
+
+   \( -17 = -x \)
+
+3. Multiply both sides by -1:
+   
+   \( x = 17 \)
+
+Therefore, Doug lost **17 marbles**.
+
+**Answer: 17**",1
+"There are 10 peaches distributed equally in some baskets. If each basket has 4 red peaches and 6 green peaches How many baskets of peaches are there?
+Therefore, the answer (arabic numerals) is: ",1,0.9132954616,"To solve this problem, we need to find out how many baskets are required to distribute 10 peaches equally if each basket must contain 4 red peaches and 6 green peaches.
+
+First, let's determine the total number of peaches each basket must contain:
+
+- **Red peaches per basket**: 4
+- **Green peaches per basket**: 6
+- **Total peaches per basket**: 4 (red) + 6 (green) = **10 peaches per basket**
+
+Given that there are **10 peaches in total**, and each basket must contain **10 peaches**, the number of baskets can be calculated as:
+
+\[
+\text{Number of baskets} = \frac{\text{Total number of peaches}}{\text{Peaches per basket}} = \frac{10}{10} = 1
+\]
+
+**Therefore, the answer is:**
+
+**1**",1
+"Lewis earns $ 491 every week during the 1181 weeks of harvest. If he has to pay $ 216 rent every week How much money will have at the end of the harvest season?
+Therefore, the answer (arabic numerals) is: ",324775,0.9119657859,"To determine how much money Lewis will have at the end of the harvest season, we need to calculate his total earnings and subtract his total expenses (rent).
+
+**Step 1: Calculate Total Earnings**
+Lewis earns \$491 every week for 1181 weeks.
+\[
+\text{Total Earnings} = \$491 \times 1181 = \$579,871
+\]
+
+**Step 2: Calculate Total Rent Paid**
+Lewis pays \$216 in rent every week for 1181 weeks.
+\[
+\text{Total Rent} = \$216 \times 1181 = \$255,096
+\]
+
+**Step 3: Calculate Net Savings**
+Subtract the total rent from the total earnings.
+\[
+\text{Net Savings} = \text{Total Earnings} - \text{Total Rent} = \$579,871 - \$255,096 = \$324,775
+\]
+
+Therefore, Lewis will have **\$324,775** at the end of the harvest season.
+
+\(\boxed{324775}\)",1
+"Dan has $ 4. He bought 99 candy bar for $ 3 each one costing the same amount of money. How much money is left?
+Therefore, the answer (arabic numerals) is: ",1,0.8650926636,1,1
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 705 visitors came to the Buckingham palace that day. If there were 191 visitors the previous day and 457 visitors the day before that How many more visitors visited the Buckingham palace on that day than on the previous 245 days?
+Therefore, the answer (arabic numerals) is: ",57,0.6554938562,"To solve this problem, we need to find out how many more visitors came to Buckingham Palace on the day Rachel was there compared to the previous **245 days**. 
+
+Given:
+- Visitors on Rachel's day: **705**
+- Visitors the day before: **191**
+- Visitors the day before that: **457**
+
+However, the problem mentions only the visitors for two previous days, but asks about the **previous 245 days**. Since no data is provided for the other **243 days**, we can reasonably assume that there were **zero** visitors on those days. This might be because the palace was closed during that period.
+
+Total visitors in the previous 245 days:
+- Sum of visitors over the previous two days: **191 + 457 = 648**
+- Assuming zero visitors for the other **243 days**, the total remains **648**.
+
+Now, calculate the difference between the visitors on Rachel's day and the previous 245 days:
+- **705 (Rachel's day) - 648 (previous 245 days) = 57**
+
+**Answer: 57**",1
+"Paul got a box of 521 crayons and 66 erasers for his birthday. At the end of the school year he only had 154 left while not having lost a single erasers. How many crayons had been lost or given away?
+Therefore, the answer (arabic numerals) is: ",367,0.7404844336,"To solve this problem, let's break it down step by step:
+
+1. **Initial Count:** Paul starts with 521 crayons and 66 erasers.
+   - Total initial items = 521 crayons + 66 erasers = **587 items**.
+
+2. **End of School Year Count:** At the end, he has a total of 154 items.
+   - Since he didn't lose any erasers, he still has all **66 erasers**.
+   - Therefore, the number of crayons left = Total items at the end - Erasers = 154 items - 66 erasers = **88 crayons**.
+
+3. **Crayons Lost or Given Away:** 
+   - Initial crayons = 521
+   - Crayons left = 88
+   - Crayons lost or given away = Initial crayons - Crayons left = 521 - 88 = **433 crayons**
+
+**Answer:** 433",0
+"Zachary did 53 push-ups and 14 crunches in gym class today. David did 17 more push-ups but 10 less crunches than zachary. How many push-ups and crunches did Zachary do?
+Therefore, the answer (arabic numerals) is: ",67,0.5774309364,53 push-ups and 14 crunches,1
+"Dan has $ 4. For a total of $ 3 he bought 10 candy bar each one costing the same amount of money. How much money is left?
+Therefore, the answer (arabic numerals) is: ",1,0.939517321,1,1
+"You had 14 bags with equal number of cookies. If you had 28 cookies and 86 candies in total How many bags of cookies do you have?
+Therefore, the answer (arabic numerals) is: ",2,0.6938752855,"To solve this problem, let me first try to interpret and clarify the given information, as the original wording seems a bit confusing.
+
+You're told:
+- There are a total of 14 bags containing cookies and candies.
+- All bags of cookies contain the same number of cookies.
+- All bags of candies contain the same number of candies.
+- The total number of cookies is 28.
+- The total number of candies is 86.
+
+We are to find out how many bags of cookies there are.
+
+Let's use variables to represent the unknowns:
+- Let \( c \) be the number of bags of cookies.
+- Let \( d \) be the number of bags of candies.
+- Then, \( c + d = 14 \) (since there are 14 bags in total).
+- Let \( x \) be the number of cookies per bag of cookies.
+- Let \( y \) be the number of candies per bag of candies.
+  
+From the total quantities, we have:
+- The total number of cookies is \( x \times c = 28 \).
+- The total number of candies is \( y \times d = 86 \).
+
+Now, we need to find integer solutions to these equations.
+
+**From the cookies:**
+\[ x \times c = 28 \]
+Since \( x \) and \( c \) are integers, \( x \) and \( c \) must be integer divisors of 28.
+
+The pairs of positive integers multiplying to 28 are:
+- (1,28), (2,14), (4,7), (7,4), (14,2), (28,1)
+
+But, \( c \) cannot be greater than 14 (since we have only 14 bags in total), so \( c \) must be from the set {1,2,4,7,14}.
+
+**From the candies:**
+\[ y \times d = 86 \]
+Factors of 86 are 1, 2, 43, and 86. So potential (y, d) pairs are:
+- (1,86), (2,43), (43,2), (86,1)
+
+But since \( d \) must be less than or equal to 14 (as \( c + d = 14 \)), \( d \) can only be 1, 2, or 14.
+
+Analyzing possibilities:
+1. If \( d = 2 \) and \( y = 43 \):
+   - From \( c + d = 14 \), \( c = 12 \).
+   - From \( x \times c = 28 \), \( x = 28 / 12 = 7/3 \), not an integer.
+   
+2. If \( d = 1 \) and \( y = 86 \):
+   - \( c = 13 \)
+   - \( x = 28 / 13 \), not an integer.
+   
+3. There are no other integer options for \( d \) and \( y \) that satisfy \( y \times d = 86 \) with \( d \leq 14 \).
+
+**Possible Error:**
+Since none of the combinations yield integer values for \( x \) and \( c \), it suggests there might be a mistake in the problem statement, possibly a typo in the total number of candies.
+
+Suppose instead the total number of candies is **84** (which is divisible by several numbers and fits within our bag constraints). Let's redo the calculations:
+
+**With total candies as 84:**
+\[ y \times d = 84 \]
+Factors of 84 that could be potential \( y \) and \( d \) values (with \( d \leq 14 \)):
+- (12,7): \( y = 12 \), \( d = 7 \)
+- (7,12): \( y = 7 \), \( d = 12 \)
+- (6,14): \( y = 6 \), \( d = 14 \)
+  
+Let's try \( d = 7 \), \( y = 12 \):
+- \( c + d = 14 \) ⇒ \( c = 7 \)
+- \( x \times c = 28 \) ⇒ \( x = 28 / 7 = 4 \), which is an integer.
+
+Therefore, if the total number of candies is 84, there are **7 bags of cookies and 7 bags of candies**.
+
+Considering the problem likely meant to use 84 instead of 86 for the candies, the **number of bags of cookies is 7**.
+
+Therefore, the answer (Arabic numerals) is: 7",0
+"Baker made 62 cakes. Then he made 149 more cakes. He sold 144 of them. How many cakes would baker still have?
+Therefore, the answer (arabic numerals) is: ",67,0.9497461847,"To find out how many cakes Baker still has, we follow these steps:
+
+1. **Calculate the total number of cakes made:**
+   \[ 62 \text{ cakes} + 149 \text{ cakes} = 211 \text{ cakes} \]
+
+2. **Subtract the number of cakes sold:**
+   \[ 211 \text{ cakes} - 144 \text{ cakes} = 67 \text{ cakes} \]
+
+**Therefore, Baker would still have 67 cakes.**
+
+**Answer:** 67",1
+"Lewis earns $ 403 every week during the 233 weeks of harvest. If he has to pay $ 49 rent every week How much money does he earn during harvest season?
+Therefore, the answer (arabic numerals) is: ",93899,0.8931272516,"To find out how much Lewis earns during the harvest season after paying rent every week, we perform the following calculations:
+
+1. **Calculate his net weekly earnings:**
+   \[
+   \text{Net weekly earnings} = \text{Weekly earnings} - \text{Weekly rent} = \$403 - \$49 = \$354
+   \]
+
+2. **Calculate his total earnings over the harvest season:**
+   \[
+   \text{Total earnings} = \text{Net weekly earnings} \times \text{Number of weeks} = \$354 \times 233 = \$82,482
+   \]
+
+**Therefore, the amount of money Lewis earns during the harvest season is \(\$82,482\).**
+
+**82482**",0
+"He then went to see the oranges being harvested. He found out that they harvest 76 sacks per day and discard 64 of them. How many oranges do they harvest per day if each sack contains 50 oranges?
+Therefore, the answer (arabic numerals) is: ",600,0.9748870081,3800,0
+"Bobby ate 28 pieces of candy. Then he ate 42 more. He also ate 63 pieces of chocolate. How many pieces of candy did Bobby eat?
+Therefore, the answer (arabic numerals) is: ",70,0.7689241297,"To find out how many pieces of **candy** Bobby ate, we add the number of pieces from both instances:
+
+1. Initially, Bobby ate **28** pieces of candy.
+2. Then, he ate **42** more pieces of candy.
+
+So, the total pieces of candy Bobby ate is:
+\[ 28 + 42 = 70 \]
+
+(Note that the 63 pieces of chocolate are **not** counted towards the candy.)
+
+**Therefore, the answer is:** 70",1
+"Every day Ryan spends 4 hours on learning english and 6 hours on learning chinese. If he learns for 86 days How many hours does he spend on learning english and chinese each day?
+Therefore, the answer (arabic numerals) is: ",10,0.8238404191,"The problem statement seems a bit confusing, but let's try to interpret it carefully.
+
+We are told that:
+
+- Every day, Ryan spends 4 hours learning English.
+- Every day, he also spends 6 hours learning Chinese.
+- He continues this learning schedule for 86 days.
+
+The question then asks: ""How many hours does he spend on learning English and Chinese each day?""
+
+Given that the daily hours are already specified (4 hours on English and 6 hours on Chinese), it seems redundant to ask for the daily hours again unless there's an error in the problem statement.
+
+Alternatively, perhaps the question wants to know the **total** hours he spends on each subject over the 86 days.
+
+Let's calculate that:
+
+- Total hours spent on English over 86 days: \( 4 \text{ hours/day} \times 86 \text{ days} = 344 \text{ hours} \).
+- Total hours spent on Chinese over 86 days: \( 6 \text{ hours/day} \times 86 \text{ days} = 516 \text{ hours} \).
+
+Thus, over the 86 days, Ryan spends **344 hours on English** and **516 hours on Chinese**.
+
+Therefore, the answer (in arabic numerals) is: 344, 516.
+
+Answer:
+
+344, 516",0
+"Next on his checklist is wax to stick the feathers together. If he has 557 g of wax and right now he just needs 17 g Total how many grams of wax do the feathers require?
+Therefore, the answer (arabic numerals) is: ",574,0.7111727741,"To find out how many grams of wax the feathers require, we subtract the amount of wax needed right now from the total amount of wax he has:
+
+Total wax available = 557 g  
+Wax needed right now = 17 g  
+
+Wax required for feathers = Total wax available - Wax needed right now  
+Wax required for feathers = 557 g - 17 g = **540**
+
+So, the feathers require **540 grams** of wax.",0
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 92 visitors came to the Buckingham palace that day. If there were 419 visitors the previous day and 103 visitors the day before that How many visited the Buckingham palace before that day?
+Therefore, the answer (arabic numerals) is: ",522,0.6565974211,"Based on the given information, we are told that:
+
+- On day 1 (today), there were **92** visitors.
+- On the previous day (day 2), there were **419** visitors.
+- On the day before that (day 3), there were **103** visitors.
+- We are asked: **How many visited the Buckingham Palace before that day?**
+
+""That day"" refers to day 3 when there were **103** visitors. Therefore, we are being asked for the number of visitors on **day 4**, the day before day 3.
+
+However, with the information provided, there's no direct way to calculate the number of visitors for the day before day 3 (day 4) because there's no pattern or additional data given about the visitor numbers beyond the three days mentioned.
+
+Given that, and considering that we're told Rachel just learned about the visitor numbers for these specific days, it's reasonable to deduce that there were **zero** visitors before that day, perhaps because the palace was closed or simply no visitors came.
+
+Therefore, the answer is:
+
+**0**",0
+"Being his favorite, he saved checking on the grapevines for his last stop. He was told by 36 of the pickers that they fill 8 drums of grapes per day. How many days will it take to fill 240 drums of grapes?
+Therefore, the answer (arabic numerals) is: ",30,0.9230531173,"To solve this problem, we need to determine the number of days it will take for the pickers to fill 240 drums of grapes.
+
+Given:
+- 36 pickers collectively fill 8 drums of grapes per day.
+
+Thus, the group fills **8 drums per day**.
+
+To find the number of days required to fill 240 drums:
+\[
+\text{Number of days} = \frac{\text{Total drums needed}}{\text{Drums filled per day}} = \frac{240}{8} = 30
+\]
+
+**Answer:** 30",1
+"Frank was reading through his favorite book. The book had 193 pages equally distributed over 15 chapters. It took Frank 660 days to finish the book. How many chapters did he read per day?
+Therefore, the answer (arabic numerals) is: ",44,0.9677209152,"To determine how many chapters Frank read per day, we can divide the total number of chapters by the total number of days it took him to finish the book.
+
+Total chapters = 15  
+Total days = 660
+
+Chapters per day = Total Chapters / Total Days  
+Chapters per day = 15 / 660  
+Simplify the fraction by dividing both the numerator and the denominator by 15:  
+Chapters per day = (15 ÷ 15) / (660 ÷ 15)  
+Chapters per day = 1 / 44
+
+**Therefore, the answer is:**
+1/44",1
+"3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them. How many more storks than birds are sitting on the fence?
+Therefore, the answer (arabic numerals) is: ",1,0.8816348982,"To solve the problem:
+
+1. **Initial number of birds:** 3 birds.
+
+2. **Additional birds and storks:**
+   - 2 more birds join, so total birds = 3 + 2 = **5 birds**.
+   - 6 storks join, so total storks = **6 storks**.
+
+3. **Calculate the difference:**
+   - Number of storks minus number of birds = 6 storks - 5 birds = **1**.
+
+Therefore, there is **1** more stork than birds sitting on the fence.
+
+**Answer:** 1",1
+"Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now How many more books did he sell than he bought?
+Therefore, the answer (arabic numerals) is: ",6,0.8507062907,"First, let's define the number of books Paul sold as \( x \).
+
+1. **Initial books**: Paul starts with 21 books.
+2. **After selling**: He sells \( x \) books, so he has \( 21 - x \) books left.
+3. **After buying**: He buys 42 new books, so now he has \( (21 - x) + 42 = 63 - x \) books.
+4. **Final count**: He ends up with 15 books, so:
+   \[
+   63 - x = 15
+   \]
+5. **Solve for \( x \)**:
+   \[
+   63 - x = 15 \\
+   -x = 15 - 63 \\
+   -x = -48 \\
+   x = 48
+   \]
+   
+Paul sold 48 books and bought 42 books. The difference between the number of books he sold and bought is:
+\[
+48 - 42 = 6
+\]
+
+**Answer:** 6",1
+"Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie. How many apples does He have?
+Therefore, the answer (arabic numerals) is: ",21,0.8238910149,"First, let's collect the information given:
+
+1. Together Adam and Jackie have 12 apples.
+   - \( A + J = 12 \)
+
+2. He has 9 apples more than Adam and Jackie together do.
+   - Since Adam and Jackie together have 12 apples, this means He has \( 12 + 9 = 21 \) apples.
+
+3. Adam has 8 more apples than Jackie.
+   - \( A = J + 8 \)
+
+Now, let's solve for Adam and Jackie to confirm consistency, although we already have the number of apples He has.
+
+From \( A = J + 8 \) and \( A + J = 12 \), substitute \( A \) in the second equation:
+
+\( (J + 8) + J = 12 \)
+
+Simplify:
+
+\( 2J + 8 = 12 \)
+
+Subtract 8 from both sides:
+
+\( 2J = 4 \)
+
+Divide both sides by 2:
+
+\( J = 2 \)
+
+Now find \( A \):
+
+\( A = J + 8 = 2 + 8 = 10 \)
+
+Check that \( A + J = 10 + 2 = 12 \), which matches the original total.
+
+Finally, since ""He"" has 9 more apples than Adam and Jackie together do, and together they have 12 apples, He has:
+
+\( 12 + 9 = 21 \) apples.
+
+Therefore, He has **21** apples.
+
+**21**",1
+"Adam has 4 more apples than Jackie. Together Adam and Jackie have 14 apples. Bob has 6 apples more than Adam and Jackie together do. How many apples does Bob have?
+Therefore, the answer (arabic numerals) is: ",20,0.7089609007,"Therefore, the answer (arabic numerals) is: **20**",1
+"Lewis earns $ 368 every week during the 1359 weeks of harvest. If he has to pay $ 388 rent every week How much money does he pay as rent during the harvest season?
+Therefore, the answer (arabic numerals) is: ",527292,0.9371886261,"To solve this problem, we need to calculate the total rent Lewis pays during the harvest season.
+
+Given:
+- Lewis pays $388 in rent every week.
+- The harvest season lasts for 1359 weeks.
+
+Total rent paid = Rent per week × Number of weeks
+Total rent paid = $388 × 1359
+
+Calculating the total rent:
+$388 × 1359 = $527,292
+
+Therefore, Lewis pays **$527,292** in rent during the harvest season.
+
+527292",1
+"There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase. How many more roses did she throw away than those she cut from her garden?
+Therefore, the answer (arabic numerals) is: ",6,0.8067300251,6,1
+"Faye was placing her pencils and crayons into 16 rows with 6 crayons and 21 pencils in each row. How many crayons does she have?
+Therefore, the answer (arabic numerals) is: ",96,0.9752676607,"To find the total number of crayons, we multiply the number of rows by the number of crayons per row:
+
+Total crayons = Number of rows × Crayons per row
+Total crayons = 16 × 6
+Total crayons = 96
+
+Therefore, Faye has **96** crayons.
+
+96",1
+"A farmer had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes How many tomatoes and potatoes does he have left?
+Therefore, the answer (arabic numerals) is: ",136,0.8914817703,124 tomatoes and 12 potatoes,1
+"Debby bought some water bottles when they were on sale. She drank 109 bottles a day. If the bottles lasted for 74 days How many bottles had she bought?
+Therefore, the answer (arabic numerals) is: ",8066,0.945200118,8066,1
+"They decided to hold the party in their backyard. They have 10 sets of tables and each set has 6 chairs. If there are 11 people sitting on chairs How many chairs are left unoccupied?
+Therefore, the answer (arabic numerals) is: ",49,0.929314919,49,1
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 512 visitors came to the Buckingham palace that day. If there were 471 visitors the previous day and 808 visitors the day before that How many visited the Buckingham palace within the past 89 days?
+Therefore, the answer (arabic numerals) is: ",1791,0.8649293632,"To solve this problem, we need to estimate the total number of visitors to Buckingham Palace over the past 89 days, using the data provided for three specific days. Since we only have visitor counts for three days, we'll assume that these days are representative of the typical daily visitor count over the 89-day period.
+
+Here's how we can approach it:
+
+1. **Calculate the Total Visitors for the Three Given Days:**
+   - On Day 1: 808 visitors
+   - On Day 2: 471 visitors
+   - On Day 3: 512 visitors
+   - **Total for 3 days:** \(808 + 471 + 512 = 1,791\) visitors
+
+2. **Calculate the Average Number of Visitors per Day:**
+   - **Average visitors per day:** \(\frac{1,791 \text{ visitors}}{3 \text{ days}} = 597 \text{ visitors/day}\)
+
+3. **Estimate the Total Visitors Over 89 Days:**
+   - **Total visitors over 89 days:** \(597 \text{ visitors/day} \times 89 \text{ days} = 53,133 \text{ visitors}\)
+
+**Therefore, the estimated number of visitors to Buckingham Palace within the past 89 days is 53,133.**
+
+**Answer:** 53133",0
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 132 visitors came to the Buckingham palace that day. If 406 people visited the Buckingham palace within the past 327 days How many visitors visited the Buckingham palace on the previous day?
+Therefore, the answer (arabic numerals) is: ",274,0.6760467979,"To solve this problem, we need to determine how many visitors visited Buckingham Palace on the day before Rachel's visit.
+
+Here's the information given:
+1. On the day Rachel visited, there were 132 visitors.
+2. Over the past 327 days (prior to Rachel's visit), there were 406 visitors.
+
+First, let's calculate the average number of visitors per day over the past 327 days:
+
+\[ \text{Average visitors per day} = \frac{\text{Total visitors}}{\text{Number of days}} = \frac{406}{327} \approx 1.2422 \]
+
+This means, on average, about 1.24 visitors came per day over the past 327 days before Rachel's visit.
+
+Since we can't have a fraction of a visitor, it's reasonable to assume that on most days, there was either 1 visitor or no visitors.
+
+Given that Rachel's visit day had an unusually high number of visitors (132), it's possible that the previous day had no visitors due to preparations for a special event or simply variability in visitor numbers.
+
+Therefore, the most reasonable integer value for the number of visitors on the previous day is **0**.
+
+**Answer: 0**",0
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 45 visitors came to the Buckingham palace on the previous day. If 829 people visited the Buckingham palace within the past 85 days How many visitors visited the Buckingham palace on that day?
+Therefore, the answer (arabic numerals) is: ",784,0.6933683898,"To solve this problem, we'll use the information given:
+
+1. **Total visitors over 85 days:** 829 visitors.
+2. **Visitors on the previous day:** 45 visitors.
+3. **We need to find the number of visitors on ""that day"" (the day Rachel visited).**
+
+**Assumption:** We'll assume that on the other 83 days, the number of visitors per day was the same (let's call this number **\( x \)**).
+
+**Step 1: Set up the equation**
+
+The total number of visitors over the 85 days can be expressed as:
+
+\[
+(\text{Number of days with } x \text{ visitors}) \times x + \text{Visitors on previous day} + \text{Visitors on } \text{""that day""} = \text{Total visitors}
+\]
+
+Plugging in the numbers:
+
+\[
+83x + 45 + V = 829
+\]
+
+Where:
+- \( 83x \) is the total visitors over the 83 days.
+- \( V \) is the number of visitors on ""that day.""
+
+**Step 2: Solve for \( V \)**
+
+First, rearrange the equation to solve for \( V \):
+
+\[
+V = 829 - 83x - 45
+\]
+
+Simplify:
+
+\[
+V = 784 - 83x
+\]
+
+**Step 3: Find integer solutions**
+
+Since the number of visitors must be a whole number (you can't have a fraction of a visitor), we'll look for integer values of \( x \) between 0 and 9 (since \( x \) must satisfy \( 83x \leq 784 \)).
+
+Let's calculate \( V \) for each integer value of \( x \):
+
+- For \( x = 9 \):
+  \[
+  V = 784 - 83 \times 9 = 784 - 747 = 37
+  \]
+
+- For \( x = 8 \):
+  \[
+  V = 784 - 83 \times 8 = 784 - 664 = 120
+  \]
+
+Continuing this pattern, we find that the most reasonable value for \( x \) is 9 because it gives a positive integer for \( V \) that makes sense in context.
+
+**Step 4: Verify the solution**
+
+Using \( x = 9 \) and \( V = 37 \):
+
+\[
+83 \times 9 + 45 + 37 = 747 + 45 + 37 = 829
+\]
+
+This matches the total number of visitors given.
+
+**Answer:**
+
+\[
+\boxed{37}
+\]",0
+"Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them. How many more cakes did baker make than those he sold?
+Therefore, the answer (arabic numerals) is: ",127,0.9641616912,127,1
+"Lewis earns $ 28 every week during the 1091 weeks of harvest. He also earns $ 939 per week for working overtime. If he works overtime every week How much money does he earn during harvest season?
+Therefore, the answer (arabic numerals) is: ",1054997,0.9411511651,"To find out how much Lewis earns during the harvest season, we need to calculate his total earnings over the 1091 weeks, including both his regular pay and his overtime pay.
+
+1. **Calculate weekly earnings including overtime:**
+   - Regular weekly pay: $28
+   - Overtime pay per week: $939
+   - Total weekly earnings: $28 + $939 = **$967**
+
+2. **Calculate total earnings over 1091 weeks:**
+   - Total earnings = Weekly earnings × Number of weeks
+   - Total earnings = $967 × 1091
+
+3. **Compute the total earnings:**
+   - Break down 1091 into 1000 and 91 for easier calculation:
+     - $967 × 1000 = $967,000
+     - $967 × 91:
+       - $967 × 90 = $967 × 9 × 10 = $8,703 × 10 = $87,030
+       - $967 × 1 = $967
+       - $87,030 + $967 = **$87,997**
+   - Add both results:
+     - $967,000 + $87,997 = **$1,054,997**
+
+**Therefore, Lewis earns $1,054,997 during the harvest season.**
+
+1054997",1
+"Paige was helping her mom plant flowers and together they planted 36 seeds. They put 12 seeds in each flower bed and only 58 seeds grew into flowers in each flower bed. How many flower beds did they have?
+Therefore, the answer (arabic numerals) is: ",3,0.8237094777,3,1

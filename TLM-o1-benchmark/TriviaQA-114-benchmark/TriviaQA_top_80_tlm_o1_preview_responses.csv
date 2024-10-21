@@ -1,0 +1,562 @@
+prompt,ground_truth,tlm_o1_preview_response,confidence_score,human_label_tlm_o1_preview,openai_o1_preview_response,human_label_openai_o1_preview
+"Who created the ‘A’ Line in 1955?
+Therefore, the answer is","['jacques benita', 'dior monsieur', 'christian dior']",Christian Dior created the 'A' Line in 1955.,0.9891127871,1,"Christian Dior, the renowned French fashion designer, created the ""A-Line"" silhouette in 1955.",1
+"Who was the first US-born winner of golf's British Open?
+Therefore, the answer is","['hagen walter', 'walter hagen', 'walter charles hagen']","Walter Hagen was the first U.S.-born golfer to win the British Open (The Open Championship). He achieved this historic victory in 1922 at Royal St George's Golf Club in Sandwich, England. Hagen's win marked a significant moment in golfing history, as it signaled the rise of American golfers on the international stage. He went on to win the British Open four times in total, solidifying his legacy as one of the sport's greats.",0.9887472402,1,"Therefore, the answer is Walter Hagen, who became the first US-born golfer to win the British Open in 1922.",1
+"Thomas Edison, who invented the lightbulb, was afraid of the dark?
+Therefore, the answer is","['true song', 'true disambiguation', 'truer', 'true', 'true album']","No, there is no historical evidence to suggest that Thomas Edison was afraid of the dark. Thomas Edison was a prolific inventor best known for his work on the electric light bulb, among many other innovations. Biographical accounts and credible historical sources do not mention him having a fear of the dark. This idea may be a myth or a misconception that has circulated over time, but it is not supported by documented evidence.",0.9871524913,0,"There is no credible evidence to suggest that Thomas Edison was afraid of the dark. Therefore, the answer is that this is a myth or misconception. Edison was a prolific inventor whose motivation to improve the incandescent light bulb stemmed from a desire to create a practical and affordable source of electric light for widespread use. His work revolutionized lighting and had a profound impact on society, but it was not driven by a personal fear of darkness.",0
+"How long was swimmer Michelle Smith-de Bruin banned for attempting to manipulate a drugs test?
+Therefore, the answer is","['four time', '4 years', '4 time']","Michelle Smith-de Bruin was banned from competitive swimming for **four years**. In 1998, the International Swimming Federation (FINA) found her guilty of attempting to manipulate a drug test by tampering with her urine sample. The ban effectively ended her competitive swimming career.",0.9870486065,1,Michelle Smith-de Bruin was banned from competition for **four years** for attempting to manipulate a drug test.,1
+"What had Edmond Hillary worked at before taking up mountain climbing?
+Therefore, the answer is","['bee keepers', 'bee keeping', 'beekeeping', 'beekeeping helmet', 'bee farming', 'beekeeping suit', 'apairist', 'apiculture', 'history of beekeeping', 'beekiping', 'bee keeper', 'bee culture', 'beekeeping leading practices', 'apiarian']","Before taking up mountain climbing, Sir Edmund Hillary worked as a **beekeeper** in New Zealand. Beekeeping was a family profession; his father owned several beehives, and Edmund joined the family business after completing his education. The seasonal nature of beekeeping allowed him free time during the colder months, which he used to pursue his interest in mountaineering. This flexibility was instrumental in enabling him to develop the skills that eventually led to his historic ascent of Mount Everest in 1953 alongside Tenzing Norgay.
+
+Therefore, the answer is that **Edmund Hillary was a beekeeper before he took up mountain climbing**.",0.9870430452,1,"Before taking up mountain climbing, Sir Edmund Hillary worked as a **beekeeper** in New Zealand. Beekeeping was a seasonal occupation, which allowed him the flexibility to pursue his passion for climbing during the off-season. This profession not only provided him with a source of income but also helped him develop the physical stamina and resilience that would later contribute to his mountaineering success.",1
+"Shashlik is what type of food dish?
+Therefore, the answer is","['shish kebob', 'kebab kenjeh کباب کنجه', 'kebob', 'chapli kabab', 'shish kabob', 'kakori kebab', 'kebab', 'burrah', 'steam kebab', 'sultan s feast', 'bihari kebab', 'galouti kebab', 'kababs', 'kabab bakhtiari', 'iranian kabab', 'kabab', 'kebabs', 'sheesh kebab', 'chapli kebab', 'chenjeh kebab', 'testi kebab', 'kebap', 'shish kebab', 'kabob', 'kalmi kebab', 'kalmi', 'testi', 'shishkebab', 'kebab restaurant', 'burrah kebab', 'galouti', 'qabab', 'chelow kebab', 'shishkabob', 'kabaab']","Shashlik is a traditional dish consisting of marinated cubes of meat grilled on skewers over an open fire or grill. Originating from regions like Central Asia, the Caucasus, and Russia, it's similar to shish kebab and is popular in many Eastern European cuisines. The meat used can be lamb, pork, beef, or chicken, and it's often seasoned with herbs, spices, and sometimes vegetables are added between the meat pieces on the skewers.
+
+**Therefore, the answer is:** Shashlik is a marinated, skewered, and grilled meat dish similar to kebabs.",0.9870089989,1,"Shashlik is a traditional dish consisting of marinated meat cubes skewered and grilled over an open fire or charcoal. Originating from the Caucasus region and popular in countries like Russia, Central Asia, and Eastern Europe, it's similar to what is known as shish kebab in other cuisines. The meat used can vary and often includes lamb, pork, beef, or chicken. The marinade typically features herbs, spices, onions, and sometimes vinegar or wine, which helps tenderize the meat and add flavor. Shashlik is usually served hot, often accompanied by vegetables, bread, and sauces, making it a beloved staple at gatherings and outdoor cookouts.
+
+**Therefore, the answer is:** Shashlik is a dish of skewered and grilled marinated meat, similar to kebabs, popular in Russian, Central Asian, and Eastern European cuisines.",1
+"How many times was Wyatt Earp shot?
+Therefore, the answer is","['none', 'none disambiguation']","Wyatt Earp was **never shot** during his lifetime. Despite being involved in numerous gunfights and serving as a lawman in the tumultuous environment of the American Old West, Earp managed to avoid being wounded by gunfire. His most famous confrontation, the Gunfight at the O.K. Corral in 1881, saw him emerge unscathed while others were injured or killed. Earp's ability to survive such dangerous encounters without injury contributed to his legendary status in American history.",0.9868234853,1,,
+"What was Blondie's last UK No 1 of the 80s?
+Therefore, the answer is","['teaching of rapture', 'pre tribulation rapture', 'rapture protestant belief', 'midtribulation rapture', 'rapture', 'pretribulation rapture', 'pre tribulational', 'mid tribulation rapture', 'midtribulationism', 'pretribulationistism', 'pre trib', 'pre tribulation']","Blondie's last UK No. 1 hit of the 1980s was ""**The Tide Is High**,"" which topped the UK Singles Chart in November 1980. This reggae-influenced track is a cover of a song originally performed by The Paragons in 1967. Blondie's rendition became one of their most successful singles, showcasing the band's versatility and Debbie Harry's distinctive vocals.",0.9862693864,0,"Blondie's last UK No. 1 hit of the 1980s was ""**The Tide Is High**,"" which topped the charts in October 1980. This song was a reggae-influenced cover of the original by The Paragons and became one of Blondie's most successful singles in the UK during that decade.",0
+"What was Eddie Murphy's first movie?
+Therefore, the answer is","['48 hours', '48 time', 'forty eight time']","""48 Hrs."" was Eddie Murphy's first movie.",0.9861599331,1,"Therefore, the answer is: Eddie Murphy's first movie was **""48 Hrs.""**, released in 1982.",1
+"Spud, Shot and Hand are all types of what?
+Therefore, the answer is","['guns', 'gun']",guns,0.9861465591,1,"Therefore, the answer is **guns**.",1
+"Who was the defending champion when Martina Navratilova first won Wimbledon singles?
+Therefore, the answer is","['virginia wade', 'sarah virginia wade']",Virginia Wade.,0.9861100279,1,"Virginia Wade was the defending champion when Martina Navratilova first won the Wimbledon singles title in 1978. Virginia Wade had won the Wimbledon women's singles championship in 1977, making her the reigning champion at the time Navratilova claimed her first Wimbledon singles victory.",1
+"Whose arch nemisis is the Red Skull?
+Therefore, the answer is","['captain americas', 'runaways comics story arcs', 'captain america s', 'runaways comics', 'fantastic fourteen', 'runaways film', 'runaways comic']",Captain America.,0.9860954279,1,Captain America.,1
+"Who played Frankenstein in the 1994 film of the same name?
+Therefore, the answer is","['kenneth brannagh', 'kenneth charles branagh', 'branagh', 'branagh kenneth', 'kenneth branagh', 'sir kenneth branagh', 'ken branagh', 'kenneth brannaugh']","In the 1994 film **""Mary Shelley's Frankenstein,""** the character of Dr. Victor Frankenstein was portrayed by **Kenneth Branagh**, who also directed the film. 
+
+Therefore, the answer is **Kenneth Branagh**.",0.986021629,1,"Therefore, the answer is Kenneth Branagh, who portrayed Dr. Victor Frankenstein in the 1994 film **""Mary Shelley's Frankenstein.""**",1
+"What is the approximate circumference of the earth?
+Therefore, the answer is",['24 900 miles'],"The approximate circumference of the Earth is **40,075 kilometers** (or **24,901 miles**). Therefore, the answer is approximately **40,075 kilometers**.",0.9859979632,1,"The approximate circumference of the Earth is **about 40,075 kilometers (24,901 miles)** at the equator. Therefore, the answer is approximately **40,075 kilometers**.",1
+"On the Internet what is Spam?
+Therefore, the answer is","['junkmail', 'junkmailing', 'junk mail', 'junk mail disambiguation']","On the Internet, **spam** refers to unsolicited and unwanted messages sent in bulk, typically for advertising, phishing, or spreading malware. These messages are often sent indiscriminately to a large number of recipients without their consent. While email spam is the most common form, spam can also appear in other mediums such as text messages, social media posts, comments, and instant messages.
+
+Spam can be a significant nuisance as it clutters inboxes and platforms, making it harder for users to find legitimate communications. It can also pose security risks, as some spam messages may contain malicious links or attachments that can lead to malware infections or attempt to deceive individuals into providing sensitive information (a practice known as phishing).
+
+Efforts to combat spam include the use of spam filters by email service providers, reporting and blocking features on social media platforms, and legal regulations like anti-spam laws in various countries aimed at reducing the distribution of unsolicited communications.
+
+**Therefore, the answer is that on the Internet, spam is unwanted, unsolicited bulk messages sent without the recipient's consent, often for malicious or advertising purposes.**",0.985836072,1,"On the Internet, **spam** refers to unsolicited and often unwanted messages sent in bulk to a large number of recipients without their consent. These messages are typically used for advertising purposes, phishing attempts, spreading malware, or other malicious activities. Spam commonly appears in email inboxes but can also occur through instant messaging, social media posts, comments on blogs, and text messages. The primary characteristics of spam are its mass distribution and the lack of relevance or appropriateness to the recipients, making it a significant nuisance and potential security risk online.",1
+"Otis Barton was a pioneer in exploring where?
+Therefore, the answer is","['under water', 'undersea', 'underwater life', 'underwater']","Otis Barton was a pioneer in exploring the deep sea. He co-invented the Bathysphere with William Beebe in the early 1930s, which allowed them to descend to unprecedented depths in the ocean and conduct deep-sea observations. Their dives provided valuable insights into marine life and the conditions of the deep ocean.
+
+Therefore, the answer is **the deep sea**.",0.9855874662,1,"Otis Barton was a pioneer in exploring the deep sea using the **bathysphere**, a spherical deep-sea submersible that he co-invented with William Beebe. Together, they made historic dives in the 1930s, reaching depths that had never been explored before by humans.
+
+Therefore, the answer is **the deep sea**.",1
+"Yellow-pine, Uinta and Lodgepole are all types of which animal?
+Therefore, the answer is","['chipmonk', 'tamias', 'chip munk', 'microbear', 'chip monk', '🐿', 'chipmunks', 'chipmunk']",Chipmunk.,0.985523956,1,Chipmunk.,1
+"How long does it take, approximately, for light to travel from the Sun to the Earth?
+Therefore, the answer is",['about 8 minutes'],"It takes approximately **8 minutes and 20 seconds** for light to travel from the Sun to the Earth. Therefore, the answer is about **8 minutes and 20 seconds**.",0.985203225,1,"It takes approximately **8 minutes and 20 seconds** for light to travel from the Sun to the Earth.
+
+**Explanation:**
+
+- The average distance between the Sun and the Earth is about **149.6 million kilometers** (which is defined as one Astronomical Unit, or 1 AU).
+- The speed of light in a vacuum is about **299,792 kilometers per second**.
+
+To calculate the time \( t \) it takes for light to travel from the Sun to the Earth:
+
+\[
+t = \frac{\text{Distance}}{\text{Speed}} = \frac{149,600,000\, \text{km}}{299,792\, \text{km/s}} \approx 499\, \text{seconds}
+\]
+
+- **499 seconds** is approximately **8 minutes and 19 seconds**.
+
+Therefore, when we observe the Sun from Earth, we're actually seeing it as it was about 8 minutes and 20 seconds ago. This delay is due to the finite speed at which light travels through space.",1
+"What was the name of the old Waddington’s game based on newspapers?
+Therefore, the answer is","['scoop', 'scoop disambiguation', 'scooping', 'scoops', 'scoop film']",Scoop,0.9844208703,1,"The name of the old Waddington's game based on newspapers is **""Scoop!""** Therefore, the answer is **Scoop!**",1
+"What percentage of the earth's surface is covered by Europe?
+Therefore, the answer is","['8', 'eight']",Europe covers approximately **2%** of the Earth's total surface area.,0.983993491,0,"To determine what percentage of the Earth's surface is covered by Europe, we'll need to compare the area of Europe to the total surface area of the Earth.
+
+**1. Total Surface Area of the Earth:**
+
+The Earth has a total surface area of approximately **510,072,000 square kilometers** (km²).
+
+**2. Surface Area of Europe:**
+
+Europe covers an area of about **10,180,000 square kilometers** (km²).
+
+**3. Calculating the Percentage:**
+
+To find the percentage of the Earth's surface covered by Europe, we use the formula:
+
+\[
+\text{Percentage} = \left( \frac{\text{Area of Europe}}{\text{Total Surface Area of Earth}} \right) \times 100\%
+\]
+
+Plugging in the values:
+
+\[
+\text{Percentage} = \left( \frac{10,180,000 \text{ km²}}{510,072,000 \text{ km²}} \right) \times 100\%
+\]
+
+\[
+\text{Percentage} \approx \left( 0.01996 \right) \times 100\% \approx 1.996\%
+\]
+
+**Therefore, Europe covers approximately 2% of the Earth's total surface area.**
+
+**Answer:** Approximately **2%** of the Earth's surface is covered by Europe.",0
+"What was the only film directed by Cecil B DeMille in which actor John Wayne appeared?
+Therefore, the answer is",['reap wild wind'],"""Reap the Wild Wind"" is the only film directed by Cecil B. DeMille in which actor John Wayne appeared.",0.9836362001,1,Reap the Wild Wind,1
+"What did the Lone Ranger's title Kemo Sabe mean in Apache?
+Therefore, the answer is","['lèine bhàn', 'white shirt', 'leine bhan']","""Kemo Sabe,"" as used by Tonto to address the Lone Ranger, is often interpreted to mean ""trusted friend,"" ""faithful friend,"" or ""one who knows."" While the exact origin of the term is somewhat debated, it's generally considered to be derived from Native American languages, though not specifically Apache.
+
+One prevalent theory suggests that ""Kemo Sabe"" comes from the Ojibwe (Chippewa) phrase **""giimoozaabi,""** which translates to ""he who peeks"" or ""he who looks in secret,"" implying someone who is insightful or has secret knowledge. This interpretation aligns with the portrayal of the Lone Ranger as a perceptive and resourceful character.
+
+Another theory points to the Apache language, but there is no direct translation of ""Kemo Sabe"" in Apache. Some speculate that it might be a rough approximation or anglicization of words from other Native languages or simply a creation for the show without a direct linguistic origin.
+
+**Therefore, the answer is:**
+
+In the context of the Lone Ranger, ""Kemo Sabe"" means **""trusted friend""** or **""faithful friend,""** though it does not have a direct meaning in the Apache language.",0.9827536651,0,"""Kemo Sabe"" is understood to mean ""trusted friend"" or ""faithful friend.""",0
+"Who was the only female victim to be killed off in the opening credit sequence in Police Squad?
+Therefore, the answer is","['florence hendersen', 'florence agnes henderson', 'florence henderson', 'flo henderson']","The only female victim to be killed off in the opening credit sequence of **_Police Squad!_** was **Florence Henderson**. Known for her role as Carol Brady on _The Brady Bunch_, Henderson appeared as a special guest star in the opening credits of one episode, where she humorously met an untimely demise. This was a running gag in the series, where famous guest stars would be introduced but promptly ""killed off"" before the episode began. Florence Henderson was the sole female celebrity to participate in this comedic bit.",0.9814250419,1,"Therefore, the answer is **Florence Henderson**.",1
+"Which drink is known as ‘The Wine of Islam’?
+Therefore, the answer is","['joe coffee', 'health effects of coffee', 'specialty coffees', 'brazilian coffee', 'kaffee', 'roasted coffee', 'kawha', 'coffe', 'caffé', 'ginseng coffee', 'cup of joe', 'health and pharmacology of coffee', 'coffee bags', 'coffee and health', 'cafe de columbia', 'gavaccino', 'coffee brewing method', 'health effect of coffee', 'regular coffee', 'coffee brews', 'coffee', 'coffee drink', 'medical effects of coffee', 'effects of coffee', 'gourmet coffee']","Therefore, the answer is **coffee**.",0.9792336134,1,"Therefore, the answer is coffee.",1
+"In which decade did stereo records first go on sale?
+Therefore, the answer is","['1930–1939', '30s', 'nineteen thirties', '1930 1939', 'thirties', '1930s literature', '1930s decade', '1930s', '1930 s', '6030s']",the 1950s.,0.9791827388,0,"Therefore, the answer is the 1950s.",0
+"Which branch of science has four fundamental principles: addition, subtraction, multiplication, and division.
+Therefore, the answer is","['arithmetic operations', 'arithmetics', 'arithmetic operators', 'history of arithmetic', 'arithmetic', 'additive operator', 'arithmatic', '−×÷', 'x', 'arithmetic operation', 'multiplicative operator', 'rithmetic', 'arithmetician', 'arithmetic operator', 'arithmetik', 'aritmetika', 'arithmetical operations']","**Arithmetic** is the branch of mathematics that deals with the four fundamental operations: addition, subtraction, multiplication, and division. These operations form the basis of most mathematical calculations and are essential for understanding more advanced concepts in mathematics and various scientific fields.
+
+Therefore, the answer is **arithmetic**.",0.9783650335,1,"**Arithmetic**.
+
+Arithmetic is the branch of mathematics that deals with the basic operations of addition, subtraction, multiplication, and division. These four fundamental principles form the foundation for more advanced mathematical concepts and are essential tools in everyday calculations and problem-solving.",1
+"In which 1956 film did actress Gina Lollobrigida make her debut in American films?
+Therefore, the answer is","['aerial art', 'trapeze artist', 'trapese', 'trapeze', 'swinging trapeze']","Therefore, the answer is **""Trapeze,""** the 1956 film in which Gina Lollobrigida made her American film debut.",0.9777094592,1,"Therefore, the answer is **""Trapeze.""**",1
+"What was the name of the comedy written by Ray Galton, Alan Simpson which aired 57 episodes?
+Therefore, the answer is","['harold steptoe', 'steptoe and son', 'steptoe son', 'albert steptoe']",Steptoe and Son,0.9775603998,1,"Therefore, the answer is **""Steptoe and Son""**.",1
+"How many runs did Donald Bradman score in his last ever test match innings?
+Therefore, the answer is","['none', 'none disambiguation']",Donald Bradman scored **0 runs** in his last ever Test match innings.,0.9771065221,1,"Donald Bradman scored **0 runs** in his last ever Test match innings. In his final innings against England at The Oval in 1948, he was bowled for a duck (zero runs) by Eric Hollies. This unfortunate dismissal left his remarkable career Test batting average at 99.94, just shy of the coveted 100.",1
+"What sport or pastime would you be playing if your balls were black and blue and your opponent's were red and yellow?
+Therefore, the answer is","['lead off striker', 'association croquet', 'croquet', 'croquet ball', 'croquet mallet']",The sport is croquet.,0.9767835362,1,croquet.,1
+"What are the three primary colours of light?
+Therefore, the answer is",['red blue and green'],"The three primary colors of light are **red**, **green**, and **blue**. These are known as the additive primary colors because when combined in various ways, they can produce a wide spectrum of colors, including white light when all three are combined at full intensity.
+
+Therefore, the answer is **red, green, and blue**.",0.9756026073,1,"The three primary colours of light are red, green, and blue. Therefore, the answer is **red, green, and blue**.",1
+"What was the last US state to reintroduce alcohol after prohibition?
+Therefore, the answer is","['history of mining in utah', 'geography of utah', '45th state', 'utah united states', 'youtah', 'us ut', 'transportation in utah', 'utahn', 'state of utah', 'beehive state', 'salt lake seagulls', 'transport in utah', 'utah state', 'politics of utah', 'utah state nickname', 'forty fifth state', 'religion in utah', 'ut state', 'sports in utah', 'climate of utah', 'education in utah', 'utah', 'utahan', 'yutas', 'history of utah to 1847', 'utah u s state']",Mississippi,0.9747780745,0,"Therefore, the last U.S. state to reintroduce alcohol after Prohibition was **Mississippi**, which remained a dry state until 1966.",0
+"Who did Top of the Pops mistakenly portray in a Dexys Midnight Runners song?
+Therefore, the answer is","['jockie wilson', 'jocky wilson', 'jockey wilson']",Jocky Wilson.,0.9710700541,1,"Top of the Pops mistakenly portrayed the Scottish darts player **Jocky Wilson** during Dexys Midnight Runners' performance of ""Jackie Wilson Said (I'm in Heaven When You Smile)."" Instead of displaying an image of the American soul singer **Jackie Wilson**, the show featured a picture of Jocky Wilson on the backdrop, leading to a famous mix-up.",1
+"What is the largest city in Ohio?
+Therefore, the answer is","['rock and roll capital of world', 'cleveland ohio us', 'cleaveland', 'sister cities of cleveland ohio', 'cleve', 'cleveland', 'cleveland cuyahoga ohio', 'cleveland ohio', 'government of cleveland ohio', 'cleveland ohio u s', 'un locode uscle', 'rock n roll capital of world', 'cleveland oh', 'cleveland usa', 'poznan ohio', 'government of cleveland', 'cleveland ohio usa', 'urban community school', 'ohio cleveland', 'sixth city', 'clevelnad']","Therefore, the answer is **Columbus**, which is the largest city in Ohio.",0.9706023646,0,"Therefore, the answer is Columbus.",0
+"Who beat Tim Henman in his first Wimbledon singles semifinal?
+Therefore, the answer is","['sampras', 'sampras pete', 'peter sampras', 'pete sampras', 'petros 22pete 22 sampras']",Pete Sampras beat Tim Henman in his first Wimbledon singles semifinal.,0.9614229536,1,"Therefore, the answer is **Pete Sampras**.",1
+"In computers, the X-Y Position Indicator for a Display System is now known as what?
+Therefore, the answer is","['cursors', 'cursor', 'cursor disambiguation', 'cursers', 'curser']","In computers, the **X-Y Position Indicator for a Display System** is now known as the **mouse**. Therefore, the answer is **the mouse**.",0.96027515,0,"Therefore, the answer is the computer mouse.",0
+"From which country do French fries originate? France, Belgium or Switzerland?
+Therefore, the answer is","['der schweiz', 'switzeland', 'confederation helvetia', 'confederatio helvetica', 'swissland', 'switzerland information', 'confederation suisse', 'switserland', 'confédération suisse', 'swizterland', 'confederation of helvatia', 'swizerland', 'svizzera', 'confederation helvetica', 'land of switzers', 'suiza', 'confederaziun svizra', 'schweiz', 'etymology of switzerland', 'die schweiz', 'suisse', 'confederazione svizzera', 'swiss', 'svizra', 'switzerland', 'schweitz', 'swiss confederation', 'switz', 'svissland', 'schwitzerland', 'environmental integrity group', 'land of swiss', 'schweizerische eidgenossenschaft', 'swissenergy', 'confœderatio helvetica', 'confoederatio helvetica', 'switzer land', 'švýcarsko', 'swiss confederated states', 'iso 3166 1 ch']",Belgium.,0.9597087848,0,,
+"Which former US boxer is referred to as the ‘Poet laureate of boxing’?
+Therefore, the answer is",['floyd mayweather sr'],Muhammad Ali,0.9587025185,0,"The former U.S. boxer referred to as the **""Poet Laureate of Boxing""** is **Muhammad Ali**. Renowned not only for his exceptional skill in the ring but also for his charismatic personality, Ali was famous for crafting witty poems and sayings to promote his fights and taunt his opponents. His ability to turn phrases like ""Float like a butterfly, sting like a bee"" made him a cultural icon and added a poetic flair to the sport of boxing.",0
+"In Hanna and Barbera's TV cartoons base on The Addams Family who was the voice of Gomez?
+Therefore, the answer is",['john astin'],"Gomez Addams was voiced by **Lennie Weinrib** in the 1973 Hanna-Barbera animated series of *The Addams Family*, and by **John Astin** in the 1992 animated series also produced by Hanna-Barbera. Therefore, the answer is that **Lennie Weinrib** and **John Astin** provided the voice of Gomez in the Hanna-Barbera TV cartoons based on *The Addams Family*.",0.9579784642,1,"John Astin provided the voice of Gomez Addams in Hanna-Barbera's animated TV cartoons based on **The Addams Family**. Astin is well-known for originally portraying Gomez in the 1960s live-action television series, and he reprised his role by voicing the character in the animated adaptations.",1
+"What is the second most common word in written English?
+Therefore, the answer is","['o f', 'of disambiguation', 'of']","The second most common word in written English is **""of""**.
+
+Therefore, the answer is **""of""**.",0.9527840853,1,"Therefore, the answer is **""be""**.",0
+"Scarlett O'Hara was not beautiful, but men seldom realised it when caught by her charm as the Tarleton twins were
+Therefore, the answer is","['winds of tara', 'gone with wind novel', 'gone with teh wind', 'characters in gone with wind', 'charles hamilton gone with wind', 'gone with win', 'gone w wind', 'gwtw', 'gone with wind', 'mammy gone with wind']","Therefore, the answer is that Scarlett O'Hara's charm and vivacity made men overlook the fact that she was not conventionally beautiful. This line comes from the opening of Margaret Mitchell's novel *Gone with the Wind*, where it's highlighted that men like the Tarleton twins are so captivated by her personality that they don't realize her lack of traditional beauty.",0.9526498969,1,"The line you've provided is the opening sentence of the novel **""Gone with the Wind""** by **Margaret Mitchell**. Therefore, the answer is that this quote is from *""Gone with the Wind""*.",1
+"What is the name of the laboratory in New Jersey which is associated with Thomas Edison?
+Therefore, the answer is","['menlo park disambiguation', 'menlo park']","Thomas Edison's laboratory in New Jersey is called the **Menlo Park Laboratory**. It was here that Edison conducted many of his most significant experiments and inventions, including the development of the phonograph and improvements to the incandescent light bulb.
+
+Therefore, the answer is **the Menlo Park Laboratory**.",0.9517546815,1,"Therefore, the answer is the **Menlo Park Laboratory**.",1
+"Which word can go before Side, End and Ability to make three other words?
+Therefore, the answer is","['port of discharge', 'shipping port', 'ice free harbor', 'fluvial port', 'port', 'ice free port', 'ferry port', 'fishing port', 'deep water port', 'warm water port', 'seaport', 'seaports', 'deepwater port', 'port town', 'sea port', 'commercial port', 'ports disambiguation', 'ice free harbour', 'seaports of japan', 'sea ports', 'ports', 'deepwater pier', 'port city']","The word that can go before ""Side,"" ""End,"" and ""Ability"" to make three other words is **Port**.
+
+- **Port** + Side = **Portside** (the left side of a ship or aircraft when facing forward)
+- **Port** + End = **Portend** (to be a sign or warning that something significant is likely to happen)
+- **Port** + Ability = **Portability** (the quality of being light and small enough to be easily carried or moved)
+
+Therefore, the answer is **Port**.",0.9504805231,1,"To solve this puzzle, we need to find a word that can be placed before ""Side,"" ""End,"" and ""Ability"" to form new meaningful words. 
+
+Let's consider the word **""Leg""**:
+
+1. **Leg + Side = Leg Side** (a term used in cricket to refer to one side of the field)
+2. **Leg + End = Legend** (a traditional story or an extremely famous person)
+3. **Leg + Ability = Legibility** (the quality of being clear enough to read)
+
+Therefore, the word that fits before ""Side,"" ""End,"" and ""Ability"" to form new words is:
+
+**Leg**",0
+"What is a female gerbil called?
+Therefore, the answer is","['doe disambiguation', 'doe']","Therefore, the answer is that a female gerbil is called a **doe**.",0.9464128355,1,A female gerbil is called a **doe**.,1
+"Who was the cartoon adversary of Pixie and Dixie, who would often say I hate those meeces to pieces?
+Therefore, the answer is","['mr jinx', 'jinxy']",Mr. Jinks.,0.9461831958,1,"Mr. Jinks is the cartoon cat who served as the adversary of Pixie and Dixie in the animated series ""Pixie and Dixie and Mr. Jinks."" He is famous for his catchphrase, ""I hate those meeces to pieces!""",1
+"On a standard dartboard, what number lies opposite 18?
+Therefore, the answer is","['seven', '7']",The number opposite 18 on a standard dartboard is **7**.,0.9453552197,1,"On a standard dartboard, the numbers are arranged in a specific sequence designed to penalize inaccurate throws. The sequence starting from the top (12 o'clock position) and moving clockwise is as follows:
+
+1. **20**
+2. **1**
+3. **18**
+4. **4**
+5. **13**
+6. **6**
+7. **10**
+8. **15**
+9. **2**
+10. **17**
+11. **3**
+12. **19**
+13. **7**
+14. **16**
+15. **8**
+16. **11**
+17. **14**
+18. **9**
+19. **12**
+20. **5**
+
+To find the number directly opposite **18**, we need to locate the number that is exactly halfway around the dartboard. Since there are 20 numbers, we can calculate the opposite position by adding 10 positions (half of 20) to the position of **18**.
+
+- **Position of 18**: It is the 3rd number in the sequence.
+- **Opposite position**: 3 (position of 18) + 10 = **13**
+
+Looking at the 13th position in the sequence:
+
+- **Position 13**: **7**
+
+**Therefore, the number directly opposite 18 on a standard dartboard is 7.**",1
+"Mickey Braddock in the 50s series Circus Boy found fame with which surname in which pop band?
+Therefore, the answer is",['mickey dolenz monkees'],"Therefore, the answer is Micky Dolenz, who found fame as a member of the pop band The Monkees.",0.9404615667,1,"Mickey Braddock was the stage name used by Micky Dolenz when he starred in the 1950s television series **""Circus Boy.""** Later in his career, he found fame under his real surname **Dolenz** as a member of the pop band **The Monkees**.
+
+**Therefore, the answer is: Dolenz, The Monkees.**",1
+"To whom is Gwyneth Paltrow married?
+Therefore, the answer is","['moses bruce martin', 'christopher anthony john 22chris 22 martin', 'chris martin', 'moses bruce anthony martin', 'moses martin', 'chris martin musician', 'christopher anthony john martin']","Therefore, the answer is **Brad Falchuk**. Gwyneth Paltrow is married to Brad Falchuk, a television writer, director, and producer known for his work on shows like *Glee* and *American Horror Story*. They were married in September 2018.",0.9349828623,1,"As of my knowledge cutoff in October 2023, Gwyneth Paltrow is married to Brad Falchuk. Therefore, the answer is **Brad Falchuk**.",1
+"How many US Presidents have been impeached?
+Therefore, the answer is","['2', 'two']","Three U.S. Presidents have been impeached:
+
+1. **Andrew Johnson** in 1868
+2. **Bill Clinton** in 1998
+3. **Donald Trump** was impeached twice, first in 2019 and again in 2021
+
+Therefore, the answer is **three U.S. Presidents have been impeached**.",0.9300924229,1,"Three U.S. Presidents have been impeached by the House of Representatives:
+
+1. **Andrew Johnson** in 1868: He was impeached primarily for violating the Tenure of Office Act by attempting to remove Secretary of War Edwin M. Stanton without Senate approval. Johnson was acquitted by the Senate by one vote and remained in office.
+
+2. **Bill Clinton** in 1998: He faced impeachment on charges of perjury and obstruction of justice related to the Monica Lewinsky scandal. Clinton was also acquitted by the Senate and served the remainder of his term.
+
+3. **Donald Trump** was impeached **twice**:
+   - **First Impeachment in December 2019**: He was charged with abuse of power and obstruction of Congress concerning his dealings with Ukraine. The Senate acquitted him in February 2020.
+   - **Second Impeachment in January 2021**: This charge was incitement of insurrection following the events at the U.S. Capitol on January 6, 2021. The Senate acquitted him again in February 2021.
+
+Therefore, the answer is that **three U.S. Presidents have been impeached**. While there have been four presidential impeachments in total, they involved these three presidents. It's important to note that impeachment by the House does not remove a president from office; removal requires a conviction by a two-thirds majority in the Senate, which has not happened to any U.S. president to date.",1
+"Bosworth cheese comes from which English county?
+Therefore, the answer is","['county of stafford', 'staffs', 'staffordshire england', 'staffordshire']","Therefore, the answer is Leicestershire.",0.928990427,0,Leicestershire.,0
+"In which country is the Sky Train Rail bridge?
+Therefore, the answer is","['canada s', 'canadá', 'ᑲᓇᑕ', 'čanada', 'canadaa', 'america s top hat', 'cnada', 'kenadian', 'xanada', 'canadian federation', 'iso 3166 1 ca', 'canadialand', 'canada', 'canada references', 'dominion of canada', 'commonwealth of canada', 'etymology of canada', 'canadiophile']","Therefore, the answer is **Canada**.",0.9277144007,1,"The Sky Train Rail bridge is located in Nigeria. It is part of the Lagos Rail Mass Transit system, specifically the Blue Line, which includes a dedicated rail bridge over the Lagos Lagoon. This project aims to improve transportation within Lagos by providing a reliable and efficient rail service.
+
+Therefore, the answer is **Nigeria**.",0
+"Who had the most expensive presidential inauguration ceremony of the 20th century?
+Therefore, the answer is","['bush junior', 'bushian', 'george w budh', 'g dub', 'baby bush', 'bush ii', 'george w bush', 'gorge w bush', 'g walker bush', 'jorge w bush', 'george w bush jr', 'us president george w bush', 'george w bush street', 'goerge w bush', 'george bush junior', 'georgewbush', 'gw bush', 'george walker bush', '43rd pesident of united states', 'george w bush 43rd president of united states', 'george w buah', 'george bush 2000', 'international perception of george w bush', 'dubya bush', 'george bush jr', 'george w bush painter', 'george w', 'junior bush', 'bush george w', 'dubyuh', 'g w bush', 'w bush', 'george dubya bush', 'george bush ii', 'george bush 2', 'dubya', 'bushists', 'president bush 2000', '2004 republican presidential nominee', 'religious faith of george w bush', 'president bush 43', 'former president george w bush', 'bush 43', '43rd president of united states', 'g w b', 'george w bussh', 'bush jr', 'george wаlker bush', 'president george walker bush', 'bush younger', 'george bush 43rd u s president', 'george bush 43', 'george younger', '2000 republican presidential nominee', 'geroge w bush', 'president george w bush']","Bill Clinton had the most expensive presidential inauguration ceremony of the 20th century. His second inauguration in 1997 was particularly noteworthy for its high costs, which were reported to be around **$42 million** at the time. The expenses covered a series of events including the inaugural parade, multiple inaugural balls, concerts, and other celebrations that spanned several days.
+
+The funding for these festivities came from private donations and corporate sponsors, which led to discussions about the influence of money in politics and the role of special interests. Despite the debates, the inauguration set a precedent for the scale and extravagance of future presidential inaugurations.
+
+Therefore, the answer is **Bill Clinton**.",0.9227906124,0,"Therefore, the answer is **Bill Clinton**, whose second presidential inauguration in 1997 was the most expensive ceremony of the 20th century. The 1997 inauguration festivities were reported to have cost around $42 million, a record at the time for inaugural expenditures. The expenses covered a range of events including parades, balls, and security measures, and were funded through a combination of public funds and private donations. This set a new benchmark for inaugural costs until it was surpassed by subsequent inaugurations in the 21st century.",0
+"“And in the end you wind up dying all alone on some dusty street. For what? For a tin
+Therefore, the answer is","['high noon', 'high noon 1952 film', 'high noon movie', 'high noon film']",star,0.9218933683,0,"""For a tin star.""",0
+"Taphephobia is the fear of losing your teeth?
+Therefore, the answer is","['falsehood', 'false disambiguation', 'false']","Taphephobia, also spelled taphophobia, is the fear of being buried alive. The term comes from the Greek words *taphos* meaning ""grave"" or ""burial,"" and *phobia* meaning ""fear."" This phobia was more common in the past when methods for determining death were less reliable.
+
+The fear of losing your teeth does not correspond to taphephobia. While there isn't a widely recognized specific term for the fear of losing teeth, dental anxiety or odontophobia refers to the fear of dentists or dental procedures.
+
+**Therefore, the answer is that taphephobia is the fear of being buried alive, not the fear of losing your teeth.**",0.9189283355,1,"Actually, *taphephobia* is the fear of being buried alive. The term comes from the Greek words ""taphos"" meaning grave, and ""phobia"" meaning fear. The fear of losing your teeth doesn't have a specific phobia name, but anxiety about dental health can be associated with **odontophobia**, which is the fear of dentists or dental procedures.
+
+If you're experiencing concerns about dental health or related anxieties, it might be helpful to consult a dental professional or a mental health practitioner for guidance.",1
+"Who was the director of the CIA from 1976-81?
+Therefore, the answer is","['georgebush', 'george bushe', 'goerge bush', 'bush george', 'geroge bush', 'george w bush disambiguation', 'g bush', 'george bush president', 'george bush', 'georg bush', 'george bush disambiguation']","George H. W. Bush served as the Director of the Central Intelligence Agency (CIA) from January 30, 1976, to January 20, 1977. Following his tenure, E. Henry Knoche served as Acting Director from January 20, 1977, to March 9, 1977. Admiral Stansfield Turner then took over as Director on March 9, 1977, and served until January 20, 1981.
+
+Therefore, the Directors of the CIA from 1976 to 1981 were:
+
+1. **George H. W. Bush** (January 30, 1976 – January 20, 1977)
+2. **E. Henry Knoche** (Acting Director, January 20, 1977 – March 9, 1977)
+3. **Stansfield Turner** (March 9, 1977 – January 20, 1981)",0.9188563854,1,"The Directors of the Central Intelligence Agency (CIA) from 1976 to 1981 were **George H. W. Bush** and **Stansfield Turner**.
+
+- **George H. W. Bush** served as the Director of Central Intelligence from **January 30, 1976, to January 20, 1977**.
+- **Stansfield Turner** served from **March 9, 1977, to January 20, 1981**.
+
+Therefore, the answer is **George H. W. Bush** and **Stansfield Turner**.",1
+"Which serialised TV drama had a title that is a Lesbian slang term for oral sex?
+Therefore, the answer is","['tipping velvet novel', 'tipping velvet']",Lip Service,0.9171635506,0,Lip Service,0
+"Tsar Nicholas I abidacated in 1917, who was the other monarch to abdicate during this period?
+Therefore, the answer is","['konstantinos i of greece', 'konstantinos i', 'constantine i of hellenes', 'constantine oldenburg', 'constantine i of greece', 'constantine i king of hellenes', 'constantine xii']","Tsar Nicholas II of Russia abdicated in March 1917 during the Russian Revolution. During this tumultuous period of World War I, another significant monarch also abdicated: King Constantine I of Greece. 
+
+King Constantine I faced political pressure due to his pro-German stance (he was the brother-in-law of Kaiser Wilhelm II) while Greece was divided over joining the Allies or remaining neutral. In June 1917, under pressure from the Allies and internal opposition, Constantine abdicated in favor of his second son, Alexander, as his eldest son, George, was considered too aligned with his father's policies.
+
+**Therefore, the other monarch who abdicated during this period was King Constantine I of Greece.**",0.9169187317,1,"I believe you're referring to Tsar Nicholas **II**, who abdicated in 1917 during the Russian Revolution. The other monarch who abdicated during this period was **King Constantine I of Greece**. 
+
+King Constantine I abdicated on June 11, 1917, under pressure from the Allied Powers during World War I. His perceived pro-German sympathies and refusal to support the Allies led to political turmoil in Greece. To avoid further conflict and possible invasion, he relinquished the throne in favor of his second son, Alexander, as his eldest son, Crown Prince George, was also thought to share his father's political views.",1
+"‘Mucke’ is the Serbo-Croatian name for which UK tv series?
+Therefore, the answer is","['only fools and horses', 'paddy greek', 'of h', 'george trotter', 'peckham echo', 'sunglasses ron', 'yernly fyerls and nesbits', 'only fools horses', 'only fools', 'trotters international traders plc', 'lovely jubly', 'voted britain s best sitcom', 'once upon time in peckham', 'trotters independent traders', 'nelson mandella house']",**Only Fools and Horses**,0.9099890105,1,"""Mućke"" is the Serbo-Croatian title for the UK television series **""Only Fools and Horses""**. The word ""mućke"" can be translated roughly as ""shady deals"" or ""dodgy dealings,"" which reflects the show's focus on the comedic exploits of two streetwise brothers, Del Boy and Rodney Trotter, who are always trying to get rich through questionable schemes. The series is a beloved British sitcom that originally aired from 1981 to 2003 and has gained international popularity, including in Serbo-Croatian-speaking regions.
+
+**Therefore, the answer is ""Only Fools and Horses.""**",1
+"In what year was the first Tarzan novel published?
+Therefore, the answer is","['1914', 'one thousand nine hundred and fourteen']","The first Tarzan novel, **""Tarzan of the Apes""** by Edgar Rice Burroughs, was first published in **1912**. Therefore, the answer is **1912**.",0.8874573593,0,1912,0
+"Which Muppet from the television series shares a name with a former US President?
+Therefore, the answer is","['grover s mommy', 'baby grover', 'grover', 'grover monster', 'super grover', 'grover sesame street', 'global grover', 'grover s mom']",Grover,0.8814414476,1,"Therefore, the answer is **Grover**.
+
+Grover is a beloved Muppet character from the television series ""Sesame Street."" He shares his name with Grover Cleveland, who served as the 22nd and 24th President of the United States.",1
+"What colour hair did Charles Dickens' character David Copperfield have?
+Therefore, the answer is","['red song', 'red album', 'red comics', 'red disambiguation', 'r e d', 'red', 'red film', 'red comic']","In Charles Dickens's novel **""David Copperfield,""** the protagonist's hair color is not explicitly described. Dickens often focuses on the inner thoughts, feelings, and moral qualities of his characters rather than providing detailed physical descriptions. Therefore, there is no definitive answer regarding David Copperfield's hair color based on the text.
+
+**Therefore, the answer is** that David Copperfield's hair color is not specified in the novel.",0.8813595338,0,"Therefore, the answer is that Charles Dickens did not explicitly specify David Copperfield's hair color in the novel. The character's physical appearance is not described in detail regarding hair color, leaving it to the reader's imagination.",0
+"How many definite suicides occur in the plays of William Shakespeare?
+Therefore, the answer is","['13', 'thirteen']","Therefore, the answer is **15 definite suicides** that occur in the plays of William Shakespeare.
+
+Here is a list of the characters who commit definite suicides:
+
+1. **""Romeo and Juliet""**
+   - **Romeo**: Takes poison believing Juliet is dead.
+   - **Juliet**: Stabs herself after finding Romeo dead.
+
+2. **""Julius Caesar""**
+   - **Brutus**: Runs onto his own sword held by Strato.
+   - **Cassius**: Has his servant Pindarus kill him with the same sword that killed Caesar.
+   - **Titinius**: Kills himself after mistakenly believing Cassius is dead.
+   - **Portia**: Commits suicide by swallowing hot coals due to grief over Brutus's absence.
+
+3. **""Antony and Cleopatra""**
+   - **Mark Antony**: Falls on his sword after hearing false news of Cleopatra's death.
+   - **Cleopatra**: Allows herself to be bitten by an asp (venomous snake).
+   - **Charmian**: Follows Cleopatra's example and also uses an asp.
+   - **Iras**: Dies, presumably by the same method, shortly before Cleopatra.
+   - **Eros**: Kills himself instead of killing Antony as ordered.
+
+4. **""Othello""**
+   - **Othello**: Stabs himself out of guilt after murdering Desdemona.
+
+5. **""Hamlet""**
+   - **Ophelia**: Drowns herself, overwhelmed by grief and madness.
+
+6. **""King Lear""**
+   - **Goneril**: Stabs herself after her plots are exposed and rejected by Edmund.
+
+7. **""Macbeth""**
+   - **Lady Macbeth**: Dies offstage, reported to have committed suicide due to guilt-induced madness.
+
+These 15 instances are the most widely recognized definite suicides in Shakespeare's plays.",0.8791240738,0,"William Shakespeare's plays feature several characters who take their own lives. The definite suicides occur in the following plays:
+
+1. **Romeo and Juliet**:
+   - **Romeo**: Believing Juliet is dead, he drinks poison.
+   - **Juliet**: Upon awakening to find Romeo dead, she stabs herself with his dagger.
+
+2. **Julius Caesar**:
+   - **Cassius**: Misled into thinking Brutus has been defeated, he has his servant Pindarus help him kill himself with his own sword.
+   - **Brutus**: Defeated in battle, he runs onto his sword held by his servant Strato.
+   - **Titinius**: Overcome with grief at Cassius's death, he kills himself with Cassius's sword.
+   - **Portia**: Although her death occurs offstage, it's reported that she commits suicide by swallowing hot coals due to her anxiety over Brutus's absence.
+
+3. **Othello**:
+   - **Othello**: Realizing he was deceived into murdering his innocent wife Desdemona, he takes his own life with a dagger.
+
+4. **Antony and Cleopatra**:
+   - **Mark Antony**: Believing Cleopatra is dead, he attempts suicide by falling on his sword. He is mortally wounded and dies after being brought to Cleopatra.
+   - **Cleopatra**: To avoid being paraded as a captive in Rome, she allows herself to be bitten by a venomous asp.
+
+5. **Macbeth**:
+   - **Lady Macbeth**: Plagued by guilt and madness from her role in the murders, it's reported she dies by suicide offstage.
+
+Therefore, the answer is **ten** definite suicides that occur in the plays of William Shakespeare.",0
+"The Black Hills lie between which two rivers?
+Therefore, the answer is",['belle fourche and cheyenne'],"The Black Hills are a small, isolated mountain range rising from the Great Plains in western South Dakota and extending into Wyoming. Geographically, they are situated between two significant rivers in the region: the Belle Fourche River to the north and the Cheyenne River to the south.
+
+The **Belle Fourche River** flows northeastward, skirting the northern edge of the Black Hills. It is a tributary of the Missouri River and plays a crucial role in draining the northern slopes of the Black Hills. The river's proximity to the Black Hills contributes to the area's unique ecosystem and provides water resources for the surrounding plains.
+
+On the other hand, the **Cheyenne River** runs along the southern boundary of the Black Hills. It also feeds into the Missouri River and drains the southern slopes of the hills. The Cheyenne River basin is significant for its agricultural and ecological importance in the region.
+
+**Therefore, the answer is that the Black Hills lie between the Belle Fourche River and the Cheyenne River.**",0.8764588211,1,The Cheyenne River and the Belle Fourche River.,1
+"The ‘Mahlabatari Declaration of Faith’ was a statement of core principles laid down by the political leaders of which country in 1974?
+Therefore, the answer is","['zuidafrika', 'azania south africa', 'south africans', 'zuid africa', 'suid africa', 'afrique du sud', 'saffa', 'south africa s', 'third republic south africa', 'ningizimu afrika', 'sou frica', 'iso 3166 1 za', 'soufrica', 'capital of south africa', 's afr', 'seth efrika', 'zuid afrika', 'suid afrika', 'south africaà', 's africa', 'republic of south africa', 'rep of south africa', 'south african', 'beloved country', 'south africa', 'southafrica', 'mzansi', 'republiek van suid afrika']",South Africa.,0.8761218305,1,"Therefore, the answer is **South Africa**.",1
+"In which sport or pastime can you see nose walking?
+Therefore, the answer is","['surfboarder', 'surfers', 'surf wave', 'hawaiian surfing', 'surf camp', 'barreling waves', 'boardwear', 'surfboarding', 'surfer', 'physics of surfing', 'cutback surfing move', '🏄', 'barreling wave', 'surfing']","Nose walking is a technique commonly seen in **longboard surfing**. In this sport, surfers use longer surfboards, which allow them to walk along the board while riding a wave. ""Nose walking"" specifically refers to the action of walking toward the front end (or ""nose"") of the surfboard. When a surfer reaches the nose, they can perform maneuvers like ""nose riding"" or ""hanging ten,"" where all ten toes hang off the front of the board.
+
+Therefore, the answer is **surfing**, particularly longboard surfing.",0.875736045,1,surfing,1
+"Five-legged creatures have damaged which 1250 mile long wonder of the world?
+Therefore, the answer is","['douglas shoal', 'great detached reef', 'great barrier reef history', 'great barrier reef', 'great barrier reef world heritage area']","Therefore, the answer is the Great Barrier Reef.",0.8678896603,1,The Great Barrier Reef.,1
+"Macbeth belonged to which royal house or dynasty?
+Therefore, the answer is","['macmalcolm', 'canmore dynasty', 'canmores', 'dunkeld dynasty', 'house of canmore', 'house of dunkeld']","Macbeth belonged to the **House of Moray**, a powerful noble family in medieval Scotland. He was Mormaer (Earl) of Moray before becoming King of Scots, reigning from 1040 to 1057. Macbeth ascended to the throne after defeating King Duncan I in battle, a common method of succession in 11th-century Scotland due to the system of tanistry, where kingship could pass to a qualified male within the royal family rather than strictly from father to son.
+
+The historical Macbeth was known for his effective rule and is recorded to have made a pilgrimage to Rome in 1050, indicating stability during his reign. His kingship ended when he was defeated and killed by Malcolm Canmore (later Malcolm III), Duncan I's son, who sought to reclaim the throne for his lineage.
+
+It's important to note that the historical account of Macbeth differs significantly from the portrayal in William Shakespeare's tragedy *""Macbeth.""* Shakespeare's version is a dramatic adaptation that incorporates elements of fiction and was influenced by political considerations of his time, particularly to flatter King James VI of Scotland (also James I of England), a descendant of Banquo, a character in the play.
+
+Therefore, the answer is that Macbeth belonged to the House of Moray.",0.854362418,0,"Therefore, the answer is that Macbeth belonged to the **House of Moray**. Macbeth was the Mormaer (an equivalent of Earl) of Moray before he became the King of Scotland from 1040 to 1057. The House of Moray was a powerful dynastic family in medieval Scotland, and Macbeth's lineage and claim to the throne were tied to this house through both his father, Findláech mac Ruaidrí, and his wife, Gruoch, who was a granddaughter of a previous king, Kenneth III. This connection strengthened his position and legitimacy in ascending to the Scottish throne.",0
+"In years and days, how old was Luigina Giavotti when she won a silver medal in gymnastics in 1928, and is still the youngest medal winner today?
+Therefore, the answer is",['11 years and 302 days'],"Luigina Giavotti was born on **October 12, 1916**, and she won the silver medal in the women's team gymnastics event at the **1928 Summer Olympics**, which took place in Amsterdam. The specific date of the women's team all-around event was **August 8, 1928**.
+
+To calculate her exact age on the day she won the medal:
+
+1. **Calculate the years between her birth and the medal date:**
+   - From **October 12, 1916**, to **October 12, 1927**, is **11 years**.
+
+2. **Calculate the additional months and days from her 11th birthday to the medal date:**
+   - From **October 12, 1927**, to **August 8, 1928**, is **9 months and 27 days**.
+     - **Months:**
+       - October 12 to November 12: 1 month
+       - November 12 to December 12: 1 month
+       - December 12 to January 12: 1 month
+       - January 12 to February 12: 1 month
+       - February 12 to March 12: 1 month
+       - March 12 to April 12: 1 month
+       - April 12 to May 12: 1 month
+       - May 12 to June 12: 1 month
+       - June 12 to July 12: 1 month
+     - **Days:**
+       - July 12 to August 8:
+         - From **July 12** to **July 31**: 19 days
+         - From **August 1** to **August 8**: 8 days
+         - Total days: **19 + 8 = 27 days**
+
+Therefore, Luigina Giavotti was **11 years, 9 months, and 27 days** old when she became the youngest Olympic medalist in history.
+
+**Answer: 11 years, 9 months, and 27 days old when she won the silver medal in 1928.**",0.8539055335,0,"To determine Luigina Giavotti's exact age in years and days when she won the silver medal at the 1928 Summer Olympics, we need to calculate the time between her birth date and the date of the gymnastics event where she earned the medal.
+
+**1. Luigina Giavotti's Birth Date:**
+- **Born on:** October 12, 1916
+
+**2. Date of the Gymnastics Event:**
+- The women's team gymnastics event at the 1928 Summer Olympics took place on **August 8, 1928**.
+
+**3. Calculating the Age:**
+- **From October 12, 1916, to October 12, 1927:** 11 full years.
+- **From October 12, 1927, to August 8, 1928:**
+
+  Let's calculate the number of days between these two dates.
+
+- **Days in Each Month from October 1927 to August 1928:**
+  - **October 12-31, 1927:** 19 days
+  - **November 1927:** 30 days
+  - **December 1927:** 31 days
+  - **January 1928:** 31 days
+  - **February 1928 (leap year):** 29 days
+  - **March 1928:** 31 days
+  - **April 1928:** 30 days
+  - **May 1928:** 31 days
+  - **June 1928:** 30 days
+  - **July 1928:** 31 days
+  - **August 1-8, 1928:** 8 days
+
+- **Total Days from October 12, 1927, to August 8, 1928:**
+  - **Total Days =** 19 (Oct) + 30 (Nov) + 31 (Dec) + 31 (Jan) + 29 (Feb) + 31 (Mar) + 30 (Apr) + 31 (May) + 30 (Jun) + 31 (Jul) + 8 (Aug) = **301 days**
+
+**4. Total Age:**
+- **Age =** 11 years + 301 days
+
+Therefore, Luigina Giavotti was **11 years and 301 days old** when she won the silver medal at the 1928 Olympics, making her the youngest Olympic medalist in gymnastics (and still the youngest medal winner as of 2023).
+
+**Answer:** 11 years and 301 days old",0
+"Which UK band had 2 top ten singles in the same week in 2001?
+Therefore, the answer is","['flicker musician', 'jenny watkins isnardi', 'i know i believe in nothing but it is my nothing', '70 songs of hatred and failure', 'manics', 'manic street preachers']",So Solid Crew.,0.8461186478,0,"The UK band that had two top ten singles in the same week in 2001 is **So Solid Crew**. They achieved this feat with their singles ""21 Seconds"" and ""They Don't Know,"" both of which charted in the UK Top 10 simultaneously. So Solid Crew was a prominent garage and hip-hop group during the early 2000s, known for pioneering the UK garage scene and bringing it into the mainstream.",0
+"Which war veteran was Director of News & Special Events for ABC before find fame as a TV cop?
+Therefore, the answer is","['thomas william 22tom 22 selleck', 'thomas selleck', 'tom selleck', 'thomas william selleck']","The war veteran who served as Director of News & Special Events for ABC before finding fame as a TV cop is **Telly Savalas**.
+
+Telly Savalas was a World War II veteran who began his career in broadcasting after the war. He worked for ABC News, where he eventually became the Director of News Special Events. In this role, he was responsible for producing and directing news and special event programming.
+
+After his tenure at ABC, Savalas transitioned into acting. He gained widespread fame for his portrayal of the lollipop-loving detective Lieutenant Theo Kojak in the popular 1970s television series **""Kojak.""** His charismatic performance and the show's popularity made him an iconic figure in television history.
+
+Therefore, the answer is **Telly Savalas**.",0.8452020399,0,Telly Savalas.,0
+"Which American called the Daily Mail ‘the worst kind of tabloid’?
+Therefore, the answer is","['george cloony', 'clooney george', 'george t clooney', 'goerge clooney', 'challenge 2011 film', 'max pig', 'george klooney', 'george timothy clooney', 'george clooney', 'list of george clooney awards and nominations']","Therefore, the answer is **George Clooney**, the American actor and filmmaker who called the *Daily Mail* ""the worst kind of tabloid.""",0.8288788092,1,George Clooney.,1
+"During which year was Washington DC declared the capital of the USA?
+Therefore, the answer is","['one thousand seven hundred and ninety', '1790']","Therefore, the answer is **1800**. Washington, D.C. became the official capital of the United States in 1800 when the federal government moved there from Philadelphia.",0.822206434,0,"Therefore, the answer is **1800**.",0
+"Art Garfunkel trained for which profession although he didn't qualify?
+Therefore, the answer is","['master builder occupation', 'graziani corazza', 'architecht', 'clifford lawrie', 'architechts', 'architects', 'registered architect', 'hok canada inc', 'architect', 'stanford downey architects inc']","Art Garfunkel trained to become a **mathematics professor**. After earning his bachelor's degree in art history, he pursued a master's degree in mathematics at Columbia University, which he completed in 1967. He then began working toward a doctorate in mathematics education but did not finish the program. Therefore, the answer is that he trained to be a **mathematics professor** but didn't qualify.",0.8172232661,0,"Art Garfunkel trained to become a **mathematics teacher** but did not complete the necessary qualifications to pursue that profession. He earned a master's degree in mathematics education from Teachers College, Columbia University, and even began doctoral studies. However, his burgeoning music career with Paul Simon eventually took precedence, and he did not finish his doctorate. Therefore, the answer is that he trained to be a mathematics teacher but did not qualify.",0
+"As at March 2001, who holds the record for scoring the most league goals for the soccer team Arsenal?
+Therefore, the answer is","['ian wright', 'mr wright']","As of March 2001, the player who held the record for scoring the most league goals for Arsenal was **Cliff Bastin**.",0.8140339151,0,"Therefore, the answer is Cliff Bastin.",0
+"Which word can go before Work, Guard and Dog to make three other words?
+Therefore, the answer is","['🔥', 'fire damage', 'open flame', 'fire', 'alight', 'fires', 'firetending', 'causes of fire']","The word is ""Fire"":
+
+1. **Firework**: a device containing gunpowder and other combustible chemicals which causes spectacular effects and explosions when ignited, used for display or in celebrations.
+2. **Fireguard**: a screen or grid placed in front of a fireplace to prevent sparks and embers from escaping.
+3. **Firedog**: an andiron; a metal support for logs in a fireplace.
+
+Therefore, the answer is **Fire**.
+
+**Answer:** Fire",0.8080439954,1,"The word that can go before ""Work,"" ""Guard,"" and ""Dog"" to form new words is **""Fire.""**
+
+- **Firework**: Objects that produce dazzling displays when ignited, commonly used in celebrations.
+- **Fireguard**: A protective screen in front of a fireplace to prevent sparks from escaping or a person who watches for and suppresses fires.
+- **Firedog**: An andiron, which is a metal support used in a fireplace to hold up logs. (Note: In some contexts, ""firedog"" refers to a decorative item in a fireplace.)
+
+Therefore, the answer is **Fire**.",1
+"Yuan Yuan was caught carrying drugs for which Chinese team?
+Therefore, the answer is","['to suijutsu', 'swam', 'swimming disambiguation', 'swimming']","As of my knowledge cutoff in October 2023, there are no public reports or verified information indicating that an individual named Yuan Yuan was caught carrying drugs for any Chinese team. It's possible that this information emerged after my last update or may be based on misinformation.
+
+For the most accurate and up-to-date information, I recommend checking recent credible news sources or official statements from relevant authorities.",0.8028992057,0,"As of my knowledge cutoff in October 2023, there are no public records or reports indicating that an individual named Yuan Yuan was caught carrying drugs for any Chinese team. It's possible that this information emerged after my last update or may not be widely publicized.
+
+For the most accurate and up-to-date information, I recommend checking recent news articles or official statements from reputable news outlets or authorities.",0
+"On a standard dartboard, which number lies opposite number 4?
+Therefore, the answer is","['sixteen', '16']","The numbers on a standard dartboard are arranged in a specific order to penalize inaccuracy. Starting from the top (12 o'clock position), the numbers are placed in the following sequence clockwise:
+
+1. **20**
+2. **1**
+3. **18**
+4. **4**
+5. **13**
+6. **6**
+7. **10**
+8. **15**
+9. **2**
+10. **17**
+11. **3**
+12. **19**
+13. **7**
+14. **16**
+15. **8**
+16. **11**
+17. **14**
+18. **9**
+19. **12**
+20. **5**
+
+To find the number opposite number **4**, we need to determine which number is directly across the board from it. On a circular dartboard with 20 numbers, the number opposite any given number is 10 positions away (since 20 divided by 2 equals 10).
+
+- **Position of number 4**: 4th position.
+- **Opposite position**: 4 + 10 = **14th position**.
+
+Looking at the 14th position in the sequence, we find the number **16**.
+
+**Therefore, the answer is 16.**
+
+**Answer:** 16",0.8010849072,1,16,1
+"Which was the first European city this century to open an underground railway system?
+Therefore, the answer is","['parís', 'paris europe', 'paris etymology', 'paname', 'cuisine of paris', 'paris', 'departement de paris', 'paříži', 'ville lumière', 'city of love city', 'paris île de france', 'paris ile de france', 'paříž', 'name of paris and its inhabitants', 'parisian person', 'sports in paris', 'paris agglomeration', 'département de paris', 'sport in paris', 'ville lumiere', 'paris banks of seine', 'suburbs of paris', 'france paris', 'rue de menilmontant', 'rue de ménilmontant', 'weather in paris', 'paris france', 'parizi', 'leucetia', 'paree', 'paris île de france france', 'frpar', 'un locode frpar', 'parisien', 'parijs']","Therefore, the answer is **Rennes, France**, which inaugurated its metro system on March 15, 2002. This made Rennes the first European city in the 21st century to open a new underground railway system.",0.7983952515,0,"The first European city this century to open an underground railway system is Rennes, France. The Rennes Metro began operation in March 2002 with its Line A, making it the first new underground metro system in Europe of the 21st century.",0
+"What is the name of the perfume launched by British boyband JLS in January 2013?
+Therefore, the answer is","['loveworthy', 'latin words for love', 'sacrificial love', 'love', 'loveliest', 'true love feeling', 'idealized love', 'chemistry of love', '💑', 'idealised love', 'lovable', '愛', 'lovelier', 'lovingly', 'loving relationship', 'loves', 'prem hinduism', 'love interest']","The perfume launched by the British boyband JLS in January 2013 is called **""Love""**. Therefore, the answer is **""Love""**.",0.7976868412,1,"The perfume launched by the British boyband JLS in January 2013 is called **""Forever""**.",0
+"In which London thoroughfare is The Monument?
+Therefore, the answer is",['pudding lane'],"The Monument to the Great Fire of London is located on Monument Street, at the junction with Fish Street Hill, in the City of London.
+
+Therefore, the answer is **Monument Street**.",0.7932459495,0,"The Monument, officially known as the Monument to the Great Fire of London, is located on Monument Street in the City of London. It stands at the junction of Monument Street and Fish Street Hill, near the northern end of London Bridge.
+
+Therefore, the answer is **Monument Street**.",0
+"Last month, what word was named by Oxford Dictionaries as the word of the year?
+Therefore, the answer is","['селфи', 'no makeup selfie', 'selfy', 'falfie', 'christ redeemer selfie', 'selfie olympics', 'selfies', 'selfie']","As of my knowledge cutoff in October 2023, Oxford Dictionaries has not yet announced their Word of the Year for 2023. The most recent Word of the Year announced by Oxford Dictionaries was **""goblin mode""** in 2022.
+
+Therefore, the answer is **""goblin mode.""**",0.78888317,0,"As of my knowledge cutoff in October 2023, the most recent ""Word of the Year"" announced by Oxford Dictionaries is **""goblin mode.""** This term was selected as the Oxford Word of the Year for 2022. Since the Word of the Year for 2023 would typically be announced later in the year, I don't have that information. 
+
+Therefore, the answer is **""goblin mode.""**",0
+"What US sitcom was the first exported to Britain?
+Therefore, the answer is","['amos andy', 'brazilian brass mines', 'george 22kingfish 22 stevens', 'amos and andy', 'amos n andy show', 'amos n andy']","The first U.S. sitcom to be exported to Britain was **""I Love Lucy""**. Premiering in the United States in 1951, ""I Love Lucy"" starred Lucille Ball and Desi Arnaz and became a groundbreaking show in American television history. Its success led to international interest, and it was among the earliest American sitcoms broadcast on British television.
+
+""I Love Lucy"" was notable not only for its comedic brilliance but also for its innovative production techniques, such as using a multi-camera setup in front of a live studio audience. The show's universal themes and the charismatic performance of Lucille Ball resonated with audiences worldwide, contributing to its successful export to the United Kingdom and other countries.",0.7681283648,0,"""I Love Lucy""",0
+"Andrew Lloyd Webber and Tim Rice first worked together on which musical?
+Therefore, the answer is",['likes of us'],"Andrew Lloyd Webber and Tim Rice first collaborated on the musical **""The Likes of Us""** in 1965. Therefore, the answer is **""The Likes of Us""**.",0.7679613224,1,"Therefore, the answer is **""The Likes of Us.""**",1
+"Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?
+Therefore, the answer is","['stars on 45 song', 'stars on 45 single', 'stars on 45 medley', 'medley intro venus sugar sugar no reply i ll be back drive my car do you want to know secret we can work it out i should have known better nowhere man you re going to lose that girl stars on 45']","""Medley"" by Stars on 45.",0.7658439799,1,"""Stars on 45 Medley"" by Stars on 45.",1
+"Which dancer has only one notable film cameo, appearing with Sean Connery in the 1979 movie The First Great Train Robbery, breaking into a guarded station office.
+Therefore, the answer is",['wayne sleep'],**Wayne Sleep**,0.7551666667,1,"**Wayne Sleep** is the dancer who made his only notable film cameo in the 1979 movie *The First Great Train Robbery* (also known as *The Great Train Robbery*). In the film, he appears alongside Sean Connery in a scene where they break into a guarded station office. Wayne Sleep is a renowned British ballet dancer known for his work with The Royal Ballet and for his extraordinary agility and charisma on stage. His appearance in the film is a rare example of his work in cinema.",1
+"What is the final event in a decathlon?
+Therefore, the answer is","['1500 metres', 'one thousand five hundred distance', '1500 distance']",The final event in a decathlon is the **1500 meters race**.,0.754224212,1,"Therefore, the answer is the 1500 metres race.",1
+"What was journalist Richard Littlejohn’s nickname for Cherie Blair?
+Therefore, the answer is","['wicked witch of west', 'witch of west', 'wicked witch', 'wizard of oz wicked witch of west']","Richard Littlejohn's nickname for Cherie Blair was **""The Wicked Witch.""**",0.7503519448,1,"Journalist Richard Littlejohn often referred to Cherie Blair as ""The Wicked Witch"" in his columns.",1
+"Which female singer was born on exactly the same day as impressionist Rich Little?
+Therefore, the answer is","['tinna turner', 'tina turner s', 'tina turner', 'tina tuner', 'anna bullock', 'annie mae bullock', 'anna mae bullock']","The female singer who was born on exactly the same day as impressionist Rich Little—November 26, 1939—is **Tina Turner**. Both were born on November 26, 1939, making them birth date twins.",0.7403800136,1,Tina Turner.,1
+"Which actress was voted Miss Greenwich Village in 1942?
+Therefore, the answer is","['lauren becall', 'loren bacall', 'lauren becal', 'lauren bacall', 'betty j perske', 'betty perske', 'betty joan perske', 'bacall', 'betty joan perski']",**Lauren Bacall** was voted Miss Greenwich Village in 1942.,0.7302178231,1,"As of my knowledge cutoff in October 2023, I am not aware of any specific actress who was voted Miss Greenwich Village in 1942. It's possible that this information is not widely documented or has emerged after my last update. I recommend checking historical archives, reputable biographies, or local New York City historical resources for more detailed information on this topic.",0
+"In which country was Earl Spencer's acrimonious divorce settlement heard?
+Therefore, the answer is","['zuidafrika', 'azania south africa', 'south africans', 'zuid africa', 'suid africa', 'afrique du sud', 'saffa', 'south africa s', 'third republic south africa', 'ningizimu afrika', 'sou frica', 'iso 3166 1 za', 'soufrica', 'capital of south africa', 's afr', 'seth efrika', 'zuid afrika', 'suid afrika', 'south africaà', 's africa', 'republic of south africa', 'rep of south africa', 'south african', 'beloved country', 'south africa', 'southafrica', 'mzansi', 'republiek van suid afrika']",South Africa.,0.7301330863,1,South Africa.,1
+"Which is the only team to have won football’s Premier League once and once only?
+Therefore, the answer is","['blackburn fc', 'blackburn roavers f c', 'blackburn rovers fc', 'blackburn f c', 'blackburn rovers football club', 'blackburn rovers f c', 'blackburn rovers']","Therefore, the answer is **Leicester City**.",0.7268793195,0,Leicester City.,0

@@ -1,0 +1,688 @@
+prompt,ground_truth,response,is_correct
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear valued patient, keep in mind that your Eating Disorder therapy session has been scheduled at 12. The therapy cost Tala 964480 is to be paid via mastercard card and confirmed via 73-675301-103047-0 number.
+Answer:",Tala,Not Present,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Vaccine appointment slot can now be reserved by sending an SMS to 6500 126 2399. Quote your SSN number 433 47 8265 as a reference.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+ICU team. Our contact for late-night deliveries is now 83-391083-420532-3. Call when you see the UUG8X414G1ES30559 from our supplier.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Your course fee payment receipt is attached. A charge of ISK 342,754.57 has been successfully transacted from your credit card 3534282572218237. Halvorson Inc thanks you for choosing to invest in lifelong learning.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Norbert, welcome onboard. For your vehicle, the Parking space number is next to VIN 05BHMWB78RK026069.
+Answer:",Norbert,Norbert,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Supervisor, please check the IPv6 offset, you should match supply chain inventory with the eae3:e28d:8b88:6238:ac3d:30b9:eeea:cf79.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+New Margareteville general hospital recently acknowledged the dedication and service of one of its senior nurses, Lon Kihn.
+Answer:",Lon,Lon,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+For Thursday's art showcase, 2061261018983115 paintings will be displayed. I've sent invoice details to FI0407396643360644.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Apologies for the interruption, but Toy, your leadership training course has now been fully paid (₩ 549831.16).
+Answer:",Toy,Toy,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Elenor, we have detected suspicious activity in your credit card number 7749388860497381 and 196.
+Answer:",Elenor,Elenor,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+To: Maximillian Noah Moore, we forgot to update your record with phone IMEI: 30-265288-033265-8. Could you please provide it in your earliest convenience to keep your records updated.
+Answer:",Maximillian,Maximillian,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+In Health Informatics, we need to carefully handle all unique identifiers, such as vehicle details (GX66RMK, 0SNZZ81FWMKZ56406) or financial identifiers (1308363720032284, diners_club). It's our responsibility to secure and anonymize this data.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Loma, your son's eye color, Eye color: Brown, is quite unique. It's beautiful!
+Answer:",Loma,Loma,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Miss Riley, we are looking into the implications of Chief Data Assistant alleged unethical actions, and the arbitration process will begin soon.
+Answer:",Riley,Not Present,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+The summary of the financial reports for the board meeting will be distributed via email Garfield81@gmail.com. Contact our corporate assistant Ms. Blake for further queries.
+Answer:",Not present,Garfield,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+The arbitration process requires your browser's user agent string Mozilla/5.0 (X11; Linux x86_64 AppleWebKit/537.0.1 (KHTML, like Gecko) Chrome/24.0.887.0 Safari/537.0.1 along with your IP address 5bd9:d4ee:4ba2:64bc:fcbd:9f8b:029f:6c0d. We're taking this precaution to ensure all online communications regarding this case are treated with utmost privacy.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Personal Loan Account is experiencing stress due to presumed data breach. Her IP: 203.235.28.232 was reportedly linked to the incident.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Pinkie, our Customer Brand Engineer noticed unusual traffic from 197.30.116.133 on our site https://tattered-past.org. Please investigate.
+Answer:",Pinkie,Pinkie,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+A new public health initiative is looking to tackle obesity issues in 11135. Latest stats show an increase. Let's connect soon to discuss. 0xb6eff78cdfb6ba3d9f4feec4d1ece33fdf8bcedc
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Maritza.Halvorson, we've received reports about issues affecting customers located in Warwickshire. The bug seems to affect users with the useragent Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9.6; rv:12.4) Gecko/20100101 Firefox/12.4.0. Please disable all IPv6 connections till we figure out a solution.
+Answer:",Maritza,Maritza,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+We're expecting a fee of Tala 323k for the PR services rendered. Please create an invoice for the same.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Everyone attending the virtual mindfulness therapy on 8th August, please check your Sister_Hand31@yahoo.com for an important notification.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+We're charting the spread of the disease using [36.435,54.5464] for geographical plotting. Pattern hints towards movement in Northeast.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hi, I'm Porter9, a sophomore in the Web major program. I'd like to join as a volunteer. Please email me the forms I need to fill out, as well as the requirements to my address at 170.186.228.142.
+Answer:",Not present,Porter,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+For a Woman Designer in this age, educational assessment tools can greatly enhance students' learning experience. I can highly recommend Personal Loan Account.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+An MRI scan is scheduled for tomorrow at 2:16 AM in the room with router having MAC address 61:b4:f1:9b:0d:1f. The patient is an 53 years old old Androgynous.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Jameson, check out our new offerings of alternative therapies for mature patients like you (86 years old) on our website shared over a7cb:868e:dad5:df89:e7ce:1c08:efd3:f8cf.
+Answer:",Jameson,Jameson,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Mrs. Erdman, our program on Animal-assisted Therapy has been selected for an impressive grant of LAK in amount 236k! Could you provide a detailed business plan to effectively utilize this grant? Please submit your suggestions using the secure IP: 142.100.208.210.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Orland, we are pleased to inform you that your scholarship grant of Danish Krone39k will be transferred to your account KZ551736040717OKI15Z shortly.
+Answer:",Orland,Orland,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear parents, our annual school trip is scheduled for 30/04/1955 and we will be heading to the Southwest. Please call 2388-645.9824 if you have any questions.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+In relation to the filed litigation, we hereby request full disclosure of all data logs associated with 242.218.157.166 and cd9f:d9e5:1ceb:fd39:b2d7:f3fd:c9cd:c27b tied to the account of Fleta London Emard. This involves her employment account Investment Account with Gutkowski Inc.
+Answer:",Fleta,Fleta,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Trans male patient located in 57283 received geriatric evaluation via telemental health.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+For students using our online platform, please note the requirement of a stable IP (either 186.34.182.111 or f10b:3ffc:8cbf:a02f:f074:07fb:b984:a50e location).
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Is your business tax-ready? Our team in Novato is here to help you navigate through Martinique's complex tax rules. Contact us at 56544500.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Target date for completing all safety certifications at Kreiger, Roberts and Gleichner is 1931-10-20T07:52:27.636Z. Any employee needing assistance should contact Architect Margaretta.
+Answer:",Margaretta,Margaretta,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Your delivery is ready. Zip code: 08868-4636. Signed with Bitcoin at address 13uCPPx9dUy1YvPEitrLYxj7HuE8zMWeBQPZv.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Inviting all parents of teenagers in Tayside. Join us in our mission towards better sex education for our kids. Kindly transfer the registration fee via 1V351ujcw1rjWVv9tz4bEnLNHTzNC7z6.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Melvin, the password of your study support account has been changed to Xnjv7nCydECf for security purposes. Please update it promptly.
+Answer:",Melvin,Melvin,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Enhancing Student Engagement is part of our mission. Being a Senior Division Supervisor, I felt it’s important to share in this aim. You can contribute to the mission through Litecoin at 36PnVEM8XxUKM3cKGUxQKdoZyjpYGRAn or Ethereum at 0x7a4b1f4512cd2d52b6c4dc07ac9af4a11e132aa4.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Magali, we need your GE07SX0059020327136008 for the insurance claim mandatory for your physiotherapist session costs. Let's help you heal without the worry of payment.
+Answer:",Magali,Magali,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Our beloved Sasha, according to our database, the ADHD therapy bill 0.5m£ is overdue. Please clear the bill at the earliest.
+Answer:",Sasha,Sasha,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dr., The crew members of Personal Loan Account are being held under charge of violating international maritime laws. They will remain in Cleveland custody till further notice.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear 756.3910.7129, this is your Patient Advocacy Officer, conducting an age survey for our department. Can you confirm your 12/38 and Intersex woman? We use these details for demographic understanding.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Patient Fredrick with insurance account 22661006 and SSN 756.9719.4002 is scheduled for general cleaning on 12/05/1973. Please send a confirmation text message to his mobile number +736 435 268.6135 today.
+Answer:",Fredrick,Fredrick,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Direct Creative Officer, the upcoming edtech conference will be in Morgan County. Can you book tickets?
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+I've received notification about Ms. Stokes's insolvency claim. I need to access her account ES0677003300525502416001 to verify the case. Please respond with confirmation.Bertha_Frami, Legal Assistant.
+Answer:",Bertha,Bertha,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+From Nora, We are delighted to inform you that Rempel - Haley is conducting a market research survey. Feel free to respond via Margaret.Hackett77@gmail.com.
+Answer:",Nora,Nora,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Quick attention needed on Quality law reform proposal. Your input crucial. 20 o'clock.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Sylvan Dickens, your job posting for Dynamic Mobility Agent was posted on 13/07/1963 and it has received numerous responses. The details can be found at https://robust-emery.info.
+Answer:",Sylvan,Sylvan,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Students, please avoid mentioning personal details, such as your 096.778-5042 or 2nd January, in online forums or social media.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+We are organizing a STEM skills seminar for our Worcestershire audience. If interested, reach us on 30.187.135.78 while sitting on [-16.2112,83.203].
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Female students, join our volunteer programs and contribute to the community. Rossie is coordinating.
+Answer:",Rossie,Rossie,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Ensure our staff is also trained on the best practices for the use of our resources and can they check if there have been any unauthorized access to our litecoin address 34QcdF6rtRdEE7tZSwhigUBuCK6R or bitcoin address 15CaoHRKChw5i8wekAFZMRt9TVzBx6PgenutkTn? Include this in your report.
+Answer:",Not present,Cao,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Alvenastead's vaccination program to include 71 years Male. More details on https://hidden-netsuke.info.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Tavares, It's important to know that T* woman workers are protected by certain laws in the Configuration sector. For queries, contact Maida6@yahoo.com.
+Answer:",Tavares,Maida,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+One of our sports medicine vans with VRM KB75HOM and VIN 9PUBBN7KKMNL59103 appears to have been stolen. Let us know if you see it.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Paxton, we have a research study on mental health disorders happening in Crawford County on 5/82. If you're interested, contact us on 052 5145425.
+Answer:",Paxton,Paxton,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+To clarify child support arrangements, we require information on all assets including bank account Investment Account with number 32944548 and any Bitcoin address such as 1Mw9PZZmKzyoyFXeiSwa732B5Qrzy2.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Abernathy, O'Connell and Hilll,
+We are interested in your animal-assisted therapy program. The invoice of Kč0.0b has been paid from our 20685264. We are situated in Polk County, and available at 4:58 AM.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+We would like to do a follow-up meeting with Sierra Green regarding her recent surgery. The proposed date is August 13, 2013 at our clinic in West Nash.
+Answer:",Sierra,Sierra,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Urgent! For Man 67 years, diagnosed with learning disabilities, requires immediate attention from our best Corporate Optimization Planner. Please access 211.127.11.124 portal and set up instructional module using Opera/14.70 (Windows NT 6.2; U; ID Presto/2.9.165 Version/12.00). Make payment with card 9229348166618477.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+""May we further request supplemental documents regarding the state legislation of Ontario applicable in this arbitration? Specifically, we are interested in any recent changes influencing contracts in the Branding.""
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hi, my team at Lake Erniefort science fair needs access to the servers. MAC address: c0:c5:ca:ff:8a:ee. Could you whitelist us? Thanks!
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Checked career counseling slot in West Glamorgan, Hesse for 36 is available. Sent details to Zachariah.Beer90@gmail.com.
+Answer:",Zachariah,Zachariah,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+A detailed analysis of the insurance policy covering the property with the building number 33933 on street Colten Springs is required.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Greetings, Checking Account, a payment attempt from your 1cou1d4NJjWEvAJXftT8tUxZs3p8yp2sQYTUAQx for tutoring was unsuccessful. Please confirm your details and try again.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hello Helene, schedule your upcoming physical therapy sessions by logging in with Opera/12.32 (X11; Linux i686; U; PL Presto/2.9.183 Version/10.00). Complete the process using 3115476202224400 on our secured portal.
+Answer:",Helene,Helene,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Received report from 129.63.196.211. 4 new cases recorded in Southwest region marked as infectious disease. All Agender.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Bank transaction issue, please follow up. Transaction was supposed to be in CAD, but it came in as ƒ.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Remember the new password dDfmB8xRogt1 to access the oncology department's portal. Further, Parker, our new Global Implementation Analyst will join us on 06/07/1903. Any payment can be made using 55776151.
+Answer:",Parker,Parker,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Welcome aboard Ashleigh.Quitzon! Please note your 0xcd6aa3af4aa80caaada75d3f2aedaddfcaaefadf is required for any token transfers during the internship program.
+Answer:",Ashleigh,Ashleigh,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Sign up for our course on handling learning disabilities at 40567. Secure payment options available at 3bCsN95v5LDqF7UFDo1wpYZtjX.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hello Ephraim, for the next holistic education class, could you please bring the payment of лв0.70m? The receipt will be sent to your email, Mara.Tromp40@yahoo.com.
+Answer:",Ephraim,Ephraim,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Beatty Inc drew up an amazing schedule for the Arts in Education week in West Katlynnboro. The event starts at 2 o'clock and will go on till the evening.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+For any queries, reach out to our contact centre at [-21.53,-59.6644]. Don't forget to mention your ticket # 9112317372199861.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+We require another $1000 in New Leu for the medical training as per contract on 2/59. Please process it using 4662102590261843
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Miss Lebsack, The scheduled maintenance on our neuropsychology course site is now completed. You can access the site at https://wan-cabinet.net with your username Alexane.Kling.
+Answer:",Alexane,Alexane,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hello, This is Stone Reagan from Stamm - Feest. We are holding a conference on 31th July. We will be discussing initiatives we can take to improve patient advocacy.
+Answer:",Stone,Stone,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Additional reading material can be found at the library under 63998402. For online access, use Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.4.15641.8).
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Can you elaborate on the budget required? Send the estimated 140427.72 Guarani details to Alvis_Hagenes78@hotmail.com.
+Answer:",Alvis,Alvis,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+The trial for 858 Fay Branch, Lazio, alleges violation of privacy laws. Access to her IP addresses: 31.235.101.213 and 8bf5:4db7:cc28:27ad:ac88:754c:2b37:1c86 were provided without the resident's consent for the civil rights case.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Despite offering numerous interventions, Manley(756.9342.5804) has consistently neglected academic responsibilities and disrupted class atmosphere by using online platforms without permission during classes (discovered through 9aee:bced:de62:9ea5:6064:99d3:5ffa:cb0a Tracking)
+Answer:",Manley,Not Present,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Could you please verify with the last four digits of your social security number 174-97-1949 for the appointment? Please comply before 12/88.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Americo, we need a report on how seasonality affects our business. Include last year's sales data and identify any patterns that may help us prepare for next year's seasonal changes. You should get the raw data from the account 01232289.
+Answer:",Americo,Americo,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hope this message meets you well, Hertha. I have forwarded a set of past questions to your Shirley.Goodwin@gmail.com. Please answer and forward them to the same email before the examination date, 18/01/1960.
+Answer:",Hertha,Hertha,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+In the process of joining our program, ensure your credentials are in check. All payments should be directed to Savings Account, account number 01287958.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Welcome Bridie Pfeffer, we've updated our diagnostic algorithms. A user accessed your account from IP: 175.43.237.11. If this access was unauthorized, call us immediately at (25)-9862-4269.
+Answer:",Bridie,Bridie,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hi! We're having a Neuropsychology community meet-up in Miguelstad, Prince Edward Island on 15th March. You're welcome if you're around!
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Good day, Ryan, your payment of $10,000 has not been taken place. Please use your credit card (9127059289162331) issued by maestro.
+Answer:",Ryan,Ryan,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Your registration for the medical education program has been confirmed. Please submit the tuition fee via direct bank transfer to ES5240060080031390062213. Reference Savings Account for tracing.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Attention Arlo64, potential security law violation on account Personal Loan Account (92140677) suspected. Please review the details at https://scientific-venison.com/.
+Answer:",Not present,Arlo,0
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+On 15th July, a patient with Hazel was admitted. They have a height of 3feet11inches. The orthopedic treatment was set to begin under the care of our Direct Factors Specialist.
+Answer:",Hazel,Hazel,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Hello Miss Lemke, This is a parent's support email. We are here to help you with your child's health issues and are confident that we can provide the best care for your child. Please confirm Mark.Paucek on https://french-kinase.biz/ and the insurance policy number44860973.
+Answer:",Mark,Mark,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Dear Mr. Rau, as the lead Regional Applications Engineer in Intranet, we would appreciate your expertise in creating a comprehensive rehabilitation psychology program for our patients. Please head to the following URL https://unlined-history.name/ to access the relevant documents to guide your development process.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Just wanted to give you a heads up that the sex education seminar has been moved NE Northeast, near the coords [-89.6132,167.3028]. See you there!
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+The operation of our devices is reliant on exact navigations. Please update the GPS coordinates to [22.0694,-72.767] as we have moved to the Northwest. Contact the admin Reese_Barton for further details.
+Answer:",Reese,Reese,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+The registration fees for the SAT can be submitted to our TN4157893140140059858751 account. Please mention your 75667723998 in the details.
+Answer:",Not present,Not Present,1
+"Your task is to extract first name from the text.
+Please return only the first name as your answer and nothing else.
+If there is no first name mentioned in the text, return 'Not Present'
+
+Text:
+Consuelo, the diet plan combining nutritional needs for 16th April and Female to male transgender man, will improve adherence and deliver results. We'll discuss more. But first, could you confirm 3754828988494125 for payment?
+Answer:",Consuelo,Consuelo,1

@@ -1,0 +1,1138 @@
+prompt,ground_truth,confidence_score_tlm_o1_preview,tlm_best_o1_preview_response,human_label_tlm_o1_preview,openai_o1_preview_response,human_label_o1_preview
+"Faye was placing her pencils and crayons into 16 rows with 6 crayons and 21 pencils in each row. How many crayons does she have?
+Therefore, the answer (arabic numerals) is: ",96,0.9752676607,"To find the total number of crayons, we multiply the number of rows by the number of crayons per row:
+
+Total crayons = Number of rows × Crayons per row
+Total crayons = 16 × 6
+Total crayons = 96
+
+Therefore, Faye has **96** crayons.
+
+96",1,"To find out how many crayons Faye has, we need to calculate the total number of crayons across all the rows.
+
+Given:
+- Number of rows = 16
+- Crayons in each row = 6
+
+Total crayons = Number of rows × Crayons per row
+Total crayons = 16 × 6 = 96
+
+Therefore, **96** is the number of crayons Faye has.
+
+96",1
+"He then went to see the oranges being harvested. He found out that they harvest 76 sacks per day and discard 64 of them. How many oranges do they harvest per day if each sack contains 50 oranges?
+Therefore, the answer (arabic numerals) is: ",600,0.9748870081,3800,0,"To solve this problem, we follow these steps:
+
+1. **Calculate the total number of sacks harvested per day**:
+   - Total sacks harvested = 76 sacks
+
+2. **Understand that they discard some of the harvested sacks**:
+   - Sacks discarded = 64 sacks
+   - This means they keep \(76 - 64 = 12\) sacks, but since the question asks for the total harvested, we focus on the 76 sacks.
+
+3. **Calculate the number of oranges in the harvested sacks**:
+   - Each sack contains 50 oranges.
+   - Total oranges harvested = \(76 \text{ sacks} \times 50 \text{ oranges/sack} = 3800 \text{ oranges}\)
+
+**Therefore, the answer is: 3800**",0
+"Frank was reading through his favorite book. The book had 193 pages equally distributed over 15 chapters. It took Frank 660 days to finish the book. How many chapters did he read per day?
+Therefore, the answer (arabic numerals) is: ",44,0.9677209152,"To determine how many chapters Frank read per day, we can divide the total number of chapters by the total number of days it took him to finish the book.
+
+Total chapters = 15  
+Total days = 660
+
+Chapters per day = Total Chapters / Total Days  
+Chapters per day = 15 / 660  
+Simplify the fraction by dividing both the numerator and the denominator by 15:  
+Chapters per day = (15 ÷ 15) / (660 ÷ 15)  
+Chapters per day = 1 / 44
+
+**Therefore, the answer is:**
+1/44",1,"To find out how many chapters Frank read per day, we need to divide the total number of chapters by the total number of days it took him to finish the book.
+
+Total chapters = 15  
+Total days = 660  
+
+Chapters per day = Total chapters ÷ Total days  
+Chapters per day = 15 ÷ 660  
+Simplify the fraction by dividing both the numerator and the denominator by 15:  
+15 ÷ 15 = 1  
+660 ÷ 15 = 44  
+
+So, Chapters per day = 1⁄44
+
+Therefore, Frank read **1⁄44** chapters per day.
+
+1⁄44",1
+"Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them. How many more cakes did baker make than those he sold?
+Therefore, the answer (arabic numerals) is: ",127,0.9641616912,127,1,"To solve this problem step by step:
+
+1. **Calculate the total number of cakes made:**
+   The baker first made 81 cakes and then made 92 more.
+   \[ \text{Total cakes made} = 81 + 92 = 173 \]
+
+2. **Determine the number of cakes sold:**
+   The baker sold 46 cakes.
+   \[ \text{Cakes sold} = 46 \]
+
+3. **Find out how many more cakes were made than sold:**
+   Subtract the number of cakes sold from the total number of cakes made.
+   \[ \text{Difference} = \text{Total cakes made} - \text{Cakes sold} \]
+   \[ \text{Difference} = 173 - 46 = 127 \]
+
+**Therefore, the baker made 127 more cakes than he sold.**
+
+\(\boxed{127}\)",1
+"Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?
+Therefore, the answer (arabic numerals) is: ",30,0.9633970792,30,1,30,1
+"Matthew had 14 crackers and 21 cakes. If Matthew gave equal numbers of crackers and cakes to his 7 friends How many crackers and cakes did each person eat?
+Therefore, the answer (arabic numerals) is: ",5,0.9599108294,Each person ate 2 crackers and 3 cakes.,1,"To find out how many crackers and cakes each friend ate, we divide the total number of each item by the number of friends.
+
+**Crackers per friend:**
+\[ \frac{14 \text{ crackers}}{7 \text{ friends}} = 2 \text{ crackers per friend} \]
+
+**Cakes per friend:**
+\[ \frac{21 \text{ cakes}}{7 \text{ friends}} = 3 \text{ cakes per friend} \]
+
+**Answer:** Each person ate **2** crackers and **3** cakes.",1
+"Jerry had 8 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed 5 old ones. How many action figures were on his shelf in all?
+Therefore, the answer (arabic numerals) is: ",7,0.9587402911,7,1,"To solve this problem, we start with the initial number of action figures Jerry had on his shelf, which is **8**. He then **added 4** more action figures, bringing the total to **8 + 4 = 12**. After that, he **removed 5** old action figures from the shelf. So we subtract 5 from the current total: **12 - 5 = 7**. Therefore, Jerry has **7** action figures on his shelf in total.
+
+**7**",1
+"Baker made 62 cakes. Then he made 149 more cakes. He sold 144 of them. How many cakes would baker still have?
+Therefore, the answer (arabic numerals) is: ",67,0.9497461847,"To find out how many cakes Baker still has, we follow these steps:
+
+1. **Calculate the total number of cakes made:**
+   \[ 62 \text{ cakes} + 149 \text{ cakes} = 211 \text{ cakes} \]
+
+2. **Subtract the number of cakes sold:**
+   \[ 211 \text{ cakes} - 144 \text{ cakes} = 67 \text{ cakes} \]
+
+**Therefore, Baker would still have 67 cakes.**
+
+**Answer:** 67",1,"To determine how many cakes the baker still has, we'll follow these steps:
+
+1. **Calculate the total number of cakes made:**
+
+   \[
+   \text{Total cakes made} = 62 \text{ (initial cakes)} + 149 \text{ (more cakes)} = 211 \text{ cakes}
+   \]
+
+2. **Subtract the number of cakes sold from the total cakes made:**
+
+   \[
+   \text{Cakes remaining} = 211 \text{ (total cakes made)} - 144 \text{ (cakes sold)} = 67 \text{ cakes}
+   \]
+
+**Therefore, the answer (Arabic numerals) is:**
+
+\[
+\boxed{67}
+\]",1
+"Debby bought some water bottles when they were on sale. She drank 109 bottles a day. If the bottles lasted for 74 days How many bottles had she bought?
+Therefore, the answer (arabic numerals) is: ",8066,0.945200118,8066,1,"To find out how many bottles Debby bought, multiply the number of bottles she drinks per day by the number of days the bottles lasted.
+
+Number of bottles per day: 109  
+Number of days: 74  
+
+Total bottles = 109 bottles/day × 74 days = 8066 bottles
+
+**8066**",1
+"Lewis earns $ 28 every week during the 1091 weeks of harvest. He also earns $ 939 per week for working overtime. If he works overtime every week How much money does he earn during harvest season?
+Therefore, the answer (arabic numerals) is: ",1054997,0.9411511651,"To find out how much Lewis earns during the harvest season, we need to calculate his total earnings over the 1091 weeks, including both his regular pay and his overtime pay.
+
+1. **Calculate weekly earnings including overtime:**
+   - Regular weekly pay: $28
+   - Overtime pay per week: $939
+   - Total weekly earnings: $28 + $939 = **$967**
+
+2. **Calculate total earnings over 1091 weeks:**
+   - Total earnings = Weekly earnings × Number of weeks
+   - Total earnings = $967 × 1091
+
+3. **Compute the total earnings:**
+   - Break down 1091 into 1000 and 91 for easier calculation:
+     - $967 × 1000 = $967,000
+     - $967 × 91:
+       - $967 × 90 = $967 × 9 × 10 = $8,703 × 10 = $87,030
+       - $967 × 1 = $967
+       - $87,030 + $967 = **$87,997**
+   - Add both results:
+     - $967,000 + $87,997 = **$1,054,997**
+
+**Therefore, Lewis earns $1,054,997 during the harvest season.**
+
+1054997",1,"To determine Lewis's total earnings during the harvest season, we'll calculate his weekly earnings and then multiply by the number of weeks.
+
+**Weekly Earnings:**
+- Regular pay: $28
+- Overtime pay: $939
+- Total weekly earnings: $28 + $939 = **$967**
+
+**Total Earnings:**
+- Number of weeks: 1091
+- Total earnings: 1091 weeks × $967/week
+
+Now, compute the total earnings:
+1. Multiply 1091 by 967:
+   \(1091 \times 967 = (1091 \times 1000) - (1091 \times 33)\)
+2. Calculate \(1091 \times 1000 = 1,091,000\)
+3. Calculate \(1091 \times 33\):
+   - \(1091 \times 30 = 32,730\)
+   - \(1091 \times 3 = 3,273\)
+   - Sum: \(32,730 + 3,273 = 36,003\)
+4. Subtract: \(1,091,000 - 36,003 = 1,054,997\)
+
+**Answer:**
+\(\boxed{1054997}\)",1
+"Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book. How many chapters did he read per day?
+Therefore, the answer (arabic numerals) is: ",332,0.9402622359,"To solve the problem, we need to compute how many chapters Frank read per day. 
+
+Frank read **2 chapters** in **664 days**. So, the number of chapters he read per day is:
+
+\[
+\text{Chapters per day} = \frac{\text{Total chapters}}{\text{Total days}} = \frac{2}{664} = \frac{1}{332}
+\]
+
+Therefore, the answer (in Arabic numerals) is:
+
+**1/332**",1,"To solve this problem, we need to find out how many chapters Frank read per day.
+
+1. **Total Chapters**: The book has 2 chapters.
+2. **Total Days**: It took Frank 664 days to finish the book.
+3. **Chapters per Day**: 
+   \[
+   \text{Chapters per Day} = \frac{\text{Total Chapters}}{\text{Total Days}} = \frac{2}{664} = \frac{1}{332}
+   \]
+
+**Therefore, the answer (arabic numerals) is:**
+
+\(\boxed{\dfrac{1}{332}}\)",1
+"Dan has $ 4. For a total of $ 3 he bought 10 candy bar each one costing the same amount of money. How much money is left?
+Therefore, the answer (arabic numerals) is: ",1,0.939517321,1,1,1,1
+"Lewis earns $ 368 every week during the 1359 weeks of harvest. If he has to pay $ 388 rent every week How much money does he pay as rent during the harvest season?
+Therefore, the answer (arabic numerals) is: ",527292,0.9371886261,"To solve this problem, we need to calculate the total rent Lewis pays during the harvest season.
+
+Given:
+- Lewis pays $388 in rent every week.
+- The harvest season lasts for 1359 weeks.
+
+Total rent paid = Rent per week × Number of weeks
+Total rent paid = $388 × 1359
+
+Calculating the total rent:
+$388 × 1359 = $527,292
+
+Therefore, Lewis pays **$527,292** in rent during the harvest season.
+
+527292",1,"To solve this problem, we need to calculate the total amount Lewis pays in rent over the harvest season. The calculation is straightforward:
+
+1. **Number of Weeks in Harvest Season**: \(1359\) weeks
+2. **Weekly Rent**: \(\$388\)
+
+**Total Rent Paid** = Number of Weeks × Weekly Rent
+\[ \text{Total Rent Paid} = 1359 \times \$388 \]
+
+Now, compute the multiplication:
+
+\[
+\begin{align*}
+1359 \times 388 &= (1359 \times 300) + (1359 \times 80) + (1359 \times 8) \\
+&= 407,700 + 108,720 + 10,872 \\
+&= 527,292
+\end{align*}
+\]
+
+Therefore, Lewis pays a total of **\$527,292** in rent during the harvest season.
+
+527292",1
+"Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially How many crackers and cakes did each person eat?
+Therefore, the answer (arabic numerals) is: ",1,0.9353286498,"To solve this problem, we need to determine how many crackers and cakes each of Matthew's 28 friends received. Matthew started with 13 crackers and 15 cakes, and he wants to distribute them equally among his friends, giving each friend an equal number of crackers and an equal number of cakes.
+
+Let’s let \( c \) be the number of crackers each friend receives and \( k \) be the number of cakes each friend receives.
+
+Since the total number of crackers is 13 and the total number of friends is 28, we have:
+\[ 28c = 13 \]
+Similarly, for the cakes:
+\[ 28k = 15 \]
+
+Solving for \( c \) and \( k \):
+\[ c = \frac{13}{28} \]
+\[ k = \frac{15}{28} \]
+
+Therefore, each friend received \( \frac{13}{28} \) crackers and \( \frac{15}{28} \) cakes.
+
+**Answer:**
+Each friend ate 13⁄28 crackers and 15⁄28 cakes.",0,"To solve this problem, we need to determine how many crackers and cakes each of Matthew's 28 friends received, given that Matthew had 13 crackers and 15 cakes initially.
+
+1. **Crackers per person:**
+   - Total crackers = 13
+   - Number of friends = 28
+   - Crackers per person = Total crackers ÷ Number of friends = \( \frac{13}{28} \) crackers per person.
+
+2. **Cakes per person:**
+   - Total cakes = 15
+   - Number of friends = 28
+   - Cakes per person = Total cakes ÷ Number of friends = \( \frac{15}{28} \) cakes per person.
+
+Since 13 and 28 are coprime (they have no common divisors other than 1), \( \frac{13}{28} \) is already in its simplest form. Similarly, 15 and 28 are coprime, so \( \frac{15}{28} \) is also in its simplest form.
+
+**Therefore, each person ate \( \frac{13}{28} \) crackers and \( \frac{15}{28} \) cakes.**
+
+**Answer:**
+Each person ate 13⁄28 crackers and 15⁄28 cakes.",0
+"Marco and his dad went strawberry picking. Together they collected strawberries that weighed 22 pounds. On the way back Marco ' dad found 30 more pounds of strawberries. Marco's strawberries now weighed 36 pounds. How much did his dad's strawberries weigh now?
+Therefore, the answer (arabic numerals) is: ",16,0.9350854737,"To solve this problem, let's break down the information given:
+
+1. Initially, **Marco and his dad together collected 22 pounds of strawberries**.
+2. On the way back, **Marco's dad found 30 more pounds** of strawberries.
+3. **Marco's strawberries now weigh 36 pounds**.
+
+Let’s calculate the total weight of the strawberries after the dad found more:
+
+- **Total strawberries now = Initial total + Dad's additional strawberries**
+- **Total strawberries now = 22 pounds + 30 pounds = 52 pounds**
+
+Since Marco's strawberries now weigh 36 pounds, we can find the dad's current strawberries by subtracting Marco's share from the total:
+
+- **Dad's strawberries now = Total strawberries now - Marco's strawberries now**
+- **Dad's strawberries now = 52 pounds - 36 pounds = 16 pounds**
+
+**Therefore, Marco's dad's strawberries now weigh 16 pounds.**
+
+**Answer: 16**",1,"To solve this problem, let's break it down step by step.
+
+1. **Initial total weight**: Together, Marco and his dad collected 22 pounds of strawberries.
+2. **Additional strawberries found**: On the way back, Marco’s dad found 30 more pounds of strawberries.
+3. **Total strawberries after**: The new total is \(22 \text{ pounds (initial)} + 30 \text{ pounds (found)} = 52 \text{ pounds}\).
+4. **Marco's strawberries now**: Marco’s strawberries weigh 36 pounds.
+5. **Dad's strawberries now**: Since the total is 52 pounds and Marco has 36 pounds, his dad has \(52 \text{ pounds (total)} - 36 \text{ pounds (Marco’s)} = 16 \text{ pounds}\).
+
+**Therefore, his dad's strawberries now weigh 16 pounds.**
+
+**Answer:** 16",1
+"They decided to hold the party in their backyard. They have 10 sets of tables and each set has 6 chairs. If there are 11 people sitting on chairs How many chairs are left unoccupied?
+Therefore, the answer (arabic numerals) is: ",49,0.929314919,49,1,49,1
+"Being his favorite, he saved checking on the grapevines for his last stop. He was told by 36 of the pickers that they fill 8 drums of grapes per day. How many days will it take to fill 240 drums of grapes?
+Therefore, the answer (arabic numerals) is: ",30,0.9230531173,"To solve this problem, we need to determine the number of days it will take for the pickers to fill 240 drums of grapes.
+
+Given:
+- 36 pickers collectively fill 8 drums of grapes per day.
+
+Thus, the group fills **8 drums per day**.
+
+To find the number of days required to fill 240 drums:
+\[
+\text{Number of days} = \frac{\text{Total drums needed}}{\text{Drums filled per day}} = \frac{240}{8} = 30
+\]
+
+**Answer:** 30",1,"To solve the problem, we'll first interpret the given information carefully.
+
+We are told that 36 pickers ""fill 8 drums of grapes per day."" The key is to understand whether each picker fills 8 drums per day or if all 36 pickers together fill 8 drums per day.
+
+Given the context, it's more reasonable to interpret that collectively, the 36 pickers fill 8 drums per day. If each picker filled 8 drums per day, they would collectively fill \(36 \times 8 = 288\) drums per day, which would mean they fill more than the total required drums in a single day. This would not match with the question asking ""How many days will it take...""
+
+So, assuming the 36 pickers together fill 8 drums per day, we can calculate the number of days required to fill 240 drums:
+
+\[
+\text{Number of days} = \frac{\text{Total drums needed}}{\text{Drums filled per day}} = \frac{240}{8} = 30.
+\]
+
+**Answer:** 30",1
+"There are 10 peaches distributed equally in some baskets. If each basket has 4 red peaches and 6 green peaches How many baskets of peaches are there?
+Therefore, the answer (arabic numerals) is: ",1,0.9132954616,"To solve this problem, we need to find out how many baskets are required to distribute 10 peaches equally if each basket must contain 4 red peaches and 6 green peaches.
+
+First, let's determine the total number of peaches each basket must contain:
+
+- **Red peaches per basket**: 4
+- **Green peaches per basket**: 6
+- **Total peaches per basket**: 4 (red) + 6 (green) = **10 peaches per basket**
+
+Given that there are **10 peaches in total**, and each basket must contain **10 peaches**, the number of baskets can be calculated as:
+
+\[
+\text{Number of baskets} = \frac{\text{Total number of peaches}}{\text{Peaches per basket}} = \frac{10}{10} = 1
+\]
+
+**Therefore, the answer is:**
+
+**1**",1,"To solve this, we need to find out how many baskets contain 10 peaches each, given that there are a total of 10 peaches distributed equally.
+
+- Each basket contains \( 4 \) red peaches and \( 6 \) green peaches, totaling \( 10 \) peaches per basket.
+
+- The total number of peaches available is \( 10 \).
+
+- Since the peaches are distributed equally among the baskets, and each basket must contain \( 10 \) peaches, the number of baskets is:
+\[ \text{Number of baskets} = \frac{\text{Total peaches}}{\text{Peaches per basket}} = \frac{10}{10} = 1 \]
+
+**Answer: 1**",1
+"Mary is baking a cake. The recipe calls for 11 cups of flour and 7 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour than sugar How many cups of flour did she put in?
+Therefore, the answer (arabic numerals) is: ",2,0.9119809949,"To solve this problem, let's set up an equation based on the information given.
+
+**Let \( x \) be the number of cups of flour Mary has already put in.**
+
+She needs a total of 11 cups of flour and 7 cups of sugar. So, she still needs \( 11 - x \) cups of flour and 7 cups of sugar (assuming she hasn't added sugar yet).
+
+According to the problem, she still needs 2 more cups of flour than sugar:
+
+\[
+(11 - x) - 7 = 2
+\]
+
+Simplify the equation:
+
+\[
+11 - x - 7 = 2 \\
+4 - x = 2 \\
+-x = 2 - 4 \\
+-x = -2 \\
+x = 2
+\]
+
+**Therefore, Mary has already put in 2 cups of flour.**
+
+2",1,"To solve this problem, we need to find out how many cups of flour Mary has already put in, given the information provided.
+
+**Given:**
+- Total flour required: 11 cups
+- Total sugar required: 7 cups
+- Mary has already added some cups of flour.
+- She still needs 2 more cups of flour than sugar.
+
+**Assuming** Mary hasn't added any sugar yet (since only flour addition is mentioned), the amount of sugar she still needs is the total sugar required, which is 7 cups.
+
+According to the problem, she still needs 2 more cups of flour than sugar, so:
+
+Amount of flour she still needs = Amount of sugar she still needs + 2
+
+Let's plug in the numbers:
+
+Amount of flour she still needs = 7 cups (sugar) + 2 cups = 9 cups
+
+Since the total flour required is 11 cups, and she still needs 9 cups, the amount of flour she has already added is:
+
+Amount of flour already added = Total flour required - Amount of flour still needed
+Amount of flour already added = 11 cups - 9 cups = **2 cups**
+
+So, Mary has already put in **2 cups** of flour.
+
+**Answer: 2**",1
+"Lewis earns $ 491 every week during the 1181 weeks of harvest. If he has to pay $ 216 rent every week How much money will have at the end of the harvest season?
+Therefore, the answer (arabic numerals) is: ",324775,0.9119657859,"To determine how much money Lewis will have at the end of the harvest season, we need to calculate his total earnings and subtract his total expenses (rent).
+
+**Step 1: Calculate Total Earnings**
+Lewis earns \$491 every week for 1181 weeks.
+\[
+\text{Total Earnings} = \$491 \times 1181 = \$579,871
+\]
+
+**Step 2: Calculate Total Rent Paid**
+Lewis pays \$216 in rent every week for 1181 weeks.
+\[
+\text{Total Rent} = \$216 \times 1181 = \$255,096
+\]
+
+**Step 3: Calculate Net Savings**
+Subtract the total rent from the total earnings.
+\[
+\text{Net Savings} = \text{Total Earnings} - \text{Total Rent} = \$579,871 - \$255,096 = \$324,775
+\]
+
+Therefore, Lewis will have **\$324,775** at the end of the harvest season.
+
+\(\boxed{324775}\)",1,"To determine how much money Lewis will have at the end of the harvest season, we'll calculate his total earnings and subtract his total rent payments over the entire period.
+
+**Step 1: Calculate Total Earnings**
+
+Lewis earns \$491 every week for 1181 weeks.
+
+\[
+\text{Total Earnings} = \$491 \times 1181 \text{ weeks} = \$579,571
+\]
+
+**Step 2: Calculate Total Rent Payments**
+
+He pays \$216 in rent every week for 1181 weeks.
+
+\[
+\text{Total Rent} = \$216 \times 1181 \text{ weeks} = \$255,796
+\]
+
+**Step 3: Calculate Net Savings**
+
+Subtract the total rent from the total earnings to find out how much money Lewis will have at the end.
+
+\[
+\text{Net Savings} = \text{Total Earnings} - \text{Total Rent} = \$579,571 - \$255,796 = \$323,775
+\]
+
+**Answer:**
+
+323775",0
+"Last week Fred had 111 dollars and Jason had 40 dollars. Fred washed cars over the weekend and now has 115 dollars. Jason delivered newspapers and now has 44 dollars. How much money did they earn by washing cars?
+Therefore, the answer (arabic numerals) is: ",4,0.8975841925,4,1,"To solve this problem, let's determine how much money Fred and Jason earned by washing cars.
+
+1. **Fred's earnings from washing cars:**
+   - **Initial amount:** \$111
+   - **Final amount after washing cars:** \$115
+   - **Fred's earnings:** \$115 - \$111 = **\$4**
+
+2. **Jason's earnings:**
+   - **Initial amount:** \$40
+   - **Final amount after delivering newspapers:** \$44
+   - **Jason did not wash cars; he delivered newspapers.** Therefore, his earnings are not from washing cars.
+
+3. **Total money earned by washing cars:**
+   - Since only Fred washed cars, the total money earned by washing cars is **\$4**.
+
+**Therefore, the answer (arabic numerals) is:**
+
+**4**",1
+"Lewis earns $ 403 every week during the 233 weeks of harvest. If he has to pay $ 49 rent every week How much money does he earn during harvest season?
+Therefore, the answer (arabic numerals) is: ",93899,0.8931272516,"To find out how much Lewis earns during the harvest season after paying rent every week, we perform the following calculations:
+
+1. **Calculate his net weekly earnings:**
+   \[
+   \text{Net weekly earnings} = \text{Weekly earnings} - \text{Weekly rent} = \$403 - \$49 = \$354
+   \]
+
+2. **Calculate his total earnings over the harvest season:**
+   \[
+   \text{Total earnings} = \text{Net weekly earnings} \times \text{Number of weeks} = \$354 \times 233 = \$82,482
+   \]
+
+**Therefore, the amount of money Lewis earns during the harvest season is \(\$82,482\).**
+
+**82482**",0,"To find out how much Lewis earns during the harvest season after paying rent, we'll perform the following calculations:
+
+**1. Calculate total earnings before rent:**
+\[
+\text{Total Earnings} = \text{Earnings per week} \times \text{Number of weeks} = \$403 \times 233 = \$93,899
+\]
+
+**2. Calculate total rent paid:**
+\[
+\text{Total Rent} = \text{Rent per week} \times \text{Number of weeks} = \$49 \times 233 = \$11,417
+\]
+
+**3. Calculate net earnings after paying rent:**
+\[
+\text{Net Earnings} = \text{Total Earnings} - \text{Total Rent} = \$93,899 - \$11,417 = \$82,482
+\]
+
+Therefore, Lewis earns **$82,482** during the harvest season after paying rent.
+
+**Answer:** 82482",0
+"A farmer had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes How many tomatoes and potatoes does he have left?
+Therefore, the answer (arabic numerals) is: ",136,0.8914817703,124 tomatoes and 12 potatoes,1,124 tomatoes and 12 potatoes,1
+"3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them. How many more storks than birds are sitting on the fence?
+Therefore, the answer (arabic numerals) is: ",1,0.8816348982,"To solve the problem:
+
+1. **Initial number of birds:** 3 birds.
+
+2. **Additional birds and storks:**
+   - 2 more birds join, so total birds = 3 + 2 = **5 birds**.
+   - 6 storks join, so total storks = **6 storks**.
+
+3. **Calculate the difference:**
+   - Number of storks minus number of birds = 6 storks - 5 birds = **1**.
+
+Therefore, there is **1** more stork than birds sitting on the fence.
+
+**Answer:** 1",1,"First, we'll tally the number of birds and storks.
+
+- Initially, there are **3 birds** sitting on the fence.
+- **2 more birds** join them, bringing the total number of birds to \( 3 + 2 = 5 \).
+- **6 storks** also come to join them.
+
+Now, we have:
+
+- **Total birds:** 5
+- **Total storks:** 6
+
+To find out how many more storks than birds are on the fence, subtract the number of birds from the number of storks:
+
+\( 6 \text{ storks} - 5 \text{ birds} = 1 \)
+
+**Answer:** 1",1
+"Dan has $ 4. He bought 99 candy bar for $ 3 each one costing the same amount of money. How much money is left?
+Therefore, the answer (arabic numerals) is: ",1,0.8650926636,1,1,"To solve this problem, let's carefully analyze the information given and perform the necessary calculations step by step.
+
+**Given:**
+- Dan has \$4.
+- He bought 99 candy bars for \$3 in total.
+- Each candy bar costs the same amount.
+  
+**Calculations:**
+
+1. **Total Cost of Candy Bars:**
+   
+   The total cost for 99 candy bars is \$3.
+
+2. **Amount of Money Left:**
+   
+   Dan originally had \$4. After spending \$3 on candy bars, the amount of money left is:
+   \[
+   \$4 - \$3 = \$1
+   \]
+
+**Answer:**
+
+1",1
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 512 visitors came to the Buckingham palace that day. If there were 471 visitors the previous day and 808 visitors the day before that How many visited the Buckingham palace within the past 89 days?
+Therefore, the answer (arabic numerals) is: ",1791,0.8649293632,"To solve this problem, we need to estimate the total number of visitors to Buckingham Palace over the past 89 days, using the data provided for three specific days. Since we only have visitor counts for three days, we'll assume that these days are representative of the typical daily visitor count over the 89-day period.
+
+Here's how we can approach it:
+
+1. **Calculate the Total Visitors for the Three Given Days:**
+   - On Day 1: 808 visitors
+   - On Day 2: 471 visitors
+   - On Day 3: 512 visitors
+   - **Total for 3 days:** \(808 + 471 + 512 = 1,791\) visitors
+
+2. **Calculate the Average Number of Visitors per Day:**
+   - **Average visitors per day:** \(\frac{1,791 \text{ visitors}}{3 \text{ days}} = 597 \text{ visitors/day}\)
+
+3. **Estimate the Total Visitors Over 89 Days:**
+   - **Total visitors over 89 days:** \(597 \text{ visitors/day} \times 89 \text{ days} = 53,133 \text{ visitors}\)
+
+**Therefore, the estimated number of visitors to Buckingham Palace within the past 89 days is 53,133.**
+
+**Answer:** 53133",0,"To find the total number of visitors to Buckingham Palace over the past 89 days, let's analyze the pattern in the visitor counts provided:
+
+- **Day 1 (Today):** 512 visitors
+- **Day 2 (Yesterday):** 471 visitors
+- **Day 3 (Day before yesterday):** 808 visitors
+
+Observing these numbers, notice that they repeat every 3 days:
+
+1. **Day 1:** 512
+2. **Day 2:** 471
+3. **Day 3:** 808
+4. **Day 4:** 512
+5. **Day 5:** 471
+6. **Day 6:** 808
+7. **...** and so on.
+
+Now, calculate the total visitors for each complete 3-day cycle:
+
+- **Sum of one cycle (3 days):** 512 + 471 + 808 = **1,791** visitors
+
+Determine how many complete 3-day cycles there are in 89 days:
+
+- **Number of complete cycles:** 89 ÷ 3 = **29 cycles** with a remainder of **2 days**
+
+Calculate the total visitors for the 29 complete cycles:
+
+- **Total for 29 cycles:** 29 × 1,791 = **51,939** visitors
+
+Now, account for the remaining 2 days after the 29 complete cycles. The pattern indicates the sequence repeats, so the visitor counts for the next two days are:
+
+- **Day 88:** 512 visitors
+- **Day 89:** 471 visitors
+
+Calculate the total visitors for these 2 days:
+
+- **Total for remaining 2 days:** 512 + 471 = **983** visitors
+
+Finally, add the totals:
+
+- **Grand total:** 51,939 (complete cycles) + 983 (remaining days) = **52,922** visitors
+
+**Therefore, the answer (arabic numerals) is:** **52922**",0
+"Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now How many more books did he sell than he bought?
+Therefore, the answer (arabic numerals) is: ",6,0.8507062907,"First, let's define the number of books Paul sold as \( x \).
+
+1. **Initial books**: Paul starts with 21 books.
+2. **After selling**: He sells \( x \) books, so he has \( 21 - x \) books left.
+3. **After buying**: He buys 42 new books, so now he has \( (21 - x) + 42 = 63 - x \) books.
+4. **Final count**: He ends up with 15 books, so:
+   \[
+   63 - x = 15
+   \]
+5. **Solve for \( x \)**:
+   \[
+   63 - x = 15 \\
+   -x = 15 - 63 \\
+   -x = -48 \\
+   x = 48
+   \]
+   
+Paul sold 48 books and bought 42 books. The difference between the number of books he sold and bought is:
+\[
+48 - 42 = 6
+\]
+
+**Answer:** 6",1,"To solve this problem, we can set up an equation based on the information given:
+
+**Step 1: Understand the Initial Situation**
+
+- Paul starts with **21 books**.
+
+**Step 2: Account for Books Sold**
+
+- Let’s let **\( s \)** represent the number of books Paul sold.
+- After selling, he has **\( 21 - s \)** books.
+
+**Step 3: Account for Books Bought**
+
+- Paul buys **42 new books**, so now he has:
+  \[
+  (21 - s) + 42 = 63 - s
+  \]
+
+**Step 4: Use the Final Number of Books to Solve for \( s \)**
+
+- We know that after all transactions, Paul has **15 books**. So:
+  \[
+  63 - s = 15
+  \]
+- Solve for \( s \):
+  \[
+  s = 63 - 15 = 48
+  \]
+
+**Step 5: Find How Many More Books He Sold Than Bought**
+
+- Paul sold **48 books** and bought **42 books**.
+- The difference is:
+  \[
+  48 - 42 = 6
+  \]
+
+**Answer:**
+
+6",1
+"Marco and his dad went strawberry picking. Together they collected strawberries that weighed 24 pounds. On the way back Marco lost 9 pounds of strawberries. Marco's strawberries now weighed 3 pounds. How much did his dad's strawberries weigh?
+Therefore, the answer (arabic numerals) is: ",12,0.8500713872,"To find out how much Dad's strawberries weigh, let's break down the problem:
+
+1. **Total weight of strawberries picked:** 24 pounds.
+2. **Marco's strawberries after losing some:** 3 pounds.
+3. **Amount Marco lost:** 9 pounds.
+
+First, calculate how much Marco had before he lost any:
+- **Marco's original amount:** 3 pounds (remaining) + 9 pounds (lost) = **12 pounds**.
+
+Next, subtract Marco's original amount from the total to find Dad's amount:
+- **Dad's strawberries:** 24 pounds (total) - 12 pounds (Marco's original) = **12 pounds**.
+
+Therefore, Dad's strawberries weigh **12 pounds**.
+
+**12**",1,"To find out how much Marco originally had and how much his dad's strawberries weigh, let's break down the problem.
+
+1. **Total strawberries collected by Marco and his dad**: 24 pounds.
+2. **Marco lost 9 pounds of strawberries**, and after losing them, **he has 3 pounds left**.
+3. Therefore, **Marco originally had**: 3 pounds (remaining) + 9 pounds (lost) = **12 pounds**.
+4. **Dad's strawberries**: Total collected - Marco's original amount = 24 pounds - 12 pounds = **12 pounds**.
+
+**Answer: 12**",1
+"Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie. How many apples does He have?
+Therefore, the answer (arabic numerals) is: ",21,0.8238910149,"First, let's collect the information given:
+
+1. Together Adam and Jackie have 12 apples.
+   - \( A + J = 12 \)
+
+2. He has 9 apples more than Adam and Jackie together do.
+   - Since Adam and Jackie together have 12 apples, this means He has \( 12 + 9 = 21 \) apples.
+
+3. Adam has 8 more apples than Jackie.
+   - \( A = J + 8 \)
+
+Now, let's solve for Adam and Jackie to confirm consistency, although we already have the number of apples He has.
+
+From \( A = J + 8 \) and \( A + J = 12 \), substitute \( A \) in the second equation:
+
+\( (J + 8) + J = 12 \)
+
+Simplify:
+
+\( 2J + 8 = 12 \)
+
+Subtract 8 from both sides:
+
+\( 2J = 4 \)
+
+Divide both sides by 2:
+
+\( J = 2 \)
+
+Now find \( A \):
+
+\( A = J + 8 = 2 + 8 = 10 \)
+
+Check that \( A + J = 10 + 2 = 12 \), which matches the original total.
+
+Finally, since ""He"" has 9 more apples than Adam and Jackie together do, and together they have 12 apples, He has:
+
+\( 12 + 9 = 21 \) apples.
+
+Therefore, He has **21** apples.
+
+**21**",1,"To solve this problem, let's define the variables:
+
+Let \( A \) = the number of apples Adam has.
+Let \( J \) = the number of apples Jackie has.
+Let \( H \) = the number of apples ""He"" has.
+
+From the problem statements:
+
+1. Together, Adam and Jackie have 12 apples:
+\[ A + J = 12 \]
+
+2. Adam has 8 more apples than Jackie:
+\[ A = J + 8 \]
+
+Substitute equation 2 into equation 1:
+\[ (J + 8) + J = 12 \]
+\[ 2J + 8 = 12 \]
+\[ 2J = 4 \]
+\[ J = 2 \]
+
+Now find \( A \):
+\[ A = J + 8 = 2 + 8 = 10 \]
+
+""He"" has 9 more apples than Adam and Jackie together:
+\[ H = (A + J) + 9 = 12 + 9 = 21 \]
+
+Answer: **21**",1
+"Every day Ryan spends 4 hours on learning english and 6 hours on learning chinese. If he learns for 86 days How many hours does he spend on learning english and chinese each day?
+Therefore, the answer (arabic numerals) is: ",10,0.8238404191,"The problem statement seems a bit confusing, but let's try to interpret it carefully.
+
+We are told that:
+
+- Every day, Ryan spends 4 hours learning English.
+- Every day, he also spends 6 hours learning Chinese.
+- He continues this learning schedule for 86 days.
+
+The question then asks: ""How many hours does he spend on learning English and Chinese each day?""
+
+Given that the daily hours are already specified (4 hours on English and 6 hours on Chinese), it seems redundant to ask for the daily hours again unless there's an error in the problem statement.
+
+Alternatively, perhaps the question wants to know the **total** hours he spends on each subject over the 86 days.
+
+Let's calculate that:
+
+- Total hours spent on English over 86 days: \( 4 \text{ hours/day} \times 86 \text{ days} = 344 \text{ hours} \).
+- Total hours spent on Chinese over 86 days: \( 6 \text{ hours/day} \times 86 \text{ days} = 516 \text{ hours} \).
+
+Thus, over the 86 days, Ryan spends **344 hours on English** and **516 hours on Chinese**.
+
+Therefore, the answer (in arabic numerals) is: 344, 516.
+
+Answer:
+
+344, 516",0,"To determine how many hours Ryan spends learning English and Chinese over 86 days, we multiply the daily hours spent on each subject by the number of days:
+
+- **English**: \(4 \text{ hours/day} \times 86 \text{ days} = 344 \text{ hours}\)
+- **Chinese**: \(6 \text{ hours/day} \times 86 \text{ days} = 516 \text{ hours}\)
+
+**Therefore, the answer (Arabic numerals) is:**
+
+344 and 516",0
+"Paige was helping her mom plant flowers and together they planted 36 seeds. They put 12 seeds in each flower bed and only 58 seeds grew into flowers in each flower bed. How many flower beds did they have?
+Therefore, the answer (arabic numerals) is: ",3,0.8237094777,3,1,3,1
+"There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase. How many more roses did she throw away than those she cut from her garden?
+Therefore, the answer (arabic numerals) is: ",6,0.8067300251,6,1,"To solve this problem, we'll set up an equation based on the changes in the number of roses in the vase.
+
+**Let \( x \) be the number of roses Jessica cut from her garden.**
+
+Initially, there were 21 roses in the vase.
+
+Jessica threw away 34 roses from the vase: **subtract 34**.
+She added \( x \) new roses to the vase: **add \( x \)**.
+After these changes, there are 15 roses in the vase.
+
+So the equation is:
+\[ 21 - 34 + x = 15 \]
+
+Simplify:
+\[ -13 + x = 15 \]
+
+Solve for \( x \):
+\[ x = 15 + 13 \]
+\[ x = 28 \]
+
+So, Jessica cut **28 roses** from her garden.
+
+She threw away 34 roses and cut 28 new roses.
+
+The difference is:
+\[ 34 - 28 = 6 \]
+
+**Answer:** 6",1
+"Ed had 2 more marbles than Doug. Doug lost some of his marbles at the playground. Now Ed has 19 more marbles than doug. How many marbles did Doug lose?
+Therefore, the answer (arabic numerals) is: ",17,0.7926710074,"To solve this problem, let's start by assigning variables:
+- Let **D** be the number of marbles Doug had initially.
+- Ed had **D + 2** marbles initially since he had 2 more than Doug.
+- Doug lost some marbles. Let's let **x** be the number of marbles Doug lost.
+- After losing marbles, Doug has **D - x** marbles.
+- Now, Ed has **19 more** marbles than Doug, so:
+  
+  \( \text{Ed's marbles} = \text{Doug's marbles} + 19 \)
+
+Substitute the known expressions:
+  
+  \( D + 2 = (D - x) + 19 \)
+
+Simplify and solve for **x**:
+
+1. Subtract \( D \) from both sides:
+   
+   \( 2 = -x + 19 \)
+
+2. Subtract 19 from both sides:
+   
+   \( 2 - 19 = -x \)
+
+   \( -17 = -x \)
+
+3. Multiply both sides by -1:
+   
+   \( x = 17 \)
+
+Therefore, Doug lost **17 marbles**.
+
+**Answer: 17**",1,"To solve this problem, we'll set up an equation based on the information given.
+
+Let \( D \) be the number of marbles Doug originally had. Then Ed had \( D + 2 \) marbles because Ed had 2 more than Doug.
+
+After Doug loses marbles, let's let \( L \) represent the number of marbles Doug loses. So Doug now has \( D - L \) marbles.
+
+We are told that now Ed has 19 more marbles than Doug. So:
+
+\[
+\text{Ed's marbles} - \text{Doug's remaining marbles} = 19
+\]
+
+Substitute in the expressions for Ed's and Doug's marbles:
+
+\[
+(D + 2) - (D - L) = 19
+\]
+
+Simplify:
+
+\[
+(D + 2) - D + L = 19 \\
+2 + L = 19
+\]
+
+Solve for \( L \):
+
+\[
+L = 19 - 2 \\
+L = 17
+\]
+
+**Answer:** 17",1
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day How many visited the Buckingham palace within 25 days?
+Therefore, the answer (arabic numerals) is: ",949,0.7864503048,"To solve this problem, we'll assume a linear decrease in the number of visitors over the 25 days since we have two data points:
+
+- On day 1 (the previous day in the problem), there were 703 visitors.
+- On day 25 (the day in the problem), there were 246 visitors.
+
+We can calculate the average number of visitors per day over these 25 days by taking the average of the visitors on day 1 and day 25:
+
+\[
+\text{Average visitors per day} = \frac{703 + 246}{2} = \frac{949}{2} = 474.5
+\]
+
+The total number of visitors over 25 days is then:
+
+\[
+\text{Total visitors} = \text{Average visitors per day} \times 25 = 474.5 \times 25 = 11,862.5
+\]
+
+Since we can't have half a visitor, we'll round down to the nearest whole number:
+
+\[
+\text{Total visitors} = 11,862
+\]
+
+**Answer:** 11862",0,"To solve this problem, we'll assume that the number of visitors to Buckingham Palace decreases uniformly over the 25-day period from 703 visitors on the first day to 246 visitors on the last day. This forms an arithmetic sequence where:
+
+- **First term (a₁)**: 703 visitors
+- **Last term (aₙ)**: 246 visitors
+- **Number of terms (n)**: 25 days
+
+The sum of an arithmetic sequence is given by the formula:
+
+\[
+S_n = \frac{n}{2} (a_1 + a_n)
+\]
+
+Plugging in the given values:
+
+\[
+S_{25} = \frac{25}{2} (703 + 246) = \frac{25}{2} \times 949 = 25 \times 474.5 = 11,862.5
+\]
+
+Since we can't have half a visitor, we'll round to the nearest whole number. Therefore, the total number of visitors over the 25 days is **11,863**.
+
+**Answer:** 11863",0
+"Bobby ate 28 pieces of candy. Then he ate 42 more. He also ate 63 pieces of chocolate. How many pieces of candy did Bobby eat?
+Therefore, the answer (arabic numerals) is: ",70,0.7689241297,"To find out how many pieces of **candy** Bobby ate, we add the number of pieces from both instances:
+
+1. Initially, Bobby ate **28** pieces of candy.
+2. Then, he ate **42** more pieces of candy.
+
+So, the total pieces of candy Bobby ate is:
+\[ 28 + 42 = 70 \]
+
+(Note that the 63 pieces of chocolate are **not** counted towards the candy.)
+
+**Therefore, the answer is:** 70",1,70,1
+"After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 557 visitors came to the Buckingham palace that day. If there were 188 visitors the previous day How many visited the Buckingham palace within 57 days?
+Therefore, the answer (arabic numerals) is: ",745,0.7515312471,"To solve this problem, we can assume that the number of visitors each day forms an arithmetic sequence since there is a consistent increase in visitors from one day to the next.
+
+Given:
+- Day 1: 188 visitors
+- Day 2: 557 visitors
+- Difference (Common Difference \(d\)): \(557 - 188 = 369\)
+
+Thus, the number of visitors on day \(n\) is:
+\[ V(n) = 188 + 369 \times (n - 1) \]
+
+To find the total number of visitors over 57 days, we sum the visitors from day 1 to day 57:
+\[ \text{Total Visitors} = \sum_{n=1}^{57} V(n) \]
+
+This simplifies to:
+\[ \text{Total Visitors} = 57 \times 188 + 369 \times \sum_{n=1}^{57} (n - 1) \]
+\[ \text{Total Visitors} = 57 \times 188 + 369 \times \frac{(57 - 1) \times 56}{2} \]
+
+Compute the values:
+1. \( 57 \times 188 = 10,716 \)
+2. Sum of first \( (57 - 1) = 56 \) numbers:
+\[ \sum_{k=1}^{56} k = \frac{56 \times 57}{2} = 1,596 \]
+3. \( 369 \times 1,596 = 588,924 \)
+
+Adding them up:
+\[ \text{Total Visitors} = 10,716 + 588,924 = 599,640 \]
+
+**Answer: 599640**",0,"To determine the total number of visitors to Buckingham Palace within 57 days, we'll use the information provided and make reasonable assumptions based on patterns.
+
+**Given:**
+
+- On the day Rachel visited, there were **557 visitors**.
+- The **previous day** had **188 visitors**.
+
+It appears that the visitor numbers might follow a repeating pattern every 2 days:
+
+- Day 1: 188 visitors
+- Day 2: 557 visitors
+- Day 3: 188 visitors
+- Day 4: 557 visitors
+- ...
+
+**Calculations:**
+
+1. **Determine the number of complete 2-day cycles in 57 days:**
+
+   \[
+   \text{Number of cycles} = \left\lfloor \dfrac{57}{2} \right\rfloor = 28 \text{ cycles}
+   \]
+
+2. **Calculate the total visitors in these 28 cycles:**
+
+   - Each cycle consists of 2 days with a total of \(188 + 557 = 745\) visitors.
+   - Total visitors in 28 cycles:
+
+     \[
+     28 \text{ cycles} \times 745 \text{ visitors/cycle} = 20,860 \text{ visitors}
+     \]
+
+3. **Account for the remaining day:**
+
+   - 57 days total minus 28 cycles (56 days) leaves **1 extra day**.
+   - The pattern suggests the next day should be like Day 1 (since the pattern repeats every 2 days), so we'll add the visitors from Day 1, which is **188 visitors**.
+
+4. **Calculate the grand total:**
+
+   \[
+   \text{Total visitors} = 20,860 \text{ visitors} + 188 \text{ visitors} = 21,048 \text{ visitors}
+   \]
+
+**Answer:**
+
+**21048**",0
+"Paul got a box of 521 crayons and 66 erasers for his birthday. At the end of the school year he only had 154 left while not having lost a single erasers. How many crayons had been lost or given away?
+Therefore, the answer (arabic numerals) is: ",367,0.7404844336,"To solve this problem, let's break it down step by step:
+
+1. **Initial Count:** Paul starts with 521 crayons and 66 erasers.
+   - Total initial items = 521 crayons + 66 erasers = **587 items**.
+
+2. **End of School Year Count:** At the end, he has a total of 154 items.
+   - Since he didn't lose any erasers, he still has all **66 erasers**.
+   - Therefore, the number of crayons left = Total items at the end - Erasers = 154 items - 66 erasers = **88 crayons**.
+
+3. **Crayons Lost or Given Away:** 
+   - Initial crayons = 521
+   - Crayons left = 88
+   - Crayons lost or given away = Initial crayons - Crayons left = 521 - 88 = **433 crayons**
+
+**Answer:** 433",0,"To solve this problem, we need to find out how many crayons Paul lost or gave away.
+
+1. **Initial crayons**: Paul started with **521 crayons**.
+2. **Erasers**: He had **66 erasers** and did **not** lose any.
+3. **Total items left**: At the end of the school year, Paul had **154 items** left.
+4. **Crayons left**: Since he didn't lose any erasers, the number of crayons left is:
+   \[
+   \text{Crayons left} = \text{Total items left} - \text{Erasers} = 154 - 66 = 88 \text{ crayons}
+   \]
+5. **Crayons lost or given away**: Subtract the crayons left from the initial number:
+   \[
+   \text{Crayons lost or given away} = \text{Initial crayons} - \text{Crayons left} = 521 - 88 = 433 \text{ crayons}
+   \]
+
+**Answer: 433**",0
+"Next on his checklist is wax to stick the feathers together. If he has 557 g of wax and right now he just needs 17 g Total how many grams of wax do the feathers require?
+Therefore, the answer (arabic numerals) is: ",574,0.7111727741,"To find out how many grams of wax the feathers require, we subtract the amount of wax needed right now from the total amount of wax he has:
+
+Total wax available = 557 g  
+Wax needed right now = 17 g  
+
+Wax required for feathers = Total wax available - Wax needed right now  
+Wax required for feathers = 557 g - 17 g = **540**
+
+So, the feathers require **540 grams** of wax.",0,"To solve this problem, we'll need to determine how many grams of wax are required for the feathers, given the information provided.
+
+**Given:**
+- Total wax available: **557 grams**
+- Wax needed right now (for other purposes): **17 grams**
+
+**To Find:**
+- Wax required for the feathers
+
+**Calculation:**
+
+Subtract the wax needed right now from the total wax available to find the amount of wax that will be used for the feathers.
+
+\[
+\text{Wax required for feathers} = \text{Total wax available} - \text{Wax needed right now}
+\]
+\[
+\text{Wax required for feathers} = 557\, \text{g} - 17\, \text{g} = 540\, \text{g}
+\]
+
+**Therefore, the answer (arabic numerals) is:**
+
+\[
+\boxed{540}
+\]",0
+"Adam has 4 more apples than Jackie. Together Adam and Jackie have 14 apples. Bob has 6 apples more than Adam and Jackie together do. How many apples does Bob have?
+Therefore, the answer (arabic numerals) is: ",20,0.7089609007,"Therefore, the answer (arabic numerals) is: **20**",1,"To solve the problem, we'll translate it into algebraic equations:
+
+1. Let the number of apples Jackie has be \( x \).
+2. Then, Adam has \( x + 4 \) apples (since he has 4 more than Jackie).
+3. Together, Adam and Jackie have \( x + (x + 4) = 2x + 4 \) apples.
+4. It's given that Adam and Jackie together have 14 apples, so \( 2x + 4 = 14 \).
+5. Solve for \( x \):
+   \[ 2x + 4 = 14 \]
+   \[ 2x = 10 \]
+   \[ x = 5 \]
+6. So, Jackie has 5 apples, and Adam has \( 5 + 4 = 9 \) apples.
+7. Bob has 6 more apples than Adam and Jackie combined, so Bob has \( 14 + 6 = 20 \) apples.
+
+**Therefore, the answer (arabic numerals) is:**
+
+20",1
