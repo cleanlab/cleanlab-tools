@@ -1,8 +1,0 @@
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.9.2
-pinecone-client==5.0.1
-sentence-transformers==3.0.1
-tqdm==4.66.5
-ipython==8.18.1
-cleanlab-studio==2.2.1
