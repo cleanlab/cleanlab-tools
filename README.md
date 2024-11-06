@@ -4,9 +4,10 @@ Miscellaneous cookbooks and code made available for purposes of education, repro
 
 | Example                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| [TLM-Demo-Notebook](TLM-Demo-Notebook/TLM-Demo.ipynb) | A demo notebook showcasing various TLM applications
-| [TLM-PII-Detection](TLM-PII-Detection/TLM-PII-Detection.ipynb) | A demo notebook showcasing finding and removing PII with TLM
-| [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | A tutorial showcasing how Cleanlab's Trustworthy Language Model (TLM) can be used for record matching use cases. In particular, this shows how TLM can reliably match records between two different data tables, achieving higher levels of accuracy than existing methods.
+| [TLM-Demo-Notebook](TLM-Demo-Notebook/TLM-Demo.ipynb) | Showcasing various applications of the Trustworthy Language Model
+| [TLM-PII-Detection](TLM-PII-Detection/TLM-PII-Detection.ipynb) | Find and mask PII with the Trustworthy Language Model
+| [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using the Trustworthy Language Model to reliably match records between two different data tables.
+| [TLM-SimpleQA-Benchmark](TLM-SimpleQA-Benchmark/) | Benchmarking TLM and OpenAI LLMs on the SimpleQA dataset
 | [benchmarking_hallucination_metrics](benchmarking_hallucination_metrics/benchmark_hallucination_metrics.ipynb) | Notebook that compares the performance of popular hallucination detection metrics on a set of hallucination benchmarks.
 | [fine_tuning_data_curation](fine_tuning_data_curation/fine_tuning_data_curation.ipynb) | Notebook showing how to use Cleanlab TLM and Cleanlab Studio to detect bad data in instruction tuning LLM datasets.   
 | [Detecting GDPR Violations with TLM](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Notebook showing the code used to analyze application logs using TLM to detect GDPR violations                    |
@@ -18,3 +19,5 @@ Miscellaneous cookbooks and code made available for purposes of education, repro
 | [fine_tuning_mistral_beavertails](fine_tuning_mistral_beavertails/beavertails.ipynb) | Analyze human annotated AI-safety-related labels (like toxicity) using Cleanlab Studio, and thus generate safer responses from LLMs.|
 | [Evaluating_Toxicity_Datasets_Large_Language_Models](jigsaw_ai_safety_keras/Evaluating_Toxicity_Datasets_Large_Language_Models.ipynb) | Notebook on analyzing toxicity annotations in the Jigsaw dataset using Cleanlab Studio.|
 | [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb) | Notebook showing how to model time series data in a tabular format and use AutoML with Cleanlab Studio to improve out-of-sample accuracy. |
+
+https://github.com/cleanlab/cleanlab-tools/tree/main/TLM-SimpleQA-Benchmark
