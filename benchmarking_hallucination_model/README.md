@@ -1,6 +1,6 @@
-# Evaluate hallucination detection models
+# Benchmark hallucination detection models on RAG datasets
 
-This folder contains the jupyter notebooks used to evaluate 5 hallucination detection models on 5 datasets.
+This folder contains notebooks used to evaluate popular hallucination detection models on various RAG (context, question, answer) datasets.
 
 The datasets used for benchmark are:
 - [Halubench](https://huggingface.co/datasets/PatronusAI/HaluBench):
