@@ -4,7 +4,7 @@ Miscellaneous cookbooks and code made available for purposes of education, repro
 
 | Example                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| [TLM-Demo-Notebook](TLM-Demo-Notebook/TLM-Demo.ipynb) | Showcasing various applications of the Trustworthy Language Model
+| [TLM-Demo-Notebook](TLM-Demo-Notebook/TLM-Demo.ipynb) | Showcasing various applications of the Trustworthy Language Model, particularly in customer support use-cases
 | [TLM-PII-Detection](TLM-PII-Detection/TLM-PII-Detection.ipynb) | Find and mask PII with the Trustworthy Language Model
 | [Detecting GDPR Violations with TLM](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Notebook showing the code used to analyze application logs using TLM to detect GDPR violations   
 | [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using the Trustworthy Language Model to reliably match records between two different data tables.
