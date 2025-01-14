@@ -1,5 +1,5 @@
 # cleanlab-tools
-Miscellaneous cookbooks and code made available for purposes of education, reproducibility, and transparency.
+Miscellaneous cookbooks covering applications of Cleanlab products, as well as code shared for purposes of education and reproducibility/transparency.
 
 
 | Example                                                                                | Description                                                                                                                               |
