@@ -2,16 +2,20 @@
 
 This folder contains notebooks used to evaluate popular hallucination detection models on various RAG (Context, Question, LLM Response) datasets.
 
-The datasets used in the benchmark include:
+Datasets used in the benchmark include:
+- [ELI5](https://huggingface.co/datasets/explodinggradients/ELI5)
+- [FinQA](https://huggingface.co/datasets/Cleanlab/FinQA-hallucination-detection) 
 - [Halubench](https://huggingface.co/datasets/PatronusAI/HaluBench):
     - CovidQA
     - PubmedQA
     - DROP
     - FinanceBench
-- [ELI5](https://huggingface.co/datasets/explodinggradients/ELI5)
+
+We omitted the other datasets from Halubench after discovering too many annotation errors. For FinQA: we specifically used the [FinQA-hallucination-detection](https://huggingface.co/datasets/Cleanlab/FinQA-hallucination-detection) version of this dataset after discovering annotation errors and synthetic responses from [other versions](https://huggingface.co/datasets/wandb/finqa-data-processed-hallucination).
 
 
-The following table lists the models evaluated:
+
+Models compared in our benchmark include:
 
 | Notebook                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
