@@ -11,7 +11,7 @@ Datasets used in the benchmark include:
     - DROP
     - FinanceBench
 
-We omitted the other datasets from Halubench after discovering too many annotation errors. For FinQA: we specifically used the [FinQA-hallucination-detection](https://huggingface.co/datasets/Cleanlab/FinQA-hallucination-detection) version of this dataset after discovering annotation errors and synthetic responses from [other versions](https://huggingface.co/datasets/wandb/finqa-data-processed-hallucination).
+We omitted the other datasets from Halubench after discovering too many annotation errors. For FinQA: we specifically used the [FinQA-hallucination-detection](https://huggingface.co/datasets/Cleanlab/FinQA-hallucination-detection) version of this dataset, after discovering annotation errors and synthetic responses in [other versions](https://huggingface.co/datasets/wandb/finqa-data-processed-hallucination).
 
 
 
