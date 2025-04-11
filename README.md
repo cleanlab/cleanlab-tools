@@ -9,7 +9,7 @@ Cookbooks showcasing various applications of Cleanlab, as well as code shared fo
 | [tlm_call_api_directly](tlm_call_api_directly/tlm_api_directly.ipynb) | Call the TLM REST API directly. You can use any programming language (eg. Typescript) with http lib/tools by providing the necessary payload and headers. |
 | [TLM-PII-Detection](TLM-PII-Detection/TLM-PII-Detection.ipynb) | Find and mask PII with the Trustworthy Language Model |
 | [Detecting GDPR Violations with TLM](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Analyze application logs using TLM to detect GDPR violations |   
-| [Customer Support AI Agent with NeMo Guardrails](NeMo-Guardrails-Customer-Support/README.md) | Reliable customer support AI Agent with Guardrails and trustworthiness scoring |
+| [Customer Support AI Agent with NeMo Guardrails](NeMo-Guardrails-Customer-Support/README.md) | Reliable customer support AI Agent with Guardrails and trustworthiness scoring ([Nvidia Blogpost](https://developer.nvidia.com/blog/prevent-llm-hallucinations-with-the-cleanlab-trustworthy-language-model-in-nvidia-nemo-guardrails/)) |
 | [Better LLM Evals in MLFlow](TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb) | Automatically find the bad LLM responses lurking in your production logs/traces via trustworthiness scoring in MLFlow |
 | [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using the Trustworthy Language Model to reliably match records between two different data tables |
 | [TLM-SimpleQA-Benchmark](TLM-SimpleQA-Benchmark/) | Benchmarking TLM and OpenAI LLMs on the SimpleQA dataset |
