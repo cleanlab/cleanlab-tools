@@ -23,3 +23,4 @@ Cookbooks showcasing various applications of Cleanlab, as well as code shared fo
 | [fine_tuning_mistral_beavertails](fine_tuning_mistral_beavertails/beavertails.ipynb) | Analyze human annotated AI-safety-related labels (like toxicity) using Cleanlab Studio, and thus generate safer responses from LLMs |
 | [Evaluating_Toxicity_Datasets_Large_Language_Models](jigsaw_ai_safety_keras/Evaluating_Toxicity_Datasets_Large_Language_Models.ipynb) | Analyze toxicity annotations in the Jigsaw dataset using Cleanlab Studio |
 | [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb) | Model time series data in a tabular format and use AutoML with Cleanlab Studio to improve out-of-sample accuracy |
+| [tlm_vpc_demo](tlm_vpc_demo/tlm_vpc_demo.ipynb) | Demonstrating workflows to use the VPC deployment of TLM with OpenAI ChatCompletions |
