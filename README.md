@@ -1,7 +1,9 @@
 # cleanlab-tools
 
-Cookbooks showcasing various applications of Cleanlab, as well as code shared for: education, reproducibility, transparency.
+Cookbooks showcasing various applications of Cleanlab, as well as code shared for education, reproducibility, transparency.
 
+
+## Trustworthy Language Model
 
 | Example                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,16 +13,31 @@ Cookbooks showcasing various applications of Cleanlab, as well as code shared fo
 | [Detecting GDPR Violations with TLM](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Analyze application logs using TLM to detect GDPR violations |   
 | [Customer Support AI Agent with NeMo Guardrails](NeMo-Guardrails-Customer-Support/README.md) | Reliable customer support AI Agent with Guardrails and trustworthiness scoring ([Nvidia Blogpost](https://developer.nvidia.com/blog/prevent-llm-hallucinations-with-the-cleanlab-trustworthy-language-model-in-nvidia-nemo-guardrails/)) |
 | [Better LLM Evals in MLFlow](TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb) | Automatically find the bad LLM responses lurking in your production logs/traces via trustworthiness scoring in MLFlow |
+| [Trustworthy RAG with Cleanlab in LlamaIndex](https://docs.llamaindex.ai/en/stable/examples/evaluation/Cleanlab/) | Run Cleanlab in RAG apps built with LlamaIndex for real-time detection of incorrect responses and root cause analysis. |
 | [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using the Trustworthy Language Model to reliably match records between two different data tables |
+| [fine_tuning_data_curation](fine_tuning_data_curation/fine_tuning_data_curation.ipynb) | Use Cleanlab TLM and Cleanlab Studio to detect bad data in instruction tuning LLM datasets | 
+| [tlm_vpc_demo](tlm_vpc_demo/tlm_vpc_demo.ipynb) | How to use the VPC deployment of TLM with OpenAI ChatCompletions API |
+
+
+
+## Cleanlab Studio
+
+| Example                                                                                | Description                                                                                                                               |
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| [few_shot_prompt_selection](few_shot_prompt_selection/few_shot_prompt_selection.ipynb) | Clean the pool of few-shot examples to improve prompt template for OpenAI LLM |
+| [fine_tuning_classification](fine_tuning_classification/fine_tuning_LLM_with_noisy_labels.ipynb) | Use Cleanlab Studio to improve the accuracy of fine-tuned LLMs for classification tasks |
+| [fine_tuning_mistral_beavertails](fine_tuning_mistral_beavertails/beavertails.ipynb) | Analyze human annotated AI-safety-related labels (like toxicity) using Cleanlab Studio, and thus generate safer responses from LLMs |
+| [Evaluating_Toxicity_Datasets_Large_Language_Models](jigsaw_ai_safety_keras/Evaluating_Toxicity_Datasets_Large_Language_Models.ipynb) | Analyze toxicity annotations in the Jigsaw dataset using Cleanlab Studio |
+| [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb) | Model time series data in a tabular format and use Cleanlab Studio AutoML to achieve high prediction accuracy |
+
+
+
+## Miscellaneous Code
+
+| Example                                                                                | Description                                                                                                                               |
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | [TLM-SimpleQA-Benchmark](TLM-SimpleQA-Benchmark/) | Benchmarking TLM and OpenAI LLMs on the SimpleQA dataset |
 | [benchmarking_hallucination_metrics](benchmarking_hallucination_metrics/benchmark_hallucination_metrics.ipynb) | Evaluate the performance of popular real-time hallucination detection methods on RAG benchmarks |
 | [benchmarking_hallucination_model](benchmarking_hallucination_model/README.md) | Evaluate the performance of popular hallucination detection models on RAG benchmarks |  
-| [fine_tuning_data_curation](fine_tuning_data_curation/fine_tuning_data_curation.ipynb) | Use Cleanlab TLM and Cleanlab Studio to detect bad data in instruction tuning LLM datasets | 
-| [few_shot_prompt_selection](few_shot_prompt_selection/few_shot_prompt_selection.ipynb) | Clean the pool of few-shot examples to improve prompt template for OpenAI LLM |
-| [fine_tuning_classification](fine_tuning_classification/fine_tuning_LLM_with_noisy_labels.ipynb) | Use Cleanlab Studio to improve the accuracy of fine-tuned LLMs for classification tasks |
-| [generate_llm_response](generate_llm_response/generate_llm_response.ipynb)             | Generate LLM responses for customer service requests using Llama 2 and OpenAI's API |
 | [gpt4-rag-logprobs](gpt4-rag-logprobs/gpt4-rag-logprobs.ipynb) | Obtaining logprobs from a GPT-4 based RAG system |
-| [fine_tuning_mistral_beavertails](fine_tuning_mistral_beavertails/beavertails.ipynb) | Analyze human annotated AI-safety-related labels (like toxicity) using Cleanlab Studio, and thus generate safer responses from LLMs |
-| [Evaluating_Toxicity_Datasets_Large_Language_Models](jigsaw_ai_safety_keras/Evaluating_Toxicity_Datasets_Large_Language_Models.ipynb) | Analyze toxicity annotations in the Jigsaw dataset using Cleanlab Studio |
-| [time_series_automl](time_series_automl/cleanlab_time_series_automl.ipynb) | Model time series data in a tabular format and use AutoML with Cleanlab Studio to improve out-of-sample accuracy |
-| [tlm_vpc_demo](tlm_vpc_demo/tlm_vpc_demo.ipynb) | Demonstrating workflows to use the VPC deployment of TLM with OpenAI ChatCompletions |
+| [generate_llm_response](generate_llm_response/generate_llm_response.ipynb)             | Generate LLM responses for customer service requests using Llama 2 and OpenAI's API |
