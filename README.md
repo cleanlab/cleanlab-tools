@@ -16,7 +16,6 @@ Cookbooks showcasing various applications of Cleanlab, as well as code shared fo
 | [Trustworthy RAG with Cleanlab in LlamaIndex](https://docs.llamaindex.ai/en/stable/examples/evaluation/Cleanlab/) | Run Cleanlab in RAG apps built with LlamaIndex for real-time detection of incorrect responses and root cause analysis. |
 | [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using the Trustworthy Language Model to reliably match records between two different data tables |
 | [fine_tuning_data_curation](fine_tuning_data_curation/fine_tuning_data_curation.ipynb) | Use Cleanlab TLM and Cleanlab Studio to detect bad data in instruction tuning LLM datasets | 
-| [tlm_vpc_demo](tlm_vpc_demo/tlm_vpc_demo.ipynb) | How to use the VPC deployment of TLM with OpenAI ChatCompletions API |
 
 
 
