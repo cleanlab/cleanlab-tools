@@ -3,7 +3,7 @@
 Cookbooks showcasing various applications of Cleanlab, as well as code shared for education, reproducibility, transparency.
 
 
-## Trustworthy Language Model
+## Detecting LLM Errors with Cleanlab's Trustworthy Language Model
 
 | Example                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@ Cookbooks showcasing various applications of Cleanlab, as well as code shared fo
 
 
 
-## Cleanlab Studio
+## Data Curation with Cleanlab Studio
 
 | Example                                                                                | Description                                                                                                                               |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
