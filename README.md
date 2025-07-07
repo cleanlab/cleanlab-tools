@@ -13,7 +13,8 @@ Cookbooks showcasing various applications of Cleanlab, as well as code shared fo
 | [Detecting GDPR Violations with TLM](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Analyze application logs using TLM to detect GDPR violations |   
 | [Customer Support AI Agent with NeMo Guardrails](NeMo-Guardrails-Customer-Support/README.md) | Reliable customer support AI Agent with Guardrails and trustworthiness scoring ([Nvidia Blogpost](https://developer.nvidia.com/blog/prevent-llm-hallucinations-with-the-cleanlab-trustworthy-language-model-in-nvidia-nemo-guardrails/)) |
 | [Better LLM Evals in MLFlow](TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb) | Automatically find the bad LLM responses lurking in your production logs/traces via trustworthiness scoring in MLFlow |
-| [Trustworthy RAG with Cleanlab in LlamaIndex](https://docs.llamaindex.ai/en/stable/examples/evaluation/Cleanlab/) | Run Cleanlab in RAG apps built with LlamaIndex for real-time detection of incorrect responses and root cause analysis. |
+| [Trustworthy RAG with LlamaIndex](https://docs.llamaindex.ai/en/stable/examples/evaluation/Cleanlab/) | Run Cleanlab in RAG apps built with LlamaIndex for real-time detection of incorrect responses and root cause analysis. |
+| [Trustworthy RAG with MongoDB](trustworthyRAG_mongodb_cleanlab.ipynb) | Run Cleanlab in RAG apps built with MongoDB for real-time detection of incorrect responses and root cause analysis. |
 | [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using the Trustworthy Language Model to reliably match records between two different data tables |
 | [fine_tuning_data_curation](fine_tuning_data_curation/fine_tuning_data_curation.ipynb) | Use Cleanlab TLM and Cleanlab Studio to detect bad data in instruction tuning LLM datasets | 
 
