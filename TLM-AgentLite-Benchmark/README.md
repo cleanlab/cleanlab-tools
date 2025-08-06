@@ -6,3 +6,4 @@ Go to [TrustworthyAgentLite](https://github.com/cleanlab/TrustworthyAgentLite)(o
 
 - Use the `grade_agent_responses.ipynb` notebook to grade the agents' responses using a modified version of OpenAI's SimpleQA grading template.
 - Use the `plot_agent_performance.ipynb` notebook to reproduce the plots in our blog post.
+- Use the `self_eval.ipynb` notebook to get baseline LLM-as-a-judge results.
