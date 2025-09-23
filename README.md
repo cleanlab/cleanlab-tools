@@ -15,7 +15,8 @@ Cookbooks showcasing various applications of Cleanlab, as well as code shared fo
 | [Better LLM Evals in MLFlow](TLM-MLflow-Integration/evaluating_traces_TLM_mlflow_dl.ipynb) | Automatically find the bad LLM responses lurking in your production logs/traces via trustworthiness scoring in MLFlow |
 | [TLM-PII-Detection](TLM-PII-Detection/TLM-PII-Detection.ipynb) | Find and mask PII with the Trustworthy Language Model |
 | [Detecting GDPR Violations with TLM](gdpr_tlm_blog_post/gdpr_tlm_blog_post.ipynb) | Analyze application logs using TLM to detect GDPR violations |   
-| [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using the Trustworthy Language Model to reliably match records between two different data tables |
+| [TLM-Record-Matching](TLM-Record-Matching/data_enrichment_record_matching_tutorial.ipynb) | Using TLM to reliably match records between two different data tables |
+| [TLM-RAG-Data-Curation](TLM-RAG-Data-Curation/tlm_data_curation_for_reliable_rag.ipynb) | Data Curation/Tagging for RAG with TLM [and Pinecone](https://www.pinecone.io/learn/building-reliable-curated-accurate-rag/) |
 | [fine_tuning_data_curation](fine_tuning_data_curation/fine_tuning_data_curation.ipynb) | Automatically detect bad data in instruction-tuning (LLM fine-tuning) datasets | 
 
 
